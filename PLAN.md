@@ -4,7 +4,7 @@ How [IDEA.md](IDEA.md) becomes a published novel. Tasks for the current mileston
 
 ## Current milestone
 
-**Iteration 2 of 4 complete; awaiting the author's review before iteration 3** (draft chapters 29–42).
+**Iteration 3 of 4** (see Iteration plan): draft act II, second half, chapters 29–42, to the all-is-lost moment.
 
 ## Milestones
 

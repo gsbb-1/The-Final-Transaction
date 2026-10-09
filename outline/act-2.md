@@ -179,7 +179,7 @@ Jonas, Priya from a hospital bed, Pryce and Al-Mansouri's London team design the
 
 ### 37. No — #1418, Sunday — Caroline Strand
 
-Jonas and Al-Mansouri put the plan to Strand in person. She says no. A state publicly blamed for the sinking buying British institutions, indemnified by the taxpayer, three weeks before an election, on the word of a man wanted by the police. She says it is not politics, it is prudence. It is politics.
+Jonas and Al-Mansouri put the plan to Strand in person. She says no. A state publicly blamed for the sinking buying British institutions, indemnified by the taxpayer, two and a half weeks before an election, on the word of a man wanted by the police. She says it is not politics, it is prudence. It is politics.
 
 - **Purpose:** the door closes.
 

@@ -7,7 +7,8 @@ Chapters 43 to 55, about pages 300 to 400. Written by an agent on 2026-10-09 at 
 | Entries | Day | Chapters | Movement |
 | --- | --- | --- | --- |
 | #1421 | Wednesday, week 4 | 43–50 | The broadcast, the signature, the night, the open |
-| #1422–#1424 | Thu–Sat | 51–53 | Fall and aftermath |
+| #1422–#1424 | Thu–Sat | 51–52 | Fall and aftermath |
+| #1437 | Thursday, two weeks later | 53 | Polling day |
 | #1500 | About three months later | 54–55 | The end of the record |
 
 Act III runs almost entirely on one day. Chapters are shorter and faster than in act II.
@@ -68,13 +69,13 @@ The fund has made a great deal of money by saving the market it was blamed for b
 
 - **Purpose:** the geopolitical thread closed; the cost of being right in his world.
 
-### 52. Polling day — #1423, Friday — Caroline Strand
+### 53. Polling day — #1437, Thursday, two weeks later — Caroline Strand
 
 Strand's party loses narrowly. She resigns as drafted. In her last interview she is asked whether she regrets ignoring the memo and says, for once, yes. She means it, which surprises her more than anyone.
 
 - **Purpose:** national politics closed; a politician tells the truth once.
 
-### 53. Statements — #1424, Saturday — Jonas
+### 52. Statements — #1424, Saturday — Jonas
 
 Jonas gives his statement to the police, who no longer want to arrest him and are not sure what to do with him. Priya is offered a job by the Bank and asks for the weekend to think, which is his line and they both know it. Pryce has retired to Suffolk. Kessler meets Jonas on a bench and tells him she has closed her firm. She asks what he is going to do with the notebooks, which have been returned as evidence. He says he is going to finish them.
 
@@ -98,10 +99,10 @@ The final entry. Short. He does not count the years this time. He writes what he
 | --- | --- |
 | What "the final transaction" is | 49, 55 |
 | Who sank the tanker, and Crane's part | 43, 50, 51 |
-| Priya | 45, 53 |
-| Kessler | 53 |
-| Pryce | 45, 53 |
-| Strand | 44, 52 |
+| Priya | 45, 52 |
+| Kessler | 52 |
+| Pryce | 45, 52 |
+| Strand | 44, 53 |
 | Al-Mansouri | 51 |
 | Laura and Jonas | 54 |
 | The "life lesson" | 40, 55 |

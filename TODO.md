@@ -2,20 +2,19 @@
 
 Ordered by priority, top first. Milestones are defined in [PLAN.md](PLAN.md).
 
-## Now — Iteration 2
+## Now — Iteration 3
 
-- [ ] Author: review the chapter 1 expansion and the items left in `notes/act-2-consistency-check.md`
-- [ ] Author review of act I as revised, act II first half, and the decisions P1–P5
+- [ ] Draft chapters 29–42 (act II, second half, to the all-is-lost moment) (subagents, in progress)
+- [ ] Consistency check of chapters 1–42; audit reveals against the plan; update the ledger
+- [ ] Author: review the chapter 1 expansion, chapters 15–42, and the items left in `notes/act-2-consistency-check.md`
 
-## Next — Iteration 3
+## Next — Iteration 4
 
-- [ ] Draft chapters 29–42 (act II, second half, to the all-is-lost moment)
-- [ ] Consistency check; audit reveals against the plan
+- [ ] Draft chapters 43–55 (act III); whole-book consistency pass; fix high-severity findings; tag `draft-1`
 - [ ] Name the audience and three to five comparable titles in `IDEA.md`
 
 ## Later
 
-- [ ] Iteration 4: draft chapters 43–55 (act III); whole-book consistency pass; tag `draft-1`
 - [ ] M3: Read the full draft through and revise structure, pacing and character arcs
 - [ ] M4: Recruit beta readers, including one with finance expertise
 - [ ] M5: Line edit, copyedit and proofread
