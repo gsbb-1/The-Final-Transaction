@@ -1,8 +1,6 @@
 <!-- DRAFT: written by agent on 2026-10-09, revised 2026-10-09 after research, for the author's review. Not canon until accepted. -->
 # Chapter 10: The memo
 
-#1403
-
 Graham rang at 11.10am. Saturday. He has never rung me on a Saturday.
 
 'They want you at the Treasury at four. Horse Guards Road. Bring your pass. Bring nothing else.'

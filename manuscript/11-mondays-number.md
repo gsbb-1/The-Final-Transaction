@@ -1,8 +1,6 @@
 <!-- DRAFT: written by agent on 2026-10-09, revised 2026-10-09 after research, for the author's review. Not canon until accepted. -->
 # Chapter 11: Monday's number
 
-#1404
-
 I asked for the night. I was given it. This is what it was worth.
 
 Slept 1.10 to 5.40. Lay still until Elsie started at 6.05, so that Laura could have the half hour. Made the bottle. Sat on the kitchen floor and watched Elsie post a wooden ring into a saucepan and take it out again. 23 times. She did not tire of it. I envied her that.

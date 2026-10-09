@@ -1,8 +1,6 @@
 <!-- DRAFT: written by agent on 2026-10-09, revised 2026-10-09 after research, for the author's review. Not canon until accepted. -->
 # Chapter 14: The open
 
-#1405
-
 Monday. Written in sittings, at a café table and then a bench, not a desk. First time in 1,405 entries. The handwriting will show it.
 
 I did not sign.

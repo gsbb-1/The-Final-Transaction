@@ -1,8 +1,6 @@
 <!-- DRAFT: written by agent on 2026-10-09, revised 2026-10-09 after research, for the author's review. Not canon until accepted. -->
 # Chapter 8: The study
 
-#1402
-
 The room had no screens. Visitors noticed, and Sebastian Crane enjoyed watching them notice: the glance to the walls, the second glance, the small adjustment as they understood that the man who ran Greywether Capital did not look at prices. There were two chairs, a desk with nothing on it but a telephone and a fountain pen, and a window onto a street in Mayfair quiet enough that he could hear a parking warden's shoes. Prices were for the floor below. He paid 31 people to watch them. He had found, over 25 years, that people who watched prices all day could not see them at all.
 
 The telephone rang at 4.55pm and he let it ring twice.

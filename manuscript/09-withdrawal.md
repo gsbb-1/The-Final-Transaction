@@ -1,8 +1,6 @@
 <!-- DRAFT: written by agent on 2026-10-09, revised 2026-10-09 after research, for the author's review. Not canon until accepted. -->
 # Chapter 9: Withdrawal
 
-#1403
-
 Khalid Al-Mansouri had slept for two hours and did not feel the want of it. He had been in the room the staff called the bridge since five, and he had not been alone in it. The Western news channels ran on the far wall with the sound off, and he found he could follow them well enough from the maps and the faces. The map was the same on all of them: the Strait, a red mark where the tanker had gone down, and to one side a coastline he had grown up looking at from the other direction. The faces changed. Overnight a senator in Washington had used the word "freeze". A British minister had said that no option was ruled out, and the woman who hoped to replace her in five weeks had said that was not good enough. By the time the sun was fully up, a man on an American business channel was explaining to his viewers how much of the British government's debt was owned by "the regime", and getting the figure wrong by a third.
 
 His own government had not sunk the tanker. He had asked, through the channels one asks, and been told no. He had been told no before about things that turned out to be yes. But the men who told him this time had been frightened, and in his experience frightened men were rarely lying. It was possible they were wrong. He set that aside. It changed nothing he had to do today.

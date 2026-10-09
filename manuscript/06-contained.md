@@ -1,8 +1,6 @@
 <!-- DRAFT: written by agent on 2026-10-09, revised 2026-10-09 after research, for the author's review. Not canon until accepted. -->
 # Chapter 6: Contained
 
-#1402
-
 Writing this in sittings. The morning first, and then the record. The rest of the day can wait until I have these down in order, because the rest of the day is why I went to Lewisham on the way home instead of coming straight back, and I want the numbers on the page before I write about the people.
 
 Woke at 4.40. Not the alarm. The phone, face down on the bedside table, lighting the ceiling. Three messages from the night desk, one from Priya. Priya's said: *Have you seen.*

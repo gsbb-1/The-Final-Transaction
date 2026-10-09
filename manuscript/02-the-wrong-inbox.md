@@ -1,8 +1,6 @@
 <!-- DRAFT: written by agent on 2026-10-09, revised 2026-10-09 after research, for the author's review. Not canon until accepted. -->
 # Chapter 2: The wrong inbox
 
-#1400
-
 The alert was waiting for Graham Pryce when he sat down at 7.35, under the overnight summary and above a note from facilities about the lifts. He read the facilities note first.
 
 *Communications surveillance. Item held for review. Policy: inbound personal, risk-grade staff, client identifier match. Reviewer: surveillance analyst 2. Escalated: Head of Compliance, 07.19. Referred for business view: G. Pryce, 07.28.*

@@ -1,8 +1,6 @@
 <!-- DRAFT: written by agent on 2026-10-09, revised 2026-10-09 after research, for the author's review. Not canon until accepted. -->
 # Chapter 3: Forty
 
-#1400
-
 Forty. 14,610 days, counting the leap years. 1,400 of them in here.
 
 Elsie did not sleep. That is the entry. The rest is what happened round it.

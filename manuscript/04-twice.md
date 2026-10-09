@@ -1,8 +1,6 @@
 <!-- DRAFT: written by agent on 2026-10-09, revised 2026-10-09 after research, for the author's review. Not canon until accepted. -->
 # Chapter 4: Twice
 
-#1401
-
 Thursday. Ordinary. I am writing that down because I want it on the page before whatever comes after it.
 
 Up at 6. Elsie slept through, the first time in nine nights, and we lay in the dark not saying so in case it heard. Photographed last night's page. Checked the address. Checked it again. Sent it to myself and watched it arrive.

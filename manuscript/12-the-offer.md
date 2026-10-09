@@ -1,8 +1,6 @@
 <!-- DRAFT: written by agent on 2026-10-09, revised 2026-10-09 after research, for the author's review. Not canon until accepted. -->
 # Chapter 12: The offer
 
-#1404
-
 She crossed the road when I reached the pavement. Not quickly. She finished the coffee and put the cup in the bin on the corner first.
 
 'Mr Whitlock. My name is Dana Kessler.' She did not offer a hand and did not offer a card, not then. 'I'd like ten minutes. There's a café on the corner, or we can walk. I think you'd rather walk.'

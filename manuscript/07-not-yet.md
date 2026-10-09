@@ -1,8 +1,6 @@
 <!-- DRAFT: written by agent on 2026-10-09, revised 2026-10-09 after research, for the author's review. Not canon until accepted. -->
 # Chapter 7: Not yet
 
-#1402
-
 Second sitting. Past eleven. Laura has gone up. The people now.
 
 After Haldane's handshake I went back to my desk and I did what I should have done at nine. I pulled the morning apart.

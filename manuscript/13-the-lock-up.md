@@ -1,8 +1,6 @@
 <!-- DRAFT: written by agent on 2026-10-09, revised 2026-10-09 after research, for the author's review. Not canon until accepted. -->
 # Chapter 13: The lock-up
 
-#1404
-
 Top deck of a 47, going north. 11.48pm. The bag is between my feet with a foot through each strap. My left trouser leg is wet to the knee, the right knee is torn, and the back of my hand is bleeding. I am writing the rest of the day because it is the only part that matters, and because if I stop writing I will have to think. <!-- VERIFY: route 47 (Catford–Shoreditch via Deptford, London Bridge) is 24-hour -->
 
 Laura came back at 5.10. The bag was on the bed. I had put it away once and taken it out again.

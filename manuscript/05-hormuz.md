@@ -1,8 +1,6 @@
 <!-- DRAFT: written by agent on 2026-10-09, revised 2026-10-09 after research, for the author's review. Not canon until accepted. -->
 # Chapter 5: Hormuz
 
-#1401
-
 The telephone beside the bed did not ring. It had been chosen for that. It lit, and the light was enough.
 
 Khalid Al-Mansouri was awake before he had read the name on the screen. It was 2.52 in the morning. He had been asleep for a little over two hours, and in the first second of waking he knew, as he had known on perhaps four other nights in his life, that the day had already started without him.
