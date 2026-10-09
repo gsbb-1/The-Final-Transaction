@@ -4,7 +4,7 @@ Ordered by priority, top first. Milestones are defined in [PLAN.md](PLAN.md).
 
 ## Now — Iteration 1
 
-- [ ] Consistency check of act I; update `outline/continuity.md` with facts the drafts establish
+- [ ] Apply or reject the low-severity findings left in `notes/act-1-consistency-check.md`
 - [ ] Author review of act I, the cast and the acts II–III outline; notes for iteration 2
 - [ ] Research the items in `research/to-verify.md`; record answers in `research/` and amend the chapters
 
@@ -26,6 +26,7 @@ Ordered by priority, top first. Milestones are defined in [PLAN.md](PLAN.md).
 
 ## Done
 
+- [x] Consistency check of act I; high and medium findings fixed; ledger updated (2026-10-09)
 - [x] Draft chapters 2–14 by subagents, about 24,000 words; collect VERIFY notes in `research/to-verify.md` (2026-10-09)
 - [x] Outline acts II and III; record the decisions they rest on in `notes/act-2-3-decisions.md` (2026-10-09)
 - [x] Set the four-iteration plan and the style guide (2026-10-09)
