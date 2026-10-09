@@ -11,7 +11,7 @@ Nine o'clock, the call box on the Kentish Town Road, Margaret's landline, as eve
 
 Then eight hours. Calloway could not leave the paper before five on a day when a second member was wobbling on every screen in the building, the car had to be in his name, and I was not going to stand on a platform at King's Cross in daylight with the rucksack on. Good reasons. I sat behind the curtains and counted them and would have given every one away to be on a train.
 
-Calloway hired the car. His name, his card, his licence, a branch on the Kentish Town Road. If Kessler still has someone on his door, they saw a hire car leave with two men in it, and I have decided not to think about that until I have to. At 4.50 Priya said, 'Go. We've got the page. I can copy a page.' Then: 'She's right, you know. Whatever she said.' She did not know what Laura had said. She did not need to.
+While we waited for five, Calloway asked to photograph the first page of the Treasury's copy of the memo, and I let him, with my thumb across the footer, and told him it was not yet a story. Calloway hired the car. His name, his card, his licence, a branch on the Kentish Town Road. If Kessler still has someone on his door, they saw a hire car leave with two men in it, and I have decided not to think about that until I have to. At 4.50 Priya said, 'Go. We've got the page. I can copy a page. The codes and the order. Not the rest; the rest is in the books and stays there.' Then: 'She's right, you know. Whatever she said.' She did not know what Laura had said. She did not need to.
 
 We left at 5.25. Calloway drove. Rucksack between my feet, a foot through each strap. He did not talk, and I watched the mirrors because he could not.
 
@@ -85,9 +85,9 @@ I did not answer quickly, and she watched me not, and I think it was the first t
 
 3.04 when I started this. 3.31 now.
 
-Here is what I know at half past three in the morning with my daughter asleep on me. A woman who does not threaten people stood in this room and did not threaten my wife, on behalf of a man I could not name on Sunday and can tonight. There are people less patient than her and I have not met them. I have rung a landline that is on every form her mother has ever filled in, every morning at nine, from the same box 200 yards from a journalist's door, and the police did not need to follow a car; they only need to ask.
+Here is what I know at half past three in the morning with my daughter asleep on me. A woman who does not threaten people stood in this room and did not threaten my wife, on behalf of a man I could not name on Sunday and can tonight. There are people less patient than her and I have not met them. I have rung a landline that is on every form her mother has ever filled in, at nine, these last two mornings from a box 200 yards from a journalist's door, and the police did not need to follow a car; they only need to ask.
 
-The map is a page, and Priya has a copy, and a journalist has asked to print it and been told not yet. Four years of not yet. Laura asked if I had ever thought of telling her and I had not. The honest record of whether I have thought of telling anyone at all is 1,408 entries and a memo.
+The map is a page, and Priya has a copy of the codes and the order and nothing else, and a journalist has asked to print it and been told not yet. Four years of not yet. Laura asked if I had ever thought of telling her and I had not. The honest record of whether I have thought of telling anyone at all is 1,408 entries and a memo.
 
 Tomorrow morning I find a call box and ring the number on Calloway's card and say the date, and when he picks up I tell him to run it. The memo, the date, the three years, and my name. Not the map; not yet; the map is the only thing that man does not have. But my name. Being right in a garage has been worth exactly nothing to the one person who asked.
 

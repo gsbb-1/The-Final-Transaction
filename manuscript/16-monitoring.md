@@ -19,7 +19,7 @@ The Governor was a careful man, which she had always respected and this week fou
 
 'And the losses, if there are losses.'
 
-'Would fall on the Bank's balance sheet, and the Bank would look to the Treasury to indemnify them, as in 2022. Which is why it is the Chancellor's decision as much as mine.' He turned to her and did it courteously. 'Chancellor.'
+'Would fall on the Bank's balance sheet, and the Bank would look to the Treasury to indemnify them, as last time. Which is why it is the Chancellor's decision as much as mine.' He turned to her and did it courteously. 'Chancellor.'
 
 She had known since Sunday that this was coming and had drafted the answer in the car. She did not use the draft. The draft had been for the Governor; this was for the minutes.
 
@@ -45,7 +45,7 @@ The Governor said that the Bank's statement would reflect the Bank's assessment,
 
 Carrow did not open his folder. He had read it in the car, and he spoke in the voice of a man reading aloud to a child who had asked for the story again.
 
-'Prime Minister. Walbrook's head of collateral risk, Whitlock. He did not sign the statement on Sunday night and he has not been in contact since. His phone has been off since about 8.30 yesterday morning. Walbrook obtained an interim injunction and an order for delivery-up of documents on Sunday evening, by telephone, from the duty judge; the order was served at his home address in Herne Hill yesterday morning. The house was empty. His wife and child left for her mother's in Norfolk on Sunday evening.' A fractional pause. 'We understand.'
+'Prime Minister. Walbrook's head of collateral risk, Whitlock. He did not sign the statement on Sunday night and he has not been in contact since. His phone has been off since yesterday morning, bar three minutes in the afternoon morning. Walbrook obtained an interim injunction and an order for delivery-up of documents on Sunday evening, by telephone, from the duty judge; the order was served at his home address in Herne Hill yesterday morning. The house was empty. His wife and child left for her mother's in Norfolk on Sunday evening.' A fractional pause. 'We understand.'
 
 'Where is he?'
 
@@ -57,7 +57,7 @@ Carrow did not look at Strand. 'Priya Raman. Senior analyst on his team. On Frid
 
 'Did she pass it to him?'
 
-'She says she sent it to the Bank of England's whistleblowing address, and to a journalist. She did not say which. The police have her phone.'
+'She said nothing in interview. The sent items on her laptop say it went to the Bank of England's whistleblowing address, and to a journalist. The police have not yet told us which.'
 
 The prime minister said, 'Christ,' quietly, and looked at Strand.
 
@@ -69,7 +69,7 @@ She let the note-taker finish typing.
 
 'I would add only that the material concerned is, on Walbrook's account, the firm's confidential information about named institutions, and that its theft, at this moment, is itself a threat to stability. Whoever has it has a list of who is weak. I would like that understood.'
 
-Twice. Both times with Walbrook's name in front of it, so that if anyone ever read the minutes aloud in a room with lawyers in it, the word would be the firm's, and she would merely have repeated what she was told. She knew it was not the charge. There was no charge. Information could not be stolen in this country; she had known that since her first year at the Bar, from a case about a student and an examination paper. <!-- VERIFY: Oxford v Moss (1978): confidential information is not property under the Theft Act 1968 --> What Walbrook had was a civil order about documents. What the police had was a computer offence against a woman who had pulled a report for her boss. What the country had was a word, and she had used it twice before eight in the morning in a room where it would be written down and kept for thirty years.
+Twice. Both times with Walbrook's name in front of it, so that if anyone ever read the minutes aloud in a room with lawyers in it, the word would be the firm's, and she would merely have repeated what she was told. She knew it was not the charge. There was no charge. Information could not be stolen in this country; she had known that since her first year at the Bar, from a case about a student and an examination paper. <!-- VERIFY: Oxford v Moss (1979): confidential information is not property under the Theft Act 1968 --> What Walbrook had was a civil order about documents. What the police had was a computer offence against a woman who had pulled a report for her boss. What the country had was a word, and she had used it twice before eight in the morning in a room where it would be written down and kept for thirty years.
 
 The prime minister said, 'All right.' He was already on the next page, which was the Gulf. 'Caroline, you're on the broadcasts at 8.15. "Monitoring."'
 

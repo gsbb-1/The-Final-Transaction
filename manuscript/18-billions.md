@@ -21,7 +21,7 @@ The club was in St James's and had the virtue of being the sort of place where t
 
 'I'm told it continues eventful.'
 
-'Richard was in with the Bank until two this morning.' Pell lowered his voice, though there was nobody within five tables. 'The default fund has taken the loss on the member. There's a second call going out intraday every time the price moves. He is, between ourselves, not entirely sure that there won't be another one by Friday.'
+'Richard was in with the Bank until two this morning.' Pell lowered his voice, though there was nobody within five tables. 'The member's margin is gone and the default fund is next. There's a second call going out intraday every time the price moves. He is, between ourselves, not entirely sure that there won't be another one by Friday.'
 
 'Another call?'
 

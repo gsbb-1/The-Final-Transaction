@@ -39,7 +39,7 @@ Rhys Calloway. Younger than his byline, older than his voice. He did not stand u
 
 He looked at the rucksack and then at me, and I saw him decide not to ask. 'Sit down. I'm going to say some things you'll hate.'
 
-'You rang the switchboard. The switchboard logs every call: number, time, who it went to. That log sits on a server with my name next to your number. I rang you back from a desk phone the paper pays for, so now your number is on a bill as well. If anyone with a warrant wants to know who Rhys Calloway has talked to this week, they don't ask me. They go to the network with a form. Twelve years ago the Met did exactly that to three reporters at another paper over a row about a bicycle and a gate, found the source without asking the reporter a question, and then did it to eighty-odd more journalists before anyone noticed. There's a judge in the way now. Judges say yes.' <!-- VERIFY: "Plebgate" (2012–14): Met obtained call records of three Sun journalists under RIPA; later reporting found forces had obtained records of about 82 journalists over three years; judicial approval required since 2015 -->
+'You rang the switchboard. The switchboard logs every call: number, time, who it went to. That log sits on a server with my name next to your number. I rang you back from a desk phone the paper pays for, so now your number is on a bill as well. If anyone with a warrant wants to know who Rhys Calloway has talked to this week, they don't ask me. They go to the network with a form. A few years back the Met did exactly that to three reporters at another paper over a row about a bicycle and a gate, found the source without asking the reporter a question, and then did it to eighty-odd more journalists before anyone noticed. There's a judge in the way now. Judges say yes.' <!-- VERIFY: "Plebgate" (2012–14): Met obtained call records of three Sun journalists under RIPA; later reporting found forces had obtained records of about 82 journalists over three years; judicial approval required since 2015 -->
 
 'I bought it for cash.'
 
@@ -53,7 +53,7 @@ I told him. A hill, four miles out.
 
 'Now. Priya.'
 
-He had an email, on paper, folded in his jacket, and he did not take it out; he told me what was in it. Sunday, 10.04am, from a personal address, four pages of figures: the number I know and will not write, the assumptions, the gap, one member short on its own. Signed with her name and job title. He had rung the number at the bottom at 11.30 and got a dead line, and every three hours since. Walbrook's press office did not comment on individuals. He had not run it.
+He had an email, on paper, folded in his jacket, and he did not take it out; he told me what was in it. Sunday, 10.07am, from a personal address, four pages of figures: the number I know and will not write, the assumptions, the gap, one member short on its own. Signed with her name and job title. He had rung the number at the bottom at 11.30 and got a dead line, and every three hours since. Walbrook's press office did not comment on individuals. He had not run it.
 
 'Why not?'
 
@@ -65,7 +65,7 @@ The second notebook. I took it out under the table and found the page without lo
 
 He read it twice. Then he took out a spiral notebook, and I said, 'No photographs,' and he said, 'I wasn't going to,' and wrote the date, the title and the sentence in shorthand, and looked at the date for a long time.
 
-'Three years and one month,' he said. 'Walbrook and the Treasury. And the Treasury did what?'
+'Three years, near enough,' he said. 'Walbrook and the Treasury. And the Treasury did what?'
 
 'Received it. Stamped it. Wrote two words on it in biro.' I did not tell him the words, or that a copy of the stamped page was in the bag a foot from his knee, with a printer's footer that says when they went and found it. One page. That was the decision.
 
@@ -89,7 +89,7 @@ He read it twice. Then he took out a spiral notebook, and I said, 'No photograph
 
 That went in and stayed in.
 
-'One more thing,' he said, when I stood. 'You can't steal information in this country. Not under the Theft Act, not under anything. A judge told a student that in 1978 and nobody's told a judge otherwise since. Walbrook's lawyers know it. What they've got is a civil order about documents, with a return date, at a hearing you're entitled to turn up to with a lawyer and argue. The word in the papers is for you. It's meant to make you feel like a man who took something. Get a lawyer before you talk to me again.' <!-- VERIFY: Oxford v Moss (1978); interim injunction granted without notice carries a return date for the respondent to be heard -->
+'One more thing,' he said, when I stood. 'You can't steal information in this country. Not under the Theft Act, not under anything. A judge told a student that in 1978 and nobody's told a judge otherwise since. Walbrook's lawyers know it. What they've got is a civil order about documents, with a return date, at a hearing you're entitled to turn up to with a lawyer and argue. The word in the papers is for you. It's meant to make you feel like a man who took something. Get a lawyer before you talk to me again.' <!-- VERIFY: Oxford v Moss (1979); interim injunction granted without notice carries a return date for the respondent to be heard -->
 
 'I don't have one.'
 

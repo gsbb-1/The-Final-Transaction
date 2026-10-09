@@ -1,7 +1,7 @@
 <!-- DRAFT: written by agent on 2026-10-09 for the author's review. Not canon until accepted. -->
 # Chapter 24: Bailout
 
-The Governor had asked for ten minutes without officials, and Caroline Strand had spent twenty-six years making sure that no conversation she took part in was ever without officials. A conversation without a note was a conversation that had not happened. That was its use, and that was its danger, and she had never before been on the side of the table that needed it.
+The Governor had asked for ten minutes without officials, and Caroline Strand had spent a career making sure that no conversation she took part in was ever without officials. A conversation without a note was a conversation that had not happened. That was its use, and that was its danger, and she had never before been on the side of the table that needed it.
 
 So she gave him the flat. Saturday, eight o'clock, the sitting room above Downing Street with the curtains half drawn, two cups of coffee that neither of them touched and a table with nothing on it. Simon Carrow was downstairs in the outer office with the Saturday papers and instructions not to come up. The Governor arrived on foot from the Treasury side, in a coat that had seen better weather, and sat where she put him, and did not take out a pen.
 
@@ -49,7 +49,7 @@ There was no record. That was the point of the flat. She found it did not help.
 
 'Two.'
 
-'Two: the Bank buys. Government bonds, outright, in size, from Monday, for as long as it takes to put a floor under the price of the thing everyone's collateral is made of. It worked four years ago. It worked because the market believed we would not stop. I may lose money doing it. It is not my money to lose. So I need your indemnity, in writing, before I do it.' <!-- VERIFY: the Treasury indemnified the Bank's September 2022 gilt purchases; the mechanism is as research/swaps-and-clearing.md §5 describes -->
+'Two: the Bank buys. Government bonds, outright, in size, from Monday, for as long as it takes to put a floor under the price of the thing everyone's collateral is made of. It worked last time. It worked because the market believed we would not stop. I may lose money doing it. It is not my money to lose. So I need your indemnity, in writing, before I do it.' <!-- VERIFY: the Treasury indemnified the Bank's September 2022 gilt purchases; the mechanism is as research/swaps-and-clearing.md §5 describes -->
 
 'And I said no on Tuesday.'
 

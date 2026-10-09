@@ -4,9 +4,8 @@ Ordered by priority, top first. Milestones are defined in [PLAN.md](PLAN.md).
 
 ## Now — Iteration 2
 
-- [ ] Revise act I: apply P1–P5 and F1–F12 from `research/corrections-from-research.md` and the low-severity findings (subagents, in progress)
-- [ ] Draft chapters 15–28 (act II, first half, to the midpoint)
-- [ ] Consistency check of chapters 1–28; update the ledger
+- [ ] Author: confirm whether removing the `#1399` line from chapter 1 was intended (chapters 2, 3, 7 and every chapter heading depend on it)
+- [ ] Author: decide the entry-number-line convention (finding 29 in `notes/act-2-consistency-check.md`) and the other items left there
 - [ ] Author review of act I as revised, act II first half, and the decisions P1–P5
 
 ## Next — Iteration 3
@@ -25,6 +24,9 @@ Ordered by priority, top first. Milestones are defined in [PLAN.md](PLAN.md).
 
 ## Done
 
+- [x] Consistency check of chapters 1–28; high and medium findings fixed; ledger updated (2026-10-09)
+- [x] Draft chapters 15–28 (2026-10-09)
+- [x] Revise act I after research (2026-10-09)
 - [x] Decide P1–P5 from the research, for suspense and continuity (2026-10-09)
 - [x] Apply or reject the low-severity findings from the act I check: all applied in the iteration 2 revision (2026-10-09)
 - [x] Background research: swaps and clearing, cybersecurity, information security; corrections consolidated (2026-10-09)

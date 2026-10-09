@@ -13,7 +13,7 @@ A long room, a table under the window with the park going dark behind it and Par
 
 He turned the first pile round to face me. Trade confirmations, a dozen pages, the counterparty names blacked out properly. Dates down the left-hand side. I read dates for a living. I saw it before he said it.
 
-'My cousin's name is Faisal. He runs a private office at home for a part of my family. Not a large one. Three weeks ago it became large. These are its trades, from eleven days before a ship sank in the Strait. Oil, bought. My own country's currency, sold forward. British government bonds, sold, through two intermediaries, in size. Freight. Insurers. Everything a man would do if he knew that on a certain night the Strait would close and nobody would know why.'
+'My cousin's name is Faisal. He runs a private office at home for a part of my family. Not a large one. Three weeks ago it became large. These are its trades, from nine days before a ship sank in the Strait. Oil, bought. My own country's currency, sold forward. British government bonds, sold, through two intermediaries, in size. Freight. Insurers. Everything a man would do if he knew that on a certain night the Strait would close and nobody would know why.'
 
 I asked who the counterparty was.
 
@@ -71,7 +71,7 @@ She had taken the chair at the far end of the lobby at 6.40, with its back to th
 
 She had watched him come in at 6.52 with the bag on both shoulders. She had watched the chief of staff refuse it, which she had not expected, and had felt the small cold pleasure of a plan improving itself. Then she had read the number off the stub as the girl held the book to the light to tear it straight; Kessler had chosen the chair for the light. Sixty-three.
 
-Ten minutes earlier the first of her two men had checked an umbrella, received 61, and photographed both sides of it. She had sent the pictures to the office at 6.55 with one line. The office had the card stock already: on Monday afternoon her people had watched him walk into an office in St James's, and she had decided that a man wanted by the police would meet a sovereign fund in one of four hotels, and had had a coat checked at each. The third member of her firm, the one she did not use on the street, had a very expensive printer and no curiosity. The cab took 38 minutes; the ticket in it had taken 14 to make. She timed things.
+Ten minutes earlier the first of her two men had checked an umbrella, received 61, and photographed both sides of it. She had sent the pictures to the office at 6.55 with one line, and the number at seven. The office had the card stock already: on Monday morning her people had watched him walk into an office in St James's, and she had decided that a man wanted by the police would meet a sovereign fund in one of four hotels, and had had a coat checked at each. The third member of her firm, the one she did not use on the street, had a very expensive printer and no curiosity. The cab took 38 minutes; the ticket in it had taken 14 to make. She timed things.
 
 At 8.12 her second man, in a good coat that was not his, walked to the cloakroom with 63 in his hand and said, before he was asked, that it was the black rucksack, the old one, he was afraid, and the girl laughed and said it was the only rucksack she had taken all night. He tipped her, and went out through the revolving door with four years of another man's evenings on his shoulder and did not look at the chair by the window, because he had been told not to.
 

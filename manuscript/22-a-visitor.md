@@ -31,7 +31,7 @@ Laura took the chain off. She would think afterwards about why, and conclude tha
 
 Kessler stood where Laura put her, by the door to the hall, and did not sit, and did not look round the kitchen the way a stranger does. She looked at Laura. Once, when Elsie dropped a ring on the tiles, her eyes went down and came back, and stayed back.
 
-'Your husband has something that doesn't belong to him,' she said. 'I act for a client who would like it returned, and who has been patient. I want to be accurate about that word. He has been patient for six days and he was offered a very reasonable alternative to patience on Sunday, and he declined it. I've come to tell you two things. The first is that the offer could, with some difficulty, be revived. I'd be prepared to try.'
+'Your husband has something that doesn't belong to him,' she said. 'I act for a client who would like it returned, and who has been patient. I want to be accurate about that word. He has been patient for the best part of a week and he was offered a very reasonable alternative to patience on Sunday, and he declined it. I've come to tell you two things. The first is that the offer could, with some difficulty, be revived. I'd be prepared to try.'
 
 'And the second.'
 

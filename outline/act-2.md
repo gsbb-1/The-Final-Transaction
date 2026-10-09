@@ -35,7 +35,7 @@ Kessler's 4.30 deadline passes while he is still reading; he lets it. A hotel ne
 
 ### 16. Monitoring — #1406, Tuesday — Caroline Strand
 
-Cabinet Office briefing room. The prime minister, who needs her and would drop her within the hour. The Bank wants to buy bonds to steady the market; Strand blocks it: a bailout four weeks before polling day. Simon Carrow reports that the Walbrook analyst, Raman, was held overnight on a Computer Misuse complaint (the member report pulled under her login on Friday after Whitlock's access was cut) and released this morning under investigation; the risk manager is still loose; Walbrook's civil order is served on his home address. Strand does not ask who wrote to the police. Carrow did, on Sunday. She says the word "theft" twice so that it will be in the minutes, though she knows it is not the charge.
+Cabinet Office briefing room. The prime minister, who needs her and would drop her within the hour. The Bank wants to buy bonds to steady the market; Strand blocks it: a bailout four weeks before polling day. Simon Carrow reports that the Walbrook analyst, Raman, was held overnight Sunday to Monday on a Computer Misuse complaint (the member report pulled under her login on Friday after Whitlock's access was cut) and released Monday morning under investigation; the risk manager is still loose; Walbrook's civil order is served on his home address. Strand does not ask who wrote to the police. Carrow did, on Sunday. She says the word "theft" twice so that it will be in the minutes, though she knows it is not the charge.
 
 - **Purpose:** the state becomes the hunter, with a politician's deniability.
 - **Pays off:** what happened to Priya, for the reader. Jonas still does not know.
@@ -77,7 +77,7 @@ In Calloway's flat, Jonas and Priya turn four years of entries into one page: tw
 
 ### 22. A visitor — #1409, Friday — Laura
 
-Norfolk. A grey car at the end of the lane for the second day. A woman knocks, introduces herself as Dana Kessler, and is courteous. She does not threaten. She says that Jonas has something that does not belong to him and that there are people less patient than her client. She leaves a card. Laura, who deals with frightened people for a living, recognises that she has just been frightened by a professional. She rings Jonas and says: come here, now, or I am going to the police myself.
+Norfolk. A grey car at the end of the lane for the second day. A woman knocks, introduces herself as Dana Kessler, and is courteous. She does not threaten. She says that Jonas has something that does not belong to him and that there are people less patient than her client. She leaves a card. Laura, who deals with frightened people for a living, recognises that she has just been frightened by a professional. She rings Jonas and, when his daily 9am call comes through on Margaret's landline (as drafted: he has no phone of his own that rings Norfolk), says: come here, now, or I am going to the police myself.
 
 - **Purpose:** the family under pressure; Laura stops being passive.
 - **Opens:** whether Kessler will cross her own line.
@@ -137,7 +137,7 @@ Crane reads the notebooks in his room with no screens. He has the twelve names a
 
 ### 30. In his head — #1414, Wednesday — Jonas
 
-The worst entry he has written, on a borrowed pad. Priya finds him. She says: you wrote it; you have read it a hundred times; it is in your head. They start rebuilding the map from memory and from her paper figures. It is slow. They need Walbrook's internal data to be sure.
+The worst entry he has written, on a borrowed pad. Priya finds him. Her copy of the one-page map (ch. 23) is the twelve codes and the order, nothing else: the holdings, the dates and the four years of evidence behind each name went with the notebooks, and a page of codes proves nothing to a central bank. She says: you wrote it; you have read it a hundred times; it is in your head. They start rebuilding the map from memory and from her paper figures. It is slow. They need Walbrook's internal data to be sure.
 
 - **Purpose:** the low after the midpoint; the way back is work.
 

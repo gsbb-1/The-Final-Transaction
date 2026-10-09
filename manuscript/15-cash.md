@@ -9,7 +9,7 @@ So the offer is not an offer. She said so, and she is a woman whose sentences co
 
 ***
 
-Cash first. £300 from a machine on a street I am not naming, at 3.40: the daily limit, and a mark on a map for anyone who asks the bank. <!-- VERIFY: typical UK daily ATM withdrawal limit £300–500 --> I knew that when I put the card in. Then I walked for an hour in the wrong direction before I turned round. It felt less like a film than like being late.
+Cash first. £300 from a machine on a street I am not naming, at 3.40: the daily limit, and a mark on a map for anyone who asks the bank. <!-- VERIFY: typical UK daily ATM withdrawal limit £300–500 --> I knew that when I put the card in. Then I walked for twenty minutes in the wrong direction before I turned round. It felt less like a film than like being late.
 
 Then the phone. Not mine; mine is in the napkin in the inside pocket and it is staying there. A shop on the road up from the station sold me a phone with buttons and a SIM for £31 in notes and asked for nothing. No name. No card. I have known for twenty years that you can buy a telephone in this country without saying who you are and had never once thought about what that was for. <!-- VERIFY: UK pay-as-you-go SIMs require no identity registration -->
 
@@ -63,7 +63,7 @@ Nothing for a count of two. Then: 'Where are you?'
 
 'I rang at 8.31. Nobody—'
 
-'We were in the garden. Mum doesn't hear the phone from the garden and mine was on the kitchen table because I had been up since five with your daughter and put it down for ten minutes. Ten minutes, Jonas. In four years.'
+'I was on my mobile to the police, Jonas. Your call came in on top of it and I let it ring. Mum was in the garden, and she doesn't hear the phone from the garden. In four years.'
 
 I did not say anything. She was not finished, and I have learned this week what it sounds like when someone is not finished.
 

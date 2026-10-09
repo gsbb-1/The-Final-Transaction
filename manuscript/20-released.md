@@ -1,7 +1,7 @@
 <!-- DRAFT: written by agent on 2026-10-09 for the author's review. Not canon until accepted. -->
 # Chapter 20: Released
 
-Thursday. First sitting. A kitchen table in Kentish Town that is not mine, at 7.40 in the evening, with the owner out and the other person in the flat asleep on the sofa in her coat. I will write the rest tonight when there is a rest. There is going to be.
+Thursday. First sitting. A kitchen table in Kentish Town that is not mine, at twenty to six in the evening, with the owner out and the other person in the flat asleep on the sofa in her coat. I will write the rest tonight when there is a rest. There is going to be.
 
 Priya is alive. I am putting that first, as I put the decision first on Monday, because for four days I have been writing round a hole in the middle of every entry and the hole had her name on it. On Sunday I counted four possibilities and stopped. It was the fifth.
 
@@ -9,9 +9,9 @@ The police had her.
 
 ***
 
-Calloway's word came at 11.20 this morning, by the arrangement we made on Tuesday, which is in Tuesday's entry and which I am not repeating. Four words. *She's here. Come now.* He did not need to say who.
+On Wednesday, against my own rule, I rang the friend's number, said the date, and gave Calloway the number of the second phone, because a man who can only ring out cannot be found by the one person he wants to find him. Calloway's word came at 11.20 this morning on that phone, by the arrangement we made on Tuesday, which is in Tuesday's entry and which I am not repeating. Four words. *She's here. Come now.* He did not need to say who.
 
-Priya had walked into the front hall of his paper, south of the river, at twenty to ten, with a rucksack of her own and no phone, and asked for him by name, and sat in the lobby for 40 minutes while a receptionist decided whether she was a story or a problem. She had come from Leicester on the first cheap train with £31 in her bag, counted on the platform. She told me the number because she knew I would want it. It was not kindness.
+Priya had walked into the front hall of his paper, south of the river, at twenty to ten, with a rucksack of her own and no phone, and asked for him by name, and sat in the lobby for 40 minutes while a receptionist decided whether she was a story or a problem. She had come from Leicester on the first cheap train with £28 in her bag, counted on the platform. She told me the number because she knew I would want it. It was not kindness.
 
 I will not write how I got from behind King's Cross to here. It was not far and I made it long.
 
@@ -27,7 +27,7 @@ Sunday, 10.07am. Eight minutes after she hung up on me, she sent the figures: to
 
 'Like a train announcement,' she said. 'Platform, time, destination.'
 
-They let her take her bag. The laptop went into a clear bag with a label. She gave them her phone out of her pocket because she did not yet understand what she was giving. She asked to lock the door and the younger one said she would be back in an hour. The torn sheet was hers: while they labelled the laptop she tore the bottom half off the top page and put it in the back pocket of her jeans. The member's name, in full, and the 2.8 beside it. They did not search her for paper. Nobody searches anyone for paper.
+They let her take her bag. The laptop went into a clear bag with a label. She gave them her phone out of her pocket because she did not yet understand what she was giving. It had been off since eleven, after the emails, so that she would not have to take my calls until she had decided what to say to me. She asked to lock the door and the younger one said she would be back in an hour. The torn sheet was hers: while they labelled the laptop she tore the bottom half off the top page and put it in the back pocket of her jeans. The member's name, in full, and the 2.8 beside it. They did not search her for paper. Nobody searches anyone for paper.
 
 A police station east of the City; she will not say which. A custody sergeant, a form, her belt and the laces out of her trainers. A cell with a window of glass bricks. She counted them. 48. She knew I would ask.
 
