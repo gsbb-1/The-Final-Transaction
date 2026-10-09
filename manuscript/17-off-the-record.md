@@ -29,7 +29,7 @@ Rhys Calloway. Younger than his byline, older than his voice. He did not stand u
 
 'One of them.'
 
-'Christ.' He said it mildly, the way Graham says "noted". 'Give it here.' He took the little phone, took the back off, took the battery out, and laid the three pieces on the table between us like cutlery. 'Where's the other one?'
+'Christ.' He said it mildly, the way Graham says "not yet". 'Give it here.' He took the little phone, took the back off, took the battery out, and laid the three pieces on the table between us like cutlery. 'Where's the other one?'
 
 'Off. In the bag.'
 
