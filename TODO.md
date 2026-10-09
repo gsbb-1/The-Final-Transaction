@@ -6,11 +6,11 @@ Ordered by priority, top first. Milestones are defined in [PLAN.md](PLAN.md).
 
 - [ ] Apply or reject the low-severity findings left in `notes/act-1-consistency-check.md`
 - [ ] Author review of act I, the cast and the acts II–III outline; notes for iteration 2
-- [ ] Research the items in `research/to-verify.md`; record answers in `research/` and amend the chapters
+- [ ] Author decides the premise-level items P1–P5 in `research/corrections-from-research.md` (P1 changes how Jonas's record works)
 
 ## Next — Iteration 2
 
-- [ ] Revise act I from the author's notes
+- [ ] Revise act I from the author's notes and apply the fixes F1–F12 in `research/corrections-from-research.md`
 - [ ] Draft chapters 15–28 (act II, first half, to the midpoint)
 - [ ] Consistency check; update the ledger
 - [ ] Name the audience and three to five comparable titles in `IDEA.md`
@@ -26,6 +26,7 @@ Ordered by priority, top first. Milestones are defined in [PLAN.md](PLAN.md).
 
 ## Done
 
+- [x] Background research: swaps and clearing, cybersecurity, information security; corrections consolidated (2026-10-09)
 - [x] Consistency check of act I; high and medium findings fixed; ledger updated (2026-10-09)
 - [x] Draft chapters 2–14 by subagents, about 24,000 words; collect VERIFY notes in `research/to-verify.md` (2026-10-09)
 - [x] Outline acts II and III; record the decisions they rest on in `notes/act-2-3-decisions.md` (2026-10-09)

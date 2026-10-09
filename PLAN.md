@@ -63,7 +63,7 @@ notes/        ideas, cut scenes, loose material
 
 ## Research areas
 
-Fill in once the corner of finance is chosen.
+Notes in [research/](research/README.md): swaps and clearing, cybersecurity, information security (done 2026-10-09); corrections they imply in `research/corrections-from-research.md`. Still to research:
 
 - How market panics start and spread: contagion, liquidity, margin calls, bank runs, currency and sovereign debt crises
 - Past panics as models: what triggered them and how they unfolded day by day
@@ -92,7 +92,7 @@ Record significant decisions here, newest first.
 
 - **Finance overwhelms story:** technical detail slows the pace. Every explanation has to serve tension.
 - **Sagging middle:** act II loses momentum. Plan the midpoint reversal and escalating set pieces in the outline.
-- **Authenticity:** errors in the finance or legal detail break trust with informed readers. Research and have an expert reader check it.
+- **Authenticity:** errors in the finance or legal detail break trust with informed readers. Research done for clearing, cyber and information security shows act I's core mechanism (a CCP seeing the same gilt pledged twice) does not hold as written; see P1 in `research/corrections-from-research.md`. Have an expert reader check the revision.
 - **Real-world politics:** using real countries, leaders and events can date the book and invite dispute. Decide early whether nations and politicians are real, thinly disguised or invented.
 - **Scale swallows character:** a global panic can turn into a news report. Keep it seen through the narrator and a small cast with personal stakes.
 - **Stalled draft:** a 100,000-word draft is a long haul. Set a weekly word target and track it.
