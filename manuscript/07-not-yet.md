@@ -131,7 +131,7 @@ They did not learn this today. They learned it on Wednesday, at 6.41, when the p
 
 I opened my sent items at 4.37. My mail still works; it is the only thing that does. The spread. #1399 on the right. On the left, the end of #1398: three lines of gilts, a member's code, a line promised to us that failed for two days, the cash that stood in for it, where I thought the bond had gone. Graham's initials on a quarterly report. The word contained.
 
-So they have one entry and the tail of another. The entry tells them my age. The tail tells them what the books are for. Together they tell them the thing that matters: that there are 1,398 others, and that someone has been counting.
+So they have the first page of one entry and the tail of another. The page tells them my age. The tail tells them what the books are for. Together they tell them the thing that matters: that there are 1,398 others, and that someone has been counting.
 
 That is what Graham's four words on Wednesday were. That is what the request at four o'clock was. That is why I went to Lewisham tonight, and why the old books stay there.
 

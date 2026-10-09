@@ -12,7 +12,7 @@ Shared conventions for everyone drafting chapters, human or agent. The outline f
 
 - **Jonas's chapters** are entries from his record, in first person, past tense, written on the day they describe, usually in the evening. An entry may be written in more than one sitting, and he says so when it is. He may address no one, or occasionally Elsie. He never knows what he could not know by the time he writes.
 - **Other characters' chapters** are close third person, past tense, one viewpoint character per chapter, named in the outline. No head-hopping.
-- Chapters 8 (Crane, then Jonas) and 13 (Jonas, then Laura) have two viewpoint sections, separated by a scene break.
+- Chapters 8 (Crane, then Jonas), 13 (Jonas, then Laura) and 28 (Jonas, then Kessler) have two viewpoint sections, separated by a scene break.
 
 ## Chapter format
 
@@ -22,8 +22,6 @@ Each chapter is one file in `manuscript/`, named `NN-title-slug.md`:
 <!-- DRAFT: written by agent on YYYY-MM-DD for the author's review. Not canon until accepted. -->
 # Chapter N: Title
 
-#1400
-
 Text...
 
 ***
@@ -31,7 +29,7 @@ Text...
 Text after a scene break.
 ```
 
-- The entry number line comes first, alone, exactly as in chapter 1. For third-person chapters it is the entry number of that day.
+- There is no stand-alone entry-number line (author's decision, 2026-10-09). The day and, in Jonas's chapters, the entry number are carried in the first lines of prose, as the drafts do. The example above is therefore: draft comment, heading, then prose.
 - Scene breaks are a line containing only `***`.
 - Notes to self go in HTML comments. Mark any financial, legal or procedural detail you are not sure of with `<!-- VERIFY: ... -->` immediately after it.
 - Length: 1,600 to 2,000 words per chapter. Chapter 1 is the author's and is exempt.

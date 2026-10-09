@@ -29,7 +29,7 @@ Run by an agent over chapters 1–28 after chapters 15–28 were drafted. Fixed 
 | 18 | ch. 27 | "Known his line four years without knowing his name" overstates | "without ever writing his name" |
 | 22 | ch. 16/20 | "Released under investigation" vs "bail with one condition" | Settle on pre-charge bail with one condition |
 | 23 | ch. 28 | Fixed mechanically (number sent at seven); check it reads naturally | |
-| 29 | all | No chapter carries the entry-number line that `style.md` prescribes; every draft puts the day in the first prose line; chapter 1 on disk no longer has one either | Author to choose the convention; then either add the line to 2–28 or amend `style.md` and `act-1.md`. Add ch. 28 to the two-viewpoint list |
+| 29 (resolved) | all | Author confirmed 2026-10-09: no stand-alone line; style.md and act-1.md amended. Was: no chapter carries the entry-number line that `style.md` prescribes; every draft puts the day in the first prose line; chapter 1 on disk no longer has one either | Author to choose the convention; then either add the line to 2–28 or amend `style.md` and `act-1.md`. Add ch. 28 to the two-viewpoint list |
 | 30 | ch. 15–28 | Most chapters are 2,050–2,370 words including comments, over the 2,000 brief | Trim on revision if it matters |
 
 ## Not faults, for the author's eye

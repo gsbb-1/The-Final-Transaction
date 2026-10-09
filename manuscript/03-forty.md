@@ -93,7 +93,7 @@ Not my own. The work one. Same first letter and the phone chose for me at 6.41 t
 
 It did not arrive. I had the work inbox open all day. Nothing from me, no bounce, no error. An attachment from an outside address does not simply fail to arrive at Walbrook. It is held. Someone is sent a note that it is held, and someone opens it.
 
-The page is the one above this. A man turning 40. Four lines. Nothing in it.
+The page is the first page of the one above this. A man turning 40, summing himself in four lines. Nothing in it, and the rest of the entry runs on where the camera did not reach.
 
 Except that I photograph the spread, both pages, because the pages face each other and the phone cannot be told otherwise. And the page facing #1399 is the end of #1398. Three lines of gilts, the member's code, the fail and the cash that covered it, where I think the bond went, the quarterly report. And the initials of the man who signed it.
 

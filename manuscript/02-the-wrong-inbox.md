@@ -15,7 +15,7 @@ He opened it because the sender's name was Whitlock.
 
 Graham clicked it and the page filled his screen.
 
-It was a notebook, A5, plain black board, lying open on what looked like the arm of a chair. Two pages. The right-hand page had a heading in the top margin, underlined once: *#1399*. Below it, in the small upright hand Graham knew from five years of margin notes on his own reports, a few lines:
+It was a notebook, A5, plain black board, lying open on what looked like the arm of a chair. Two pages. The right-hand page had a heading in the top margin, underlined once: *#1399*. Below it, in the small upright hand Graham knew from five years of margin notes on his own reports, the first lines of an entry that ran on past the bottom of the picture:
 
 *Turning 40th. 25-30 were good, but pointless years. 30-35 had some growth and still floating around. 35-40... When 37 it was three years, then by 39 life has different meaning.*
 

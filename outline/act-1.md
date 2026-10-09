@@ -13,7 +13,7 @@ These were chosen by the agent to make an outline possible. Each is the author's
 | Narrator | Jonas Whitlock, head of collateral risk at Walbrook Clearing House |
 | The record | Handwritten notebooks, one numbered entry per day, begun when Jonas was 36. A log of warning signs that the same bonds are pledged as collateral many times over |
 | Point of view | Jonas's chapters are entries from the record, in first person. Chapters he cannot witness are in third person, following one other character each |
-| Chapter headings | Every chapter opens with the entry number for its day. Old entries appear as short flashbacks |
+| Chapter headings | No stand-alone entry-number line (author's decision 2026-10-09); the day and entry number are carried in the prose. Old entries appear as short flashbacks |
 | Trigger | A tanker is sunk in the Strait of Hormuz; who did it is disputed |
 | National politics | A general election is five weeks away; Chancellor Caroline Strand must show the system is sound |
 
@@ -33,9 +33,9 @@ Entries are daily, so the entry number is the story's clock.
 
 ## Chapters
 
-### 1. Life lesson — #1399, Tuesday — Jonas (written)
+### 1. Life lesson — #1399, Tuesday — Jonas (written; expanded)
 
-The author's text. Jonas, on the eve of turning 40, counts his life in five-year blocks.
+The author's paragraph opens the chapter and is canon; an agent expansion to about 2,000 words follows it (2026-10-09, for review). Jonas, on the eve of turning 40, counts his life in five-year blocks, then the footnotes: the trading years, the move into risk, Walbrook and what it is, the first "timing" at 36, the memo at 37 and the three years now up, the nine notebooks and the garage, the morning photograph, and Elsie.
 
 - **Purpose:** sets the voice and the record.
 - **Threads opened:** what `#1399` is; the "three years" at 37; what changed by 39; the "life lesson".

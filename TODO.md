@@ -4,8 +4,7 @@ Ordered by priority, top first. Milestones are defined in [PLAN.md](PLAN.md).
 
 ## Now — Iteration 2
 
-- [ ] Author: confirm whether removing the `#1399` line from chapter 1 was intended (chapters 2, 3, 7 and every chapter heading depend on it)
-- [ ] Author: decide the entry-number-line convention (finding 29 in `notes/act-2-consistency-check.md`) and the other items left there
+- [ ] Author: review the chapter 1 expansion and the items left in `notes/act-2-consistency-check.md`
 - [ ] Author review of act I as revised, act II first half, and the decisions P1–P5
 
 ## Next — Iteration 3
@@ -24,6 +23,7 @@ Ordered by priority, top first. Milestones are defined in [PLAN.md](PLAN.md).
 
 ## Done
 
+- [x] Author confirmed no `#1399` line; chapter 1 expanded to ~2,000 words; convention recorded (2026-10-09)
 - [x] Consistency check of chapters 1–28; high and medium findings fixed; ledger updated (2026-10-09)
 - [x] Draft chapters 15–28 (2026-10-09)
 - [x] Revise act I after research (2026-10-09)

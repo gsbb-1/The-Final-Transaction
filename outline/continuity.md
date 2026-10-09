@@ -8,7 +8,8 @@ Sources: `ch. N` means on the page in the manuscript. Chapter 1 is the author's;
 
 | Character | Fact | Source |
 | --- | --- | --- |
-| Narrator | Is turning 40 | ch. 1 |
+| Narrator | Is turning 40; 14,609 days old on the Tuesday night; this is entry 1,399 | ch. 1 |
+| Jonas Whitlock | Ch. 1 expansion (draft): bought the first notebook at lunchtime on a Tuesday at 36 after a single "timing" fail; writes date, day, four-letter codes, confirmation times, deposits at seven and at three, the fails list, who said "timing"; never names, never system numbers; 94 fingerprint entries; the entry where Elsie changed the record is in the seventh book; was relieved when the memo was filed; "the three years are up" this month; Tuesday #1399: nothing failed | ch. 1 |
 | Narrator | Regards ages 25–30 as good but pointless years | ch. 1 |
 | Narrator | Regards ages 30–35 as a time of some growth, but still "floating around" | ch. 1 |
 | Narrator | By age 39, life had taken on a different meaning | ch. 1 |
@@ -112,7 +113,7 @@ Sources: `ch. N` means on the page in the manuscript. Chapter 1 is the author's;
 
 | Item | Fact | Source |
 | --- | --- | --- |
-| "#1399" | Entry number in Jonas's record; appears at the head of chapter 1 | ch. 1; outline |
+| "#1399" | The entry number of chapter 1, stated in its prose ("This is entry 1,399"); no heading line in the chapter. In the notebook the page carries the number in the top margin (ch. 2) | ch. 1, 2 |
 | Tail of #1398 (in the photo) | "Same line, third fail since June. Instructed Tues, failed Wed, failed Thu. Member covering in cash. Out on repo, I'd say, and due back 'by two'. 2 days. Q2 report signed G.P. 14th. 'No material concentration.' Contained. / 1,398 days." | ch. 2 |
 | The record | A run of plain handwritten notebooks, one numbered entry per day, about four years' worth; kept in Jonas's father's lock-up garage; carried in a rucksack from ch. 13 | Profile; outline |
 | Entry #212 | In the second notebook, 1,190 days before #1402, Jonas aged 36: two members failed a lodgement in the same line the same morning, both said "timing", both covered in cash at nine and swapped bonds back in at 3.10pm within four minutes of each other. "I think it is one bond, going round. I cannot prove that." Quoted in full in ch. 6 | ch. 6 |
@@ -171,6 +172,6 @@ Sources: `ch. N` means on the page in the manuscript. Chapter 1 is the author's;
 | Why Al-Mansouri left Greywether seven years ago | ch. 9 | |
 | Walbrook's civil action: interim injunction and delivery-up order for "documents containing confidential information", heard by phone Sunday night, served Monday | Decision 2026-10-09 (P2) | Act II ch. 15 |
 | The Bank of England is the supervisor; Jonas's filing was a protected disclosure to it | Decision 2026-10-09 (F8) | ch. 7, 10 as revised |
-| Chapter 1 on disk no longer carries the `#1399` line (author's change, 2026-10-09); chapters 2, 3, 7 and the entry-number convention depend on it | ch. 1 | Author to confirm |
+| Chapter 1 has no `#1399` heading line | ch. 1 | Author confirmed 2026-10-09; the convention is now no stand-alone line in any chapter |
 | Priya's copy of the map: codes and order only (decided for ch. 30) | ch. 23 | |
 | Who has phone two's number: Calloway (given Wednesday, ch. 20) and Al-Mansouri's office (visitor's slip, ch. 27); the friend's card is Jonas's outbound route | ch. 17, 20, 27 | |
