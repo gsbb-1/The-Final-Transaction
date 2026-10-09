@@ -10,9 +10,9 @@ Shared conventions for everyone drafting chapters, human or agent. The outline f
 
 ## Point of view and tense
 
-- **Jonas's chapters** are entries from his record, in first person, past tense, written on the evening of the day they describe. He may address no one, or occasionally Elsie. He never knows what he could not know by the time he writes.
+- **Jonas's chapters** are entries from his record, in first person, past tense, written on the day they describe, usually in the evening. An entry may be written in more than one sitting, and he says so when it is. He may address no one, or occasionally Elsie. He never knows what he could not know by the time he writes.
 - **Other characters' chapters** are close third person, past tense, one viewpoint character per chapter, named in the outline. No head-hopping.
-- Chapter 13 has two viewpoint sections, Jonas then Laura, separated by a scene break.
+- Chapters 8 (Crane, then Jonas) and 13 (Jonas, then Laura) have two viewpoint sections, separated by a scene break.
 
 ## Chapter format
 
@@ -58,17 +58,21 @@ Use these so chapters written separately agree.
 | --- | --- |
 | Whitlock home | A terraced house in Herne Hill, south London. Study on the first floor at the back |
 | Laura's surgery | Brixton |
-| Elsie's nursery | A few streets from the house |
+| Elsie's nursery | Brambles, on Half Moon Lane, a few streets from the house |
 | The lock-up | A rented garage in a row behind a railway arch in Lewisham, in Jonas's late father's name, rent still paid by Jonas |
 | Priya's flat | Bethnal Green, second floor |
 | Walbrook Clearing House | Offices near Bank station in the City; trading-floor-style risk room with wall screens |
 | Walbrook chief executive | Richard Haldane, 60, smooth, political |
 | Walbrook board member close to Crane | Sir Anthony Pell |
 | Pryce's Treasury contact | Simon Carrow, a director at the Treasury |
+| Al-Mansouri's chief of staff | Nasser (surname not given) |
+| The misdirected email | Wednesday #1400, 6.41am, from Jonas's personal webmail to his Walbrook address, subject "1399", one photo of the open spread: #1399 on the right, the end of #1398 (gilt lines, a member code, Pryce's initials, "Contained") on the left |
+| The memo | Six pages on Walbrook letterhead, written when Jonas was 37, titled "Collateral re-use in cleared markets: a note on concentration and horizon"; "approximately three years" |
+| The statement | Two paragraphs on Treasury paper: Walbrook's collateral arrangements are "fully sound and adequate to all foreseeable conditions"; signatures due 6am Monday; released 6.30am over Haldane's name alone |
 | Greywether Capital | An office on a quiet street in Mayfair; Crane's room has no screens |
 | Kessler's firm | Unnamed in act I; three staff; two she uses for surveillance |
 | Laura's mother | Margaret, a widow, in a village near Norwich |
 | Dinner guests in ch. 3 | Two old friends, Tom and Aisha, a couple; Tom knew Jonas in his trading years |
 | Priya's journalist | Rhys Calloway, financial correspondent at a national paper; named in ch. 11, not seen in act I |
-| Jonas's notebooks | Plain black A5 hardbacks; about one per five months; nine so far |
+| Jonas's notebooks | Plain black A5 hardbacks with an elastic band; about one per five months. Eight full ones live in a steel toolbox in the lock-up; the ninth, in use, travels with Jonas in his bag and comes home every night. A box of six blank spares is in the study desk. All nine are together in his rucksack from ch. 13 |
 | Market timing | Walbrook's main morning margin call at 7am London time; Asian markets open late Sunday evening London time <!-- VERIFY --> |

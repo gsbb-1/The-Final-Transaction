@@ -63,8 +63,9 @@ The publishing route is not yet decided. Choose one, record the decision in `PLA
 
 Newest first.
 
-### In progress — M0 Concept
+### In progress — iteration 1 of 4
 
+- 2026-10-09: Act I drafted by subagents, chapters 2–14, about 24,000 words in total with the author's chapter 1. Whole book outlined. Not yet reviewed by the author; not a tagged draft.
 - 2026-10-03: Project set up; brief defined as a ~400-page financial thriller. No manuscript text yet.
 
 <!--

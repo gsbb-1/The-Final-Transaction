@@ -4,11 +4,9 @@ Ordered by priority, top first. Milestones are defined in [PLAN.md](PLAN.md).
 
 ## Now — Iteration 1
 
-- [ ] Outline acts II and III in `outline/act-2.md` and `outline/act-3.md`
-- [ ] Draft chapters 2–14 from `outline/act-1.md` (subagents)
 - [ ] Consistency check of act I; update `outline/continuity.md` with facts the drafts establish
 - [ ] Author review of act I, the cast and the acts II–III outline; notes for iteration 2
-- [ ] Research the items listed under "To verify in research" in `outline/act-1.md` and every `<!-- VERIFY -->` in the drafts; keep notes in `research/`
+- [ ] Research the items in `research/to-verify.md`; record answers in `research/` and amend the chapters
 
 ## Next — Iteration 2
 
@@ -28,6 +26,8 @@ Ordered by priority, top first. Milestones are defined in [PLAN.md](PLAN.md).
 
 ## Done
 
+- [x] Draft chapters 2–14 by subagents, about 24,000 words; collect VERIFY notes in `research/to-verify.md` (2026-10-09)
+- [x] Outline acts II and III; record the decisions they rest on in `notes/act-2-3-decisions.md` (2026-10-09)
 - [x] Set the four-iteration plan and the style guide (2026-10-09)
 - [x] Record the act I suggestions, outline act I, and generate eight characters (2026-10-07)
 - [x] Decide where the narrator sits, the protagonist, the antagonist, the trigger, the role of national politics, the record's contents, entry numbering, who learns of the record, setting, logline and premise, all as proposals in the outline and profiles (2026-10-07)

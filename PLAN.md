@@ -45,9 +45,9 @@ Working model: three acts, to be replaced by the real outline in M1.
 | Part | Share | Pages | Job |
 | --- | --- | --- | --- |
 | Act I | 25% | 1–100 | Establish the protagonist's world, the inciting event, and the point of no return. Outlined in [outline/act-1.md](outline/act-1.md): 14 chapters over 7 days, #1399 to #1405 |
-| Act II, first half | 25% | 100–200 | Rising danger and investigation, up to a midpoint reversal that changes the game |
-| Act II, second half | 25% | 200–300 | The antagonist closes in, allies fall away, and everything is lost |
-| Act III | 25% | 300–400 | Final confrontation, the "final transaction", and the aftermath |
+| Act II, first half | 25% | 100–200 | Rising danger and investigation, up to a midpoint reversal that changes the game. Outlined in [outline/act-2.md](outline/act-2.md), ch. 15–28: the state hunts Jonas, the map is built, the alliance with Al-Mansouri is made and the notebooks are lost in the same hour |
+| Act II, second half | 25% | 200–300 | The antagonist closes in, allies fall away, and everything is lost. Ch. 29–42: Crane has the map, Walbrook may not open, Strand says no, Kessler turns, Jonas decides to go public |
+| Act III | 25% | 300–400 | Final confrontation, the "final transaction", and the aftermath. Outlined in [outline/act-3.md](outline/act-3.md), ch. 43–55: one day from broadcast to open, then the fall and the last entry, #1500 |
 
 ## Manuscript layout
 

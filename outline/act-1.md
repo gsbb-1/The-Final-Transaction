@@ -87,7 +87,7 @@ Jonas takes his numbers to Graham and asks for a formal escalation to the regula
 
 In Mayfair, Sebastian Crane hears from his friend on the Walbrook board that a risk manager has kept a four-year diary of where the bodies are buried. Crane's fund is already positioned for a collapse; the record would tell him where to push. He calls Dana Kessler.
 
-Jonas notices he is being followed on the way home and loses the tail on the Underground, half convinced he is imagining it. At the house the study has been searched, neatly. Nothing is missing because the notebooks are not kept there. Laura and Elsie were out. He does not tell Laura.
+Jonas notices he is being followed on the way to the lock-up (as drafted: he goes from Walbrook to Lewisham before home) and loses the tail on the Underground at London Bridge, half convinced he is imagining it. At the house the study has been searched, neatly. Nothing is missing because the notebooks are not kept there. Laura and Elsie were out. He does not tell Laura.
 
 - **Purpose:** introduces the antagonist and the physical threat. The first action beat, inside the first 60 pages.
 - **Opens:** where the notebooks are.

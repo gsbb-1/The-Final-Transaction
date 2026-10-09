@@ -26,7 +26,9 @@ Jonas Whitlock, turning 40, is head of collateral risk at Walbrook Clearing Hous
 
 A tanker is sunk in the Strait of Hormuz and the shock arrives on schedule. As oil spikes and bond prices fall, a Gulf sovereign fund, fearing its assets will be frozen, pulls its collateral and turns a wobble into a global panic. Jonas's record is suddenly the most valuable document in London: to Sebastian Crane, a hedge fund manager positioned for the collapse, it is a map of where to push; to Caroline Strand, a Chancellor five weeks from an election whose Treasury filed the memo, it is proof she was warned. Crane sends a private investigator for the notebooks. Strand wants Jonas's signature on a statement that all is sound.
 
-By the time markets open on Monday, Jonas has refused to sign, his only ally has vanished, his wife and daughter are in hiding, and he is carrying four years of notebooks with nowhere to go. What he does with them is the rest of the book.
+By the time markets open on Monday, Jonas has refused to sign, his only ally has vanished, his wife and daughter are in hiding, and he is carrying four years of notebooks with nowhere to go.
+
+What follows (outlined in [outline/act-2.md](outline/act-2.md) and [outline/act-3.md](outline/act-3.md), as proposals): Jonas and Priya turn the record into a map of the twelve institutions that will fail and the order they fail in, and discover that Crane's trades were placed before the sinking. The sinking was arranged by a faction in Al-Mansouri's own country, and Crane knew. In the same hour that Al-Mansouri becomes Jonas's ally, Crane's investigator takes the notebooks. Crane uses the map to attack; Walbrook announces it may not open; Strand refuses to act. Jonas, who has spent four years being right in private, goes on live television with everything, and forces the one transaction that can stop the collapse: the Gulf fund buying the failing collateral in the exact order the map dictates, which breaks Crane's fund in an hour. Three months later Jonas writes entry #1500 and closes the record.
 
 ## What the genre demands
 
