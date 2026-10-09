@@ -11,7 +11,6 @@ Ordered by priority, top first. Milestones are defined in [PLAN.md](PLAN.md).
 ## Next — Iteration 4
 
 - [ ] Draft chapters 43–55 (act III); whole-book consistency pass; fix high-severity findings; tag `draft-1`
-- [ ] Name the audience and three to five comparable titles in `IDEA.md`
 
 ## Later
 
@@ -22,6 +21,7 @@ Ordered by priority, top first. Milestones are defined in [PLAN.md](PLAN.md).
 
 ## Done
 
+- [x] Name the audience and comparable titles in `IDEA.md` (2026-10-09)
 - [x] Author confirmed no `#1399` line; chapter 1 expanded to ~2,000 words; convention recorded (2026-10-09)
 - [x] Consistency check of chapters 1–28; high and medium findings fixed; ledger updated (2026-10-09)
 - [x] Draft chapters 15–28 (2026-10-09)

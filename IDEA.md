@@ -40,9 +40,20 @@ What follows (outlined in [outline/act-2.md](outline/act-2.md) and [outline/act-
 
 ## Audience
 
-<!-- Who reads this book? Comparable titles and authors help define it. -->
+Proposed by an agent, 2026-10-09; the author's to change.
 
-_TBD_
+Adult readers of commercial thrillers who like a story built on how a system actually works and told by someone inside it: the readers of Robert Harris and the later le Carré, and the readers of Michael Lewis who would take the same material as fiction. It does not assume any knowledge of finance; everything the reader needs is explained by a character who needs it explained.
+
+Comparable titles, for positioning rather than imitation:
+
+| Title | Why it is comparable |
+| --- | --- |
+| *The Fear Index*, Robert Harris (2011) | A financial thriller for a general reader, London and Geneva, a system that gets away from the people who built it |
+| *A Week in December*, Sebastian Faulks (2009) | London finance as the engine of a plot about ordinary lives, a hedge fund manager betting on a bank's failure |
+| *Margin Call* (film, 2011) | One institution, one night, the people who can see the collapse coming and the ones who decide what to do about it |
+| *The Big Short* and *Too Big to Fail* (non-fiction, Michael Lewis 2010 and Andrew Ross Sorkin 2009) | The appetite this book is written for: readers who want the mechanics and the people in the room, but as a novel with a protagonist and a clock |
+
+What distinguishes it: the narrator is not a trader or a banker but the man whose job is to check the deposits; the device of the daily record; and a global panic shown through one clearing house, one family, and the one week in which being right stops being enough.
 
 ## Scope
 
