@@ -2,22 +2,21 @@
 
 Ordered by priority, top first. Milestones are defined in [PLAN.md](PLAN.md).
 
-## Now — Iteration 1
+## Now — Iteration 2
 
-- [ ] Apply or reject the low-severity findings left in `notes/act-1-consistency-check.md`
-- [ ] Author review of act I, the cast and the acts II–III outline; notes for iteration 2
-- [ ] Author decides the premise-level items P1–P5 in `research/corrections-from-research.md` (P1 changes how Jonas's record works)
-
-## Next — Iteration 2
-
-- [ ] Revise act I from the author's notes and apply the fixes F1–F12 in `research/corrections-from-research.md`
+- [ ] Revise act I: apply P1–P5 and F1–F12 from `research/corrections-from-research.md` and the low-severity findings (subagents, in progress)
 - [ ] Draft chapters 15–28 (act II, first half, to the midpoint)
-- [ ] Consistency check; update the ledger
+- [ ] Consistency check of chapters 1–28; update the ledger
+- [ ] Author review of act I as revised, act II first half, and the decisions P1–P5
+
+## Next — Iteration 3
+
+- [ ] Draft chapters 29–42 (act II, second half, to the all-is-lost moment)
+- [ ] Consistency check; audit reveals against the plan
 - [ ] Name the audience and three to five comparable titles in `IDEA.md`
 
 ## Later
 
-- [ ] Iteration 3: draft chapters 29–42 (act II, second half); checks
 - [ ] Iteration 4: draft chapters 43–55 (act III); whole-book consistency pass; tag `draft-1`
 - [ ] M3: Read the full draft through and revise structure, pacing and character arcs
 - [ ] M4: Recruit beta readers, including one with finance expertise
@@ -26,6 +25,8 @@ Ordered by priority, top first. Milestones are defined in [PLAN.md](PLAN.md).
 
 ## Done
 
+- [x] Decide P1–P5 from the research, for suspense and continuity (2026-10-09)
+- [x] Apply or reject the low-severity findings from the act I check: all applied in the iteration 2 revision (2026-10-09)
 - [x] Background research: swaps and clearing, cybersecurity, information security; corrections consolidated (2026-10-09)
 - [x] Consistency check of act I; high and medium findings fixed; ledger updated (2026-10-09)
 - [x] Draft chapters 2–14 by subagents, about 24,000 words; collect VERIFY notes in `research/to-verify.md` (2026-10-09)

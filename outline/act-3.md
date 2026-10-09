@@ -16,7 +16,7 @@ Act III runs almost entirely on one day. Chapters are shorter and faster than in
 
 ### 43. Six o'clock — #1421, Wednesday — Jonas
 
-Live from the newspaper's studio at 6am, before any market opens. Jonas, in a borrowed shirt, explains in plain words what Walbrook is, why it may not open, and how the collapse was foreseen. Then he names the twelve members, in order. Then he names Greywether, shows the dates of its trades against the date of the sinking, and says that whoever planned the sinking had a partner in Mayfair. He does not name Faisal, because he does not need to. He is on air for eleven minutes.
+Live from the newspaper's studio at 6am, before any market opens. Jonas, in a borrowed shirt, explains in plain words what Walbrook is, why it may not be able to pay what it owes tomorrow, and how the collapse was foreseen. Then he names the twelve members, in order. Then he names Greywether, shows the dates of its trades against the date of the sinking, and says that whoever planned the sinking had a partner in Mayfair. He does not name Faisal, because he does not need to. He is on air for eleven minutes.
 
 - **Purpose:** the private record made public; the act of a man who has stopped writing things down.
 
@@ -28,7 +28,7 @@ The prime minister rings before the broadcast is over. Her choice: sign the inde
 
 ### 45. Assembly — #1421, 7.30am — Jonas
 
-Walbrook's risk room. The Bank's people, Al-Mansouri's traders by video, Pryce, Jonas, and Priya in a sling. Haldane, grey, doing as he is told. The transaction is built line by line from the map: which collateral, in which order, at what price. The open has been delayed to ten to give them the time. Jonas is the only person who knows the whole map and the order; he reads it out from memory while Priya checks it against Pryce's data.
+Walbrook's risk room. The Bank's people, Al-Mansouri's traders by video, Pryce, Jonas, and Priya in a sling. Haldane, grey, doing as he is told. The transaction is built line by line from the map: which collateral, in which order, at what price. The Bank and the exchanges have delayed the open to ten to give them the time. Jonas is the only person who knows the whole map and the order; he reads it out from memory while Priya checks it against Pryce's data.
 
 - **Purpose:** the mechanics as suspense; competence under a clock.
 

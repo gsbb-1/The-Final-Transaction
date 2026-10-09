@@ -1,4 +1,4 @@
-<!-- DRAFT: written by agent on 2026-10-09 for the author's review. Not canon until accepted. -->
+<!-- DRAFT: written by agent on 2026-10-09, revised 2026-10-09 after research, for the author's review. Not canon until accepted. -->
 # Chapter 12: The offer
 
 #1404

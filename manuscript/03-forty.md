@@ -1,4 +1,4 @@
-<!-- DRAFT: written by agent on 2026-10-09 for the author's review. Not canon until accepted. -->
+<!-- DRAFT: written by agent on 2026-10-09, revised 2026-10-09 after research, for the author's review. Not canon until accepted. -->
 # Chapter 3: Forty
 
 #1400
@@ -13,7 +13,7 @@ Walked to the station with the bag. Eight notebooks full. This is the ninth, 40 
 
 Work. Cake at 8.20 from the team, who sang. A card with 31 signatures. Graham's on it. *Many of them. G.* Graham himself said four words to me all day, in the morning meeting, and they were 'Good' and 'Thank you, Jonas', and he said them to the table. Normally he asks after Elsie. I noted it and moved on. Men of 57 are allowed a day.
 
-The 7am call went out on time and was met in full. Two members posted cash instead of gilts, which they do at month end when they need the bonds elsewhere. I know which two and I know where the bonds went. It is in here already, somewhere about #1120. Nothing new today. Nothing new most days. That is the point of writing every day: so that when a day is different, I will know.
+The 7am call went out on time and was met in full. Two members posted cash instead of gilts, which they do at month end when they need the bonds elsewhere. I know which two and I can guess where the bonds are. It is in here already, somewhere about #1120. Nothing new today. Nothing new most days. That is the point of writing every day: so that when a day is different, I will know.
 
 ***
 
@@ -61,7 +61,7 @@ At 10.50 I went up myself, because it was my turn and because I wanted to. Elsie
 
 While I stood there I could hear them downstairs. Tom telling a story about the bank. Laura laughing, properly, which I had not heard this week. Aisha saying 'he was never like that' and Laura saying 'he was, actually, a bit', and then something I did not get.
 
-I thought: this is what changed. I am not going to write down what, tonight. Not on this page. At 37 I wrote a paper that said three years, and I thought three years was a number. At 39 she was born. I am 40, and this is the year the number said, and she is 51 weeks old and she weighs 9.6 kilos and she is asleep on me, and downstairs there is lamb.
+I thought: this is what changed. I am not going to write down what, tonight. Not on this page. At 37 I wrote a paper that said three years, and I thought three years was a number. At 39 she was born. I am 40, and this is the year the number said, and she is a day short of 51 weeks and she weighs 9.6 kilos and she is asleep on me, and downstairs there is lamb.
 
 Put her down at 11.12. She stayed down.
 
@@ -97,7 +97,7 @@ It did not arrive. I had the work inbox open all day. Nothing from me, no bounce
 
 The page is the one above this. A man turning 40. Four lines. Nothing in it.
 
-Except that I photograph the spread, both pages, because the pages face each other and the phone cannot be told otherwise. And the page facing #1399 is the end of #1398. Three lines of gilts, the member's code, the repo overlap, the quarterly report. And the initials of the man who signed it.
+Except that I photograph the spread, both pages, because the pages face each other and the phone cannot be told otherwise. And the page facing #1399 is the end of #1398. Three lines of gilts, the member's code, the fail and the cash that covered it, where I think the bond went, the quarterly report. And the initials of the man who signed it.
 
 Graham said four words to me today, to the table.
 

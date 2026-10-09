@@ -1,4 +1,4 @@
-<!-- DRAFT: written by agent on 2026-10-09 for the author's review. Not canon until accepted. -->
+<!-- DRAFT: written by agent on 2026-10-09, revised 2026-10-09 after research, for the author's review. Not canon until accepted. -->
 # Chapter 8: The study
 
 #1402
@@ -17,11 +17,11 @@ The telephone rang at 4.55pm and he let it ring twice.
 
 'Just, I hear.'
 
-A pause, in which Pell decided not to ask where he had heard. 'Just. That isn't why I'm calling.'
+A pause. Pell did not ask where he had heard. 'Just. That isn't why I'm calling.'
 
 'No,' Crane agreed, and waited. He had known Anthony Pell for 30 years, since a dinner neither of them remembered, and in all that time Pell had never once said anything quickly.
 
-'There's a man in Richard's risk function. Head of collateral. Whitlock. He went over Pryce's head this afternoon, straight to the regulator, with a paper saying the collateral in the system is pledged several times over and a sharp enough move would show it.' <!-- VERIFY: the prudential supervisor of a UK clearing house is the Bank of England; left unnamed here as "the regulator" -->
+'There's a man in Richard's risk function. Head of collateral. Whitlock. He went over Pryce's head this afternoon, straight to the Bank, with a paper saying the collateral in the system is pledged several times over and a sharp enough move would show it.'
 
 'Is it?'
 
@@ -75,7 +75,7 @@ Kessler said nothing for a moment. He heard, faintly, a keyboard. 'Herne Hill,' 
 
 'Markets open on Monday. Before then would be elegant. Before Sunday night would be useful.'
 
-'Then I start now. I'll have someone outside his building within the hour, and I'll look at the house. You'll hear from me when there is something to hear.'
+'Then I start now. I'll have someone outside his building within the hour, and I'll look at the house, and at anything else with his name on it. Most of what people think is hidden is on a public register for a few pounds. You'll hear from me when there is something to hear.'
 
 'And not how.'
 
@@ -119,11 +119,11 @@ Then the bottom of the right drawer. The spares. A box of six, same make, black,
 
 So now they know the shape of the thing. Black. A5. Hardback. And not here.
 
-Eight full ones. Never in this house. Not for one night. Number nine was on my back, in my bag, on the Northern line, with a man in a grey jacket looking at it through the glass.
+Eight full ones. Never in this house. Not for one night. They are in a garage with my father's name on the agreement, not mine; the rent goes out of my account and nothing else of mine touches it. Number nine was on my back, in my bag, on the Northern line, with a man in a grey jacket looking at it through the glass.
 
 Put the chair back at its angle. Turned the chequebook over. Lid on crooked. Came down and stood in the kitchen with the light off and my hands on the counter until I could feel them. That is where I am writing this.
 
-Laura is asleep. When she came in at 9.20 she looked at me and said, 'You look like a patient,' and I said long day, and she looked at my hands. She does that: looks at what the hands are doing while the mouth talks. I put them in my pockets. Which is not what you do if you're fine. I know that. She knows that. Two hours before I found the study, and she had already seen it on me.
+Laura is asleep. When she came in at 9.20 she looked at me and said, 'You look like a patient,' and I said long day, and she looked at my hands. She does that: looks at what the hands are doing while the mouth talks. I put them in my pockets. Which is not what you do if you're fine. I know that. She knows that. I had not been near the study yet, and she had already seen it on me.
 
 I haven't told her. Reasons, in order. One: she would want the police, and the police would ask what was taken, and I would say nothing, and they would ask what someone wanted, and I would have to say. Two: she would ask what is in them. Three: I would have to tell her that it was not the first lie. "Work" was the first lie. I have been telling it for four years, one word at a time.
 

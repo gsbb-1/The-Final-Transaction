@@ -12,7 +12,7 @@
 
 Jonas is the man whose job is to know what everyone has promised to everyone else, and whether the promises are backed by anything. He is careful, dry, and more comfortable with a spreadsheet than a meeting. People underestimate him because he does not raise his voice.
 
-For almost four years he has kept a private record: one handwritten entry a day, numbered, in a run of plain notebooks. It began as a way to think. It became a log of warning signs that the same bonds were being pledged as collateral many times over, so that a sharp enough shock would force everyone to sell at once. Chapter 1 is entry 1399.
+For almost four years he has kept a private record: one handwritten entry a day, numbered, in a run of plain notebooks. It began as a way to think. It became a log of fingerprints: paired settlement fails with the same excuse, members paying the nine o'clock call in cash they had raised by lending out bonds that morning and swapping the bonds back in by the afternoon, the occasional leaked position report. From them he infers that the collateral behind the system is financing more than one promise at once, so that a sharp enough shock will force everyone to sell together. He cannot prove it, and he knows it. Chapter 1 is entry 1399.
 
 ## History
 

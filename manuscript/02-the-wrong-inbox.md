@@ -1,21 +1,23 @@
-<!-- DRAFT: written by agent on 2026-10-09 for the author's review. Not canon until accepted. -->
+<!-- DRAFT: written by agent on 2026-10-09, revised 2026-10-09 after research, for the author's review. Not canon until accepted. -->
 # Chapter 2: The wrong inbox
 
 #1400
 
 The alert was waiting for Graham Pryce when he sat down at 7.35, under the overnight summary and above a note from facilities about the lifts. He read the facilities note first.
 
-*Communications surveillance. Item held for review. Policy: inbound personal, risk-grade staff, client identifier match. Reviewer: G. Pryce.*
+*Communications surveillance. Item held for review. Policy: inbound personal, risk-grade staff, client identifier match. Reviewer: surveillance analyst 2. Escalated: Head of Compliance, 07.19. Referred for business view: G. Pryce, 07.28.*
 
-He had seen perhaps 30 of these in three years. The filter was a blunt thing. It held any message that came in from a personal webmail address to anyone on the risk-grade list, if the body or the attachment contained a string that looked like a member code, a security identifier or a sum of money, and it sent the review to that person's line manager, on the theory that a line manager would know what was business and what was not. <!-- VERIFY: whether an inbound-communications filter at a clearing house would plausibly route alerts to the recipient's line manager rather than to compliance alone --> In practice it meant that Graham had read a holiday booking forwarded by somebody's wife, two mortgage offers and a recruiter's letter that gave a salary in figures. He had approved every one with a click and thought about none of them.
+The filter was a blunt thing. It held any message that came in from a personal webmail address to anyone on the risk-grade list, if the body or an attachment contained a string that looked like a member code, a security identifier or a sum of money, and it put the message in a queue on the second floor, where the surveillance analysts cleared most of them before breakfast. A few a year came up to Graham, because the head of compliance did not like to decide alone what was business when the business was his. In five years he had been asked for a view on a holiday booking forwarded by somebody's wife, two mortgage offers and a recruiter's letter that gave a salary in figures. He had typed *personal, no action* under each of them and thought about none of them.
 
-He opened this one because the sender's name was Whitlock.
+Above the system's text the head of compliance had put two lines of her own. The analyst had escalated it because the attachment named a clearing member. She would rather Graham saw it than that she decided. Would he call her.
 
-*From:* a webmail address, the name and a string of digits. *To:* j.whitlock, the Walbrook domain. *Sent:* 6.41am. *Subject:* 1399. No text in the body, or none that Jonas had written; beneath the attachment the phone had pasted what it took the attachment to say, in the way phones now did, so that the picture could be searched later. <!-- VERIFY: that a mobile mail client would paste extracted image text into the message body; if not, Jonas can have typed it himself --> One attachment, a photograph.
+He opened it because the sender's name was Whitlock.
+
+*From:* a webmail address, the name and a string of digits. *To:* j.whitlock, the Walbrook domain. *Sent:* 6.41am. *Subject:* 1399. No text in the body. One attachment, a photograph, and under it the scanner's note of what it had read in the photograph: a four-letter code, three nominals in figures.
 
 Graham clicked it and the page filled his screen.
 
-It was a notebook, A5, plain black board, lying open on what looked like the arm of a chair. Two pages. The right-hand page had a heading in the top margin, underlined once: *#1399*. Below it, in the small upright hand Graham knew from four years of margin notes on his own reports, a few lines:
+It was a notebook, A5, plain black board, lying open on what looked like the arm of a chair. Two pages. The right-hand page had a heading in the top margin, underlined once: *#1399*. Below it, in the small upright hand Graham knew from five years of margin notes on his own reports, a few lines:
 
 *Turning 40th. 25-30 were good, but pointless years. 30-35 had some growth and still floating around. 35-40... When 37 it was three years, then by 39 life has different meaning.*
 
@@ -25,17 +27,17 @@ Then he looked at the left-hand page.
 
 It was the end of the previous entry, and it was not a diary. It was a column. Three lines of gilts, each with its stock name and nominal, each in figures. A four-letter member code he recognised at once, because it belonged to one of their larger clearing members and it appeared in his own reports every month. Then a note, in the same hand, smaller:
 
-*Same line, third time since June. Posted here and out on repo to someone else at the same time. 2 days' overlap. Q2 report signed G.P. 14th. "No material concentration." Contained.*
+*Same line, third fail since June. Instructed Tues, failed Wed, failed Thu. Member covering in cash. Out on repo, I'd say, and due back "by two". 2 days. Q2 report signed G.P. 14th. "No material concentration." Contained.*
 
 *1,398 days.*
 
-Graham read it twice. Then he enlarged the photograph until the handwriting broke up into pixels and he could see nothing he had not already seen, and shrank it again.
+Graham read it twice. Then he enlarged the photograph until the handwriting broke into pixels, and shrank it again.
 
-The member code was what the filter had caught. That was a fact, and he held on to it for a moment, because it was small and he could think about it. The member code and the nominals. That was why the thing was on his screen and not in Jonas's inbox. A string of letters that the system had been told to look for had been found in a photograph of a page of a notebook, and so a page of a notebook had been sent to the one person in the building Jonas would least have wanted to read it.
+The member code was what the filter had caught. That was a fact, and he held on to it for a moment, because it was small and he could think about it. The member code and the nominals. That was why the thing had been on a screen on the second floor at ten past seven and not in Jonas's inbox, and why it had come up a floor, through two people doing exactly what they were paid to do, to the one person in the building Jonas would least have wanted to read it.
 
-He did the arithmetic, because that was the other thing he could think about. 1,399 entries. If they were daily, and the heading said that they were, that was three years and ten months, give or take a leap day. Jonas had joined Walbrook at 35. He would have begun at 36. A year in. The memo had come at 37, so the memo was not the beginning of it; the memo was ten months of this, written up and sent upstairs with a covering note from Graham that said the paper represented *one analyst's view rather than a finding of the risk function* and that the matters raised were *being monitored*. He had used that word. He had been rather pleased with it. Simon Carrow at the Treasury had told him over lunch, some weeks later, that they had *noted it*, and Graham had understood the two of them to be speaking the same language.
+He did the arithmetic, because he could. 1,399 entries. If they were daily, and the heading said that they were, that was three years and ten months, give or take a leap day. Jonas had joined Walbrook at 35. He would have begun at 36. A year in. The memo had come at 37, so the memo was not the beginning of it; the memo was ten months of this, written up and sent upstairs with a covering note from Graham that said the paper represented *one analyst's view rather than a finding of the risk function* and that the matters raised were *being monitored*. He had used that word. He had been rather pleased with it. Simon Carrow at the Treasury had told him over lunch, some weeks later, that they had *noted it*, and Graham had understood the two of them to be speaking the same language.
 
-And Jonas had gone on. Every day. Not a diary, or not only. A ledger. The same bonds posted here and promised somewhere else, a line at a time, with the dates, and the name of the report that said it was contained and the initials of the man who had signed it.
+And Jonas had gone on. Every day. Not a diary, or not only. A ledger. Bonds promised and not arriving, and the cash that stood in for them, and where he thought the bonds had gone, a line at a time, with the dates, and the name of the report that said it was contained and the initials of the man who had signed it.
 
 Graham found that he had put his hand flat on the desk.
 
@@ -49,23 +51,23 @@ He went to the morning meeting instead, in the risk room with its wall of screen
 
 Jonas looked at him for perhaps half a second longer than the words required. Graham was aware that he would normally have said something else: *many happy returns*, or *did you get the cake*. He let the half-second pass and asked the market-risk side for their update.
 
-The rest of the morning was ordinary and he could not afterwards remember any of it. At one he walked out past Bank and along to the river and back, which he did when he needed to seem to be at lunch, and on the way he considered the proper route, as he had been trained to do. The item was a personal communication, misdirected. Nothing in it breached a rule that Graham could name. There was no client data in it that Jonas was not entitled to hold, as the head of collateral risk, in his head and on his screens; the question of whether he was entitled to hold it in a black notebook at home was, Graham thought, arguable, and the kind of thing an employment lawyer would enjoy. He could close the alert. *Personal item, misdirected, no further action.* The system would record that he had reviewed it and closed it, and in a year nobody would look.
+The rest of the morning was ordinary and he could not afterwards remember any of it. At one he walked out past Bank and along to the river and back, which he did when he needed to seem to be at lunch, and on the way he considered the proper route, as he had been trained to do. The item was a personal communication, misdirected. Nothing in it breached a rule that Graham could name. There was no client data in it that Jonas was not entitled to hold, as the head of collateral risk, in his head and on his screens; the question of whether he was entitled to hold it in a black notebook at home was, Graham thought, arguable, and the kind of thing an employment lawyer would enjoy. He could give compliance its answer. *Personal item, misdirected, no further action.* The analyst would close it, the head of compliance would countersign, the system would record that three people had looked at it and found nothing, and in a year nobody would look.
 
-He also knew, walking back up Walbrook with the wind off the river at his back, that if anybody ever did look, the record of his having read it and closed it would sit next to the record itself, and the initials on both would be his.
+He also knew, walking back up Walbrook with the wind off the river at his back, that if anybody ever did look, the record of his having read it and found nothing would sit next to the record itself, and the initials on the view would be his.
 
 ***
 
-He drafted the email to Richard Haldane at 3.15 and deleted it. He drafted it again at 4.20 with the attachment and deleted that too, because he did not want the photograph in a second inbox. At 5.40, when the floor had thinned, he picked up the phone and called the chief executive's office on the fourth floor and asked whether Richard had five minutes, and Richard's assistant said he had until six.
+He drafted the email to Richard Haldane at 3.15 and deleted it. He drafted it again at 4.20 with the attachment and deleted that too, because he did not want the photograph in a fourth inbox. At 5.40, when the floor had thinned, he picked up the phone and called the chief executive's office on the fourth floor and asked whether Richard had five minutes, and Richard's assistant said he had until six.
 
 Haldane's office faced west and the light was in it. He was 60, tall, better dressed than a clearing house strictly required, and he had the manner of a man who had been told a great many difficult things in his life and had found most of them to be manageable.
 
 'Graham. Sit. What have I done.'
 
-Graham sat. He said that an item had been held by the communications filter that morning, in the ordinary way, and routed to him for review, in the ordinary way, and that it was a personal message from Jonas Whitlock to himself, sent to his work address by mistake. A photograph of a page of a notebook.
+Graham sat. He said that an item had been held by the communications filter that morning, in the ordinary way, and passed up by compliance for his view, in the ordinary way, because it named a member, and that it was a personal message from Jonas Whitlock to himself, sent to his work address by mistake. A photograph of a page of a notebook.
 
 'And.'
 
-'And it would appear that Jonas keeps a record. A daily one. Of the collateral position. Specifically of instances where the same securities are, or appear to be, pledged in more than one place at once.'
+'And it would appear that Jonas keeps a record. A daily one. Of the collateral position. Specifically of instances where securities promised to us appear to be standing behind something else at the same time.'
 
 'The thing in his memo.'
 
@@ -89,13 +91,13 @@ Haldane did not move. 'How many entries?'
 
 Haldane looked at the window for a time. 'Who else has seen this?'
 
-'Nobody. The system logs the review against me. I've not forwarded it. I've not spoken to Jonas.'
+'The analyst who held it. The head of compliance, who sent it up; her note is about the member code and I doubt she looked further. And me. The system logs all three. I've not forwarded it. I've not spoken to Jonas.'
 
 'Good. Don't.'
 
 'Richard, I rather think I ought to. It's his birthday. He'll have noticed by now that it never arrived. If I simply—'
 
-'Graham.' Haldane's voice was perfectly pleasant. 'What do you suppose happens if you go down there and say, I've seen your diary. He says, right. He goes home. And tonight he moves it. Or he puts it on a memory stick and posts it to a newspaper. Or he does nothing, and sits there, and knows that we know, and we have learned nothing except that he knows that.' He turned back from the window. 'Close the alert. Personal item, no action. That is what it is. Don't speak to him about it; don't speak to him about anything you wouldn't have spoken to him about yesterday. I'll make a call.'
+'Graham.' Haldane's voice was perfectly pleasant. 'What do you suppose happens if you go down there and say, I've seen your diary. He says, right. He goes home. And tonight he moves it. Or he puts it on a memory stick and posts it to a newspaper. Or he does nothing, and sits there, and knows that we know, and we have learned nothing except that he knows that.' He turned back from the window. 'Give compliance their answer. Personal item, no action. That is what it is, and it is what they want to hear from you. Don't speak to him about it; don't speak to him about anything you wouldn't have spoken to him about yesterday. I'll make a call.'
 
 'To whom?'
 
@@ -105,4 +107,4 @@ Haldane smiled at him, which was not an answer, and stood, which was.
 
 Graham went back down to the third floor. The risk room was empty but for the screens, which went on quietly saying what the markets had done all day, which was nothing much. At his desk the alert was still open where he had left it, the two pages of the notebook side by side, the column of gilts and the four lines about a life.
 
-He chose *Personal item, misdirected, no further action required* from the drop-down list, and he clicked.
+In the field marked *Business view* he typed *Personal item, misdirected, no further action required*, and he clicked.

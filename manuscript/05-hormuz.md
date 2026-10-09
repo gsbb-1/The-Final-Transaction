@@ -1,4 +1,4 @@
-<!-- DRAFT: written by agent on 2026-10-09 for the author's review. Not canon until accepted. -->
+<!-- DRAFT: written by agent on 2026-10-09, revised 2026-10-09 after research, for the author's review. Not canon until accepted. -->
 # Chapter 5: Hormuz
 
 #1401
@@ -87,7 +87,7 @@ Most of it he knew already, in the way a man knows his own house: the office tow
 
 The problem was the bonds.
 
-The fund held British government debt in a quantity that made it one of the five or six largest foreign holders in the world. <!-- VERIFY: scale of the largest foreign holders of gilts; a single sovereign fund among the top five is plausible but should be checked --> The bonds did not sit in a vault. They sat in accounts, and a large part of them did not sit still even there. They had been lent out, pledged, posted. They stood behind the fund's own hedges, which were cleared, like everyone's, through a clearing house in the City of London, and the clearing house held them as collateral against the day the hedges went wrong. <!-- VERIFY: a sovereign fund's cleared derivatives positions would normally be cleared through a bank acting as clearing member, with collateral posted via that member; the chapter leaves the exact route vague -->
+The fund held British government debt in a quantity that made it one of the largest foreign holders of that debt in the world; nobody published the ranking, and he had never wanted to be the one who did. <!-- VERIFY: the UK does not publish gilt holdings by country, so the fund's rank is deliberately left vague; research confirms "one of the largest" is as far as the text should go --> The bonds did not sit in a vault. They sat in accounts, and a large part of them did not sit still even there. They had been lent out, pledged, posted. They stood behind the fund's own hedges, which were cleared, like everyone's, through the fund's banks into a clearing house in the City of London, and the clearing house held them as collateral against the day the hedges went wrong.
 
 He ran his finger down the column that said *Collateral location* and stopped where the figures were largest.
 
@@ -97,7 +97,7 @@ He had known the name for years as a line on a quarterly report. He had never be
 
 'In whose name,' he said, 'does Walbrook hold these.'
 
-The head of the night desk looked at the paper. 'Through the members, sir. Three banks. Our bonds are posted in their client accounts.' <!-- VERIFY: client account segregation at a UK CCP, and whether a fund's identity is visible to the clearing house -->
+The head of the night desk looked at the paper. 'Through the members, sir. Three banks. Our bonds are posted in their client accounts.' <!-- VERIFY: still open after research. The route (client of three clearing-member banks) is confirmed. Whether Walbrook sees the fund's name depends on the account type: individually segregated accounts name the client, omnibus accounts do not. Chapters 10 and 11 assume Walbrook knows the name; author to confirm -->
 
 'So if someone in London decides tomorrow to freeze what belongs to us,' Khalid said, 'they will first have to work out which of it does.'
 
@@ -111,7 +111,7 @@ He thought about the word *closely*. He had spent his twenties in banks in Londo
 
 'Sir.'
 
-'I want a draft of the notice we would give if we were to withdraw our collateral from London and sell the bonds. The whole position. I want to know what notice we must give, to whom, and how many days it would take to be done.' <!-- VERIFY: notice periods for withdrawing collateral through a clearing member and for unwinding cleared positions; days rather than hours is the working assumption -->
+'I want a draft of the instruction we would give our three banks if we were to close every position we clear in London, take our collateral back and sell the bonds. The whole position. I want to know who has to be told, in what order, how fast the positions can be closed and how soon after that the bonds are ours to sell. Not what is polite. What is possible.'
 
 The room had gone very still.
 

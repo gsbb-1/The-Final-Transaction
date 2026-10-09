@@ -75,4 +75,13 @@ Use these so chapters written separately agree.
 | Dinner guests in ch. 3 | Two old friends, Tom and Aisha, a couple; Tom knew Jonas in his trading years |
 | Priya's journalist | Rhys Calloway, financial correspondent at a national paper; named in ch. 11, not seen in act I |
 | Jonas's notebooks | Plain black A5 hardbacks with an elastic band; about one per five months. Eight full ones live in a steel toolbox in the lock-up; the ninth, in use, travels with Jonas in his bag and comes home every night. A box of six blank spares is in the study desk. All nine are together in his rucksack from ch. 13 |
-| Market timing | Walbrook's main morning margin call at 7am London time; Asian markets open late Sunday evening London time <!-- VERIFY --> |
+| Market timing | Walbrook's overnight run finishes before 7am; calls reach members' payment banks by 8am; deadline 9am by direct debit; intraday calls are threshold-triggered. Early October, BST: Wellington opens 9.50pm, Sydney midnight, Tokyo 1am London time; New York 2.30pm |
+| The supervisor | The Bank of England, named as such; the Governor and a Bank supervisor attend the Saturday meeting, neither named |
+| The mechanism, in one line | Jonas reads fingerprints (paired fails, cash at nine swapped for bonds in the afternoon, substitutions, leaked position reports) and infers that the collateral behind the system is financing more than one promise. He cannot prove it and says so |
+| Priya's exposure | Fri afternoon she pulled the member report under her own login at Jonas's desk after his access was cut; the police's Computer Misuse hook |
+| Walbrook's civil order | Interim injunction and delivery-up order, heard by telephone Sunday night, served on the Herne Hill address Monday. "Theft" is the press's and Walbrook's word, never a charge |
+| Priya's parents | Leicester; she is there Mon–Thu of week 2 with no phone |
+| Jonas's hotel | A cash hotel on a street behind King's Cross; unnamed |
+| Rhys Calloway | Financial correspondent at a national paper (unnamed); offices south of the river; flat in Kentish Town; met first in a café in Clerkenwell |
+| The Gulf fund's London office | St James's; Al-Mansouri's cousin Faisal runs a private family office at home |
+| Park Lane hotel | Where Jonas meets Al-Mansouri in ch. 28; unnamed |

@@ -1,4 +1,4 @@
-<!-- DRAFT: written by agent on 2026-10-09 for the author's review. Not canon until accepted. -->
+<!-- DRAFT: written by agent on 2026-10-09, revised 2026-10-09 after research, for the author's review. Not canon until accepted. -->
 # Chapter 11: Monday's number
 
 #1404
@@ -7,7 +7,7 @@ I asked for the night. I was given it. This is what it was worth.
 
 Slept 1.10 to 5.40. Lay still until Elsie started at 6.05, so that Laura could have the half hour. Made the bottle. Sat on the kitchen floor and watched Elsie post a wooden ring into a saucepan and take it out again. 23 times. She did not tire of it. I envied her that.
 
-The statement was on the table where I had left it on Saturday night, between the memo and Carrow's card. Two paragraphs on Treasury paper. Walbrook's collateral arrangements are fully sound and adequate to all foreseeable conditions. A line for my name. They want it by 6am tomorrow, so that it can go out before the 7am call. I read it again with Elsie on my knee. It had not improved overnight. Nothing does.
+The statement was on the table where I had left it on Saturday night, between the memo and Carrow's card. Two paragraphs on Treasury paper. Walbrook's collateral arrangements are fully sound and adequate to all foreseeable conditions. A line for my name. They want it by 6am tomorrow, so that it can go out before the morning's calls reach the banks. I read it again with Elsie on my knee. It had not improved overnight. Nothing does.
 
 I am writing this at the kitchen table at twenty past three in the afternoon, which is not when I write. I am writing early because I do not know where I will be tonight. In order, then. The record is only any use in order.
 
@@ -19,19 +19,19 @@ I knew it would be bad because she did not say hello. She said a number.
 
 'Billion.'
 
-'Yes, Jonas. Billion. That's the morning run. Initial and variation, every member, if gilts open another four points down. Which they will, because the fund's order lands at eight and everyone in the market has read the same notice we have.' <!-- VERIFY: scale of a single morning's margin call at a large UK clearing house in a severe gilt sell-off; the figure is invented and should be checked against real crisis days (e.g. Sept 2022) -->
+'Yes, Jonas. Billion. That's the morning run. Initial and variation, every member, every currency, if gilts open another four points down. Which they will, because the fund's banks start closing it out at eight and everyone in the market has heard what three banks were told on a Saturday.'
 
 I said nothing. She had not finished.
 
-'I've gone through every member's liquidity disclosure. The ones who can pay by nine can pay fourteen, maybe fifteen, between them. The gap is seven. If it's six points instead of four, the gap is eleven. And one member is short on its own by two point eight before anyone else gets into trouble. I'm not saying which one on a phone. You know which one.' <!-- VERIFY: whether a clearing-house analyst would have access to members' liquidity figures in this form -->
+'I don't have their cash. Nobody in the building has their cash; that's theirs. I've got what we've got: the liquidity ratios they publish, our own credit scores on them, and four years of what time each of them paid us. That last one is the only honest number in the building. The ones who can pay by nine can pay fourteen, maybe fifteen, between them. The gap is seven. If it's six points instead of four, the gap is eleven. And one member is short on its own by two point eight before anyone else gets into trouble. I'm not saying which one on a phone. You know which one. It pays late every bad day. It was in the last three on Friday.'
 
 I did know. Everyone on the third floor knows which one, and nobody says it, and that is a sentence I could have written in any of the last 1,400 entries.
 
 'Walk me through the fund,' I said. I wanted to hear whether she had it.
 
-She had it. She said it in one breath. The Gulf fund has given notice. On Monday we hand its collateral back, which takes the biggest cushion out of the system before anything has fallen. Then the fund sells its bonds, and the price of every bond everyone else has posted to us goes down, so everyone has to post more, at the same hour, out of the same pile. And the pile has been counted three times by three different people who each think it is theirs.
+She had it. She said it in one breath. The Gulf fund has told its banks to close it out. From Monday's open the biggest cushion in the system starts coming out, and the market knows it, so the market sells first. Then the fund sells its bonds, and the price of every bond everyone else has posted to us goes down, so everyone has to post more, in cash, at the same hour, and they raise the cash the way they raised it on Friday, by lending out the bonds they have just told us are theirs. And the bonds are already out. That is what the fails mean. That is what the pairs mean, and the cash at nine that turns into bonds at three.
 
-'I counted the pile, Jonas,' she said. 'It took me all night. It should not have been possible for me to count it in one night and for nobody to have counted it in four years.'
+'I can't prove it either, Jonas,' she said. 'I've got what you've got. A shape. It took me all night to see the shape, and it should not have been possible for me to see it in one night and for nobody to have said it in four years.'
 
 That was when the number stopped and the rest began.
 
@@ -59,7 +59,7 @@ I heard her put something down. A mug, a pen. 'Graham asked me on Friday whether
 
 I did not answer that because it was accurate.
 
-'Everything my parents have is in a fund that clears through the member I'm not naming,' she said. 'Everything. By Tuesday it's an argument between lawyers. So this is what I'm doing. I'm sending the figures to the regulator's whistleblowing address the moment I put the phone down. And I'm sending them to Rhys Calloway.'
+'Everything my parents have is in a fund that clears through the member I'm not naming,' she said. 'Everything. By Tuesday it's an argument between lawyers. So this is what I'm doing. I'm sending the figures to the Bank's whistleblowing address the moment I put the phone down. And I'm sending them to Rhys Calloway.'
 
 I knew the name. Financial correspondent at one of the nationals. The pensions piece last year. He rings Walbrook twice a year and is told that everything is fine, and prints it with the word "insists".
 

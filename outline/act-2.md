@@ -8,7 +8,7 @@ Open questions from act I that had to be answered to plan the rest of the book. 
 
 | Question | Answer in this outline | Chapters affected |
 | --- | --- | --- |
-| What happened to Priya | She was detained by the police under the pretext of the "theft of confidential material", on a request that came from the Treasury via Simon Carrow. Not Kessler. Released after two days without charge, phone and laptop seized | 15, 20 |
+| What happened to Priya | Detained by the police at about noon on Sunday, on a Computer Misuse theory (on Friday afternoon she logged in at Jonas's desk and pulled the member report after his access was cut; the system logged it) and a written request from Simon Carrow at the Treasury. Not Kessler. Held about 20 hours, released Monday morning under investigation, phone and laptop kept, bail condition not to contact Walbrook staff. She has no phone, no money on her and nowhere she trusts; she goes to her parents' and does not surface until Thursday, through Calloway | 15, 16, 20 |
 | Who sank the tanker | A faction inside the ruling family of Al-Mansouri's country, led by a cousin, Faisal, who wanted a crisis to unseat the current leadership. Sebastian Crane did not sink it, but he knew it was coming: the faction's private money was positioned alongside Greywether, and Crane took the other side of trades that only make sense if you know the date. Crane financed the knowledge, not the act | 19, 21, 28, 39 |
 | What "the final transaction" is | A single coordinated trade on one morning: Al-Mansouri's fund, with the Bank's backing and a Treasury indemnity, buys the distressed collateral of Walbrook's weakest members at the open, using Jonas's map to buy exactly the right things in exactly the right order. It stops the forced selling and squeezes Greywether's short positions until the fund fails. It is also the last entry Jonas writes | Set up 36; executed in act III |
 | The "life lesson" | Being right is worth nothing if you only write it down. The record was a way for Jonas to be right without acting; the book is him learning to act | 40, 55 |
@@ -28,14 +28,14 @@ Open questions from act I that had to be answered to plan the rest of the book. 
 
 ### 15. Cash — #1405, Monday night — Jonas
 
-A hotel near King's Cross that takes cash. Rolling news: the member that failed is named, the pound is at a level nobody alive has traded, the Chancellor is "monitoring". He rings Laura from a payphone; she answers, is safe at Margaret's, and is angrier than he has ever heard her. He reads the first notebook from the beginning and realises it is a map, if you know how to read it: the twelve members whose collateral is pledged furthest beyond what they hold.
+Kessler's 4.30 deadline passes while he is still reading; he lets it. A hotel near King's Cross that takes cash. The evening news has two new things: Walbrook has obtained an interim injunction and an order for delivery-up of "documents containing confidential information", heard by a judge by telephone on Sunday night, and the word "theft" is in every headline although no lawyer has said it. Rolling news: the member that failed is named, the pound is at a level nobody alive has traded, the Chancellor is "monitoring". He rings Laura from a payphone; she answers, is safe at Margaret's, and is angrier than he has ever heard her. He reads the first notebook from the beginning and realises it is a map, if you know how to read it: the twelve members whose collateral is pledged furthest beyond what they hold.
 
 - **Purpose:** breath after the act I climax; establishes the map as the object of the book.
 - **Opens:** the twelve names.
 
 ### 16. Monitoring — #1406, Tuesday — Caroline Strand
 
-Cabinet Office briefing room. The prime minister, who needs her and would drop her within the hour. The Bank wants to buy bonds to steady the market; Strand blocks it: a bailout four weeks before polling day. Simon Carrow reports that the Walbrook analyst, Raman, is in custody and the risk manager is still loose. Strand does not ask how Raman came to be in custody. She says the word "theft" twice so that it will be in the minutes.
+Cabinet Office briefing room. The prime minister, who needs her and would drop her within the hour. The Bank wants to buy bonds to steady the market; Strand blocks it: a bailout four weeks before polling day. Simon Carrow reports that the Walbrook analyst, Raman, was held overnight on a Computer Misuse complaint (the member report pulled under her login on Friday after Whitlock's access was cut) and released this morning under investigation; the risk manager is still loose; Walbrook's civil order is served on his home address. Strand does not ask who wrote to the police. Carrow did, on Sunday. She says the word "theft" twice so that it will be in the minutes, though she knows it is not the charge.
 
 - **Purpose:** the state becomes the hunter, with a politician's deniability.
 - **Pays off:** what happened to Priya, for the reader. Jonas still does not know.
@@ -63,7 +63,7 @@ At home, the fund's withdrawal has been praised in public and questioned in priv
 
 ### 20. Released — #1408, Thursday — Jonas
 
-Priya is released without charge, phone and laptop kept. She finds Jonas through Calloway. She tells him it was the police, on a Treasury request; nobody mentioned any hedge fund. Jonas has to revise everything he thought: the state, not Kessler's client, took Priya. Priya has her numbers on paper, in a notebook of her own, because she learned something from him after all. She has not forgiven him.
+Priya surfaces through Calloway. She was held about twenty hours, released Monday morning under investigation, phone and laptop kept, told not to contact anyone at Walbrook, and has spent three days at her parents' with no phone and no way to reach a man whose own phone is off. The police theory is the report she pulled under her login on Friday for him; the request came from the Treasury; nobody mentioned any hedge fund. Jonas has to revise everything he thought: the state, not Kessler's client, took Priya. Priya has her numbers on paper, in a notebook of her own, because she learned something from him after all. She has not forgiven him.
 
 - **Purpose:** ally restored, enemy count doubled.
 - **Pays off:** what happened to Priya, for Jonas.
@@ -173,7 +173,7 @@ Photographers at the end of the lane. Margaret frightened. Laura decides she is 
 
 ### 36. The transaction — #1418, Sunday — Jonas
 
-Jonas, Priya from a hospital bed, Pryce and Al-Mansouri's London team design the final transaction: one morning, at the open, the Gulf fund buys the weakest members' collateral through Walbrook in the order the map dictates, with the Bank providing liquidity and the Treasury an indemnity. Done right, the forced selling stops in an hour and Greywether's short positions are squeezed to death. Done wrong, or late, it fails and the Gulf fund fails with it. It needs Strand's signature.
+Jonas, Priya from a hospital bed, Pryce and Al-Mansouri's London team design the final transaction: one morning, at the open, the Gulf fund buys the weakest members' collateral through Walbrook in the order the map dictates, through an indemnified Bank of England operation: the Bank lends against the collateral the fund buys, the Treasury indemnifies the Bank, and the exchanges and the Bank delay the Tuesday open to give the room time. Done right, the forced selling stops in an hour and Greywether's short positions are squeezed to death. Done wrong, or late, it fails and the Gulf fund fails with it. It needs Strand's signature.
 
 - **Purpose:** the plan the title names; the stakes made exact.
 
@@ -185,7 +185,7 @@ Jonas and Al-Mansouri put the plan to Strand in person. She says no. A state pub
 
 ### 38. Tuesday — #1420, Tuesday — Jonas
 
-Crane's attack. The three weakest members hit at the open. By ten, a second member has failed. By noon, Walbrook's default fund is exhausted and Richard Haldane is on television saying the clearing house may not be able to open tomorrow. If it does not, every trade it stands behind freezes, in London and everywhere London touches. The map was right about everything, including the order.
+Crane's attack. The three weakest members hit at the open. By ten, a second member has failed. By noon, Walbrook's default fund is exhausted and Richard Haldane is on television saying the clearing house may not be able to meet its obligations tomorrow; by evening the Bank confirms it is "considering all options including resolution". If Walbrook fails, every trade it stands behind freezes, in London and everywhere London touches. The map was right about everything, including the order.
 
 - **Purpose:** the all-is-lost moment, at the scale the book promised.
 

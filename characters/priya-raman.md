@@ -35,9 +35,12 @@ Fast, exact, sarcastic. Says the number first and the explanation second.
 
 ## Arc in act I
 
-She independently finds what Jonas has known for years, runs the numbers for Monday's margin calls, and then stops answering her phone.
+She independently finds what Jonas has known for years, pulls the member report under her own login for him after his access is cut, runs the numbers for Monday's margin calls, and then stops answering her phone.
+
+## Act II (decided 2026-10-09)
+
+Detained Sunday noon on a Computer Misuse complaint about the Friday report, plus a written request from the Treasury; held about twenty hours; released Monday morning under investigation, phone and laptop kept, told not to contact anyone at Walbrook. Goes to her parents' in Leicester with no phone and surfaces Thursday through Calloway.
 
 ## Still to decide
 
-- What has happened to her at the end of act I: taken, hiding, or silenced by her employer.
 - Whether she can be trusted completely, or has been approached by the other side.

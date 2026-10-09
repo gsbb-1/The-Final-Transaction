@@ -1,4 +1,4 @@
-<!-- DRAFT: written by agent on 2026-10-09 for the author's review. Not canon until accepted. -->
+<!-- DRAFT: written by agent on 2026-10-09, revised 2026-10-09 after research, for the author's review. Not canon until accepted. -->
 # Chapter 13: The lock-up
 
 #1404
@@ -89,7 +89,7 @@ I cannot go home. They have been in the house, and the house is where a man goes
 
 I did not sign. I did not ring either number. Nine went past and I let it, and six is coming, and I will let that go too. I have nine books in a bag that smells of my father's garage, a wife driving north who gave me until eight and meant it, and a colleague who has not answered for fourteen hours.
 
-11.52. Wellington has been open for two hours. Sydney opens in eight minutes. Tokyo an hour after that. I do not know the number yet. Priya knew it this morning. I hope she is somewhere she can watch it come true. <!-- VERIFY: Asian opening times in London time; depends on BST/GMT, season unfixed -->
+11.52. Wellington has been open for two hours. Sydney opens in eight minutes. Tokyo an hour after that. I do not know the number yet. Priya knew it this morning. I hope she is somewhere she can watch it come true.
 
 ***
 
@@ -113,6 +113,6 @@ Eight o'clock. He had said eight. She would give him until eight and not a minut
 
 Midnight. She put the radio on, low, for the news, because it was something to do with her hands.
 
-The pound had fallen sharply in early trading in Asia. Markets in Sydney had opened lower, and Tokyo was expected to follow within the hour. The Chancellor would make a statement before London opened. There had been, the newsreader said, in the voice they use for the weather, unconfirmed reports concerning a London clearing house.
+The pound had fallen sharply in early Asian trading. The market in Sydney had just opened, lower, and Tokyo would follow within the hour. The Chancellor would make a statement before London opened. There had been, the newsreader said, in the voice they use for the weather, unconfirmed reports concerning a London clearing house.
 
 Laura had never once heard the words of his job on the news. She turned the radio off and drove.

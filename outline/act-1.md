@@ -57,7 +57,7 @@ Birthday dinner at home in south London. Laura has cooked; Elsie, aged one, will
 
 ### 4. Twice — #1401, Thursday — Jonas
 
-An ordinary working day. A pension fund's collateral fails a routine check: the bonds it has posted to Walbrook appear to be pledged somewhere else as well. Priya Raman finds it, is told by the fund that it is a timing error, and does not believe it. Jonas walks her through why it matters, in plain terms, and the reader learns the mechanism: when prices fall, everyone must post more collateral at once, and if the same bonds back several promises, there is not enough to go round. Jonas has seen this a hundred times. It is in the notebooks. He tells Priya to write it up and expects nothing to come of it. Graham is oddly formal with him all day.
+An ordinary working day. A pension fund's gilt lodgement fails to settle for the third day; the member is covering in cash and the fund's own report shows the line out on repo. Priya Raman finds it, is told by the fund that it is a timing error, and does not believe it. Jonas walks her through why it matters, in plain terms, and the reader learns the mechanism: when prices fall, everyone must post more collateral at once, and if the same bonds back several promises, there is not enough to go round. Jonas has seen this a hundred times. It is in the notebooks. He tells Priya to write it up and expects nothing to come of it. Graham is oddly formal with him all day.
 
 - **Purpose:** teaches the mechanism that will break, through one small problem. Establishes Priya.
 - **Opens:** Priya's suspicion that Jonas knows more than he reports.
@@ -71,7 +71,7 @@ In the Gulf, Khalid Al-Mansouri is woken with the news that a loaded tanker has 
 
 ### 6. Contained — #1402, Friday — Jonas
 
-Markets open sharply down. Oil jumps, inflation fears follow, and British government bond prices fall hard. Walbrook's margin calls for the morning are the largest Jonas has seen, and they are met, just. On the trading floor screens Caroline Strand tells a television interviewer that the financial system is sound and the situation contained. Jonas goes back through the record that evening and finds the pattern he wrote down long ago. The chapter includes an old entry, #212, in which he first described it.
+Markets open sharply down. Oil jumps, inflation fears follow, and British government bond prices fall hard. Walbrook's margin calls for the morning are the largest Jonas has seen, and they are met, just. On the trading floor screens Caroline Strand tells a television interviewer that the financial system is sound and the situation contained. Jonas goes back through the record that evening and finds the pattern he wrote down long ago. The chapter includes an old entry, #212, in which he first described the fingerprint (revised 2026-10-09: inference, not a bond seen twice).
 
 - **Purpose:** first shock. The narrator recognises it from the record. Introduces Strand and the election.
 - **Uses:** the first flashback entry.

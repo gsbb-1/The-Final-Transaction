@@ -1,6 +1,6 @@
 # Corrections the research implies
 
-Consolidated from the three background notes on 2026-10-09. Nothing here has been applied to the manuscript yet: the author has not reviewed act I, so these go into the act I revision at the start of iteration 2 (see `TODO.md`). Each row says how big the change is. "Premise" rows change how the story's mechanism is described and need the author's decision; "Fix" rows are small and can be applied without one.
+Consolidated from the three background notes on 2026-10-09. Decided 2026-10-09 at the start of iteration 2 (see the decision log in `PLAN.md`): all five premise items adopted as proposed, with P2 made concrete as a Computer Misuse exposure created by Priya pulling a report under her own login after Jonas's access was cut, and P3 as a 20-hour detention. All fixes applied in the act I revision of iteration 2.
 
 ## Premise-level (author decides)
 
