@@ -1,4 +1,4 @@
-<!-- DRAFT: written by agent on 2026-10-10 for the author's review. Not canon until accepted. -->
+<!-- DRAFT: written by agent on 2026-10-10, revised 2026-10-10 after whole-book audit, for the author's review. Not canon until accepted. -->
 # Chapter 52: Statements
 
 #1424. Saturday. Two sittings, the first on the pad, because the book is not mine yet.
@@ -7,7 +7,7 @@ I signed my name thirty-one times today. Thirty pages and a last one, in a room 
 
 I gave them the dates. The memo and its stamp. The email that went to the wrong inbox at 6.41 on a Wednesday. The Saturday at Horse Guards Road and the two paragraphs I did not sign. The map, the twelve codes, the order, and how I came to have it in my head, which took forty minutes because they kept asking *how do you know* and the true answer is *I don't, I infer*. The younger one typed that down. *I infer.* He looked up and said, 'Is that the word you want?' and I said it was the only word I had ever been entitled to.
 
-They no longer wish to arrest me. The older officer said it at about four, looking at the table, in the voice people use for a thing they have been told to say and half agree with. Walbrook's lawyers wrote on Friday that their client's claim was 'under review'. The Treasury's second letter is in the file; I have not seen it, but he said it was one page and that the word in it was *withdrawn*. Priya's matter, he said, is 'a question of weeks and not of outcome'. He did not say what outcome. I did not ask. When I stood up he said, 'We'd be glad of your availability, Mr Whitlock,' which is what the Governor's letter said, and I understood that I had become a thing the state wants to be able to find.
+They no longer wish to arrest me. The older officer said it at about four, looking at the table, in the voice people use for a thing they have been told to say and half agree with. Walbrook's solicitors wrote on Friday that the claim, and with it the injunction and the delivery-up order, was withdrawn 'as moot'. My bail return is in nine days and nobody has said it is cancelled. The Treasury's second letter is in the file; I have not seen it, but he said it was one page and that the word in it was *withdrawn*. Priya's matter, he said, is 'a question of weeks and not of outcome'. He did not say what outcome. I did not ask. When I stood up he said, 'We'd be glad of your availability, Mr Whitlock,' which is what the Governor's letter said, and I understood that I had become a thing the state wants to be able to find.
 
 I went out into Holborn at ten to five. It was getting dark. Nobody looked at me. That is new, since Wednesday, and I did not like it as much as I thought I would.
 
@@ -35,7 +35,9 @@ I laughed. It hurt my ribs. She watched me do it with great satisfaction.
 
 'Will you take it?'
 
-'Monday,' she said. 'I'm going to say yes on Monday, and I want you to know I decided on Thursday. The weekend's for me to see whether I mind.' She turned her tea in her hand. 'They'll ask you next.'
+'Monday,' she said. 'I'm going to say yes on Monday, and I want you to know I decided on Thursday. The weekend's for me to see whether I mind.' She turned her tea in her hand. The scheme her parents' savings sit in clears through a fund that survived Wednesday, she said, because of the buy; her mother has not been told anything and says only that the statement came on time.
+
+'They'll ask you next.'
 
 'I know.'
 
@@ -75,7 +77,7 @@ Kessler had on a dark coat, no scarf, no bag. Her hands were empty and in her la
 
 I said nothing.
 
-'The entry where the handwriting changes.' She did not look at me. 'I had read enough of them by then to know what it was before I'd read ten lines. I stopped. I put it back in the bag and I was not good company for a week.' Her voice did not alter. 'That is why I said no to him on Tuesday. I would like you to know that it was not conscience. It was a page.'
+'The entry where the handwriting changes.' She did not look at me. 'I had read enough of them by then to know what it was before I'd read ten lines. I stopped. I put it back in the bag and I was not good company for a week.' Her voice did not alter. 'That is why I said no to him on Tuesday. I would like you to know that it was not conscience. It was a page.' She said it very evenly, as she says everything, and I thought it a sentence she had said to herself before, often enough to have worn it smooth.
 
 We sat. A child went by on a scooter, shrieking, and she did not turn her head.
 

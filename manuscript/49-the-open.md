@@ -1,4 +1,4 @@
-<!-- DRAFT: written by agent on 2026-10-10, revised 2026-10-10 after consistency check, for the author's review. Not canon until accepted. -->
+<!-- DRAFT: written by agent on 2026-10-10, revised 2026-10-10 after whole-book audit, for the author's review. Not canon until accepted. -->
 # Chapter 49: The open
 
 Wednesday, #1421. The rest of the day, written tonight. At 8.25 I wrote the cell and the release in the back of a car, on the reverse of a bail form, and I wrote nothing else until this evening. This is ten o'clock, the thing the other 1,420 entries were for, and I am putting it down in the order it happened, with the times, because I trust no other way of putting it down.
@@ -47,7 +47,7 @@ By 10.20 the three had come home. The 2035, the 2047 and the 2034 had each taken
 
 'You think,' said the Deputy Governor.
 
-I had not heard myself say it. I have said it for four years. It is in the nine books in about every other entry, and nobody has ever asked me to stop. Now the Deputy Governor of the Bank of England had a clock and a country's money in her hand and was waiting, politely, for me to take it out of my sentence.
+I had not heard myself say it. I have said it for four years. It is in the nine books most weeks, and nobody has ever asked me to stop. Now the Deputy Governor of the Bank of England had a clock and a country's money in her hand and was waiting, politely, for me to take it out of my sentence.
 
 'Yes,' I said. 'I think. I have never seen it. Nobody has. I have seen what it leaves behind, and the fourth member's fingerprints say the 2052 goes about ninety seconds before the 2041. That is what I have. If you wanted a man who knows, you have not got one. You have the man who counted.'
 
@@ -65,7 +65,7 @@ I thought: this is where they will look at me.
 
 They looked at the screens. It was not Walbrook's number and had no business on the wall; it was a call between a bank and a fund. The Deputy Governor said, 'We shall not comment on any firm.' Then, after a pause that was the first human thing she had done in an hour: 'Thank you, Mr Whitlock.'
 
-Greywether is not a bank. It cannot borrow from the Bank of England. It had a position that had paid by the minute for twenty days, and the position had been built on a map that I wrote, the original of which, with the notebooks, was taken from me out of a hotel cloakroom on the Tuesday night, and the same map was turning it inside out in my voice, line by line. It could not meet the call. I knew that by 10.43 with a certainty I have felt about nothing else this month, and I did not feel what I thought I would. I felt a hand on my elbow. The officer, who had held his headset for forty-two minutes, said, 'Sir, you've got blood on your cuff,' and I said, 'It isn't mine.' It was mine. From the nose, from Cannon Street.
+Greywether is not a bank. It cannot borrow from the Bank of England. It had a position that had paid by the minute for twenty days, and the position had been built on a map that I wrote, the original of which, with the notebooks, was taken from me out of a hotel cloakroom on the Tuesday night, and the same map was turning it inside out in my voice, line by line. Whatever it had done in the first gilt lines at eight, which the fund's desk had seen as small pieces from six brokers, its losses were in what it had not covered: the other lines, the shares of the parents of the failing members, the pound, and the thirteenth. It could not meet the call. I knew that by 10.43 with a certainty I have felt about nothing else this month, and I did not feel what I thought I would. I felt a hand on my elbow. The officer, who had held his headset for forty-two minutes, said, 'Sir, you've got blood on your cuff,' and I said, 'It isn't mine.' It was mine. From the nose, from Cannon Street.
 
 10.47. The fifth member. 'The 2039. Three hundred and forty.'
 
@@ -77,7 +77,7 @@ The woman at the keys had already typed 340. She looked at me. I said, 'Two hund
 
 'Thank me later.'
 
-By 11.15 the sixth, the seventh, the eighth and the tenth had gone, each in its place, each read back, each answered, *Done*. The screens had a different colour on them. The red goes. The fails list, forty lines at ten, was nineteen, then eleven, then six. The call sheet went amber, then the pale grey that means *settled, awaiting confirmation*, then the first green, at 10.27, on the first member. And the bonds that Crane had borrowed and sold, because my map told him they would fall, were rising in every line, in step, because each of them had a buyer under it that did not go away, and a buyer who does not go away is the only thing that has ever turned a price. A price that turns is a debt somebody has to pay.
+By 11.15 the sixth, the seventh, the eighth and the tenth had gone, each in its place, each read back, each answered, *Done*. The screens had a different colour on them. The red goes. The fails list, forty lines at ten, was nineteen, then eleven, then six. The call sheet went amber, then the pale grey that means *settled, awaiting confirmation*, then the first green, at 10.27, on the first member. And what Crane had sold and not bought back, because my map told him it would fall, the shares of the parents of the failing members, the pound, the lines beyond the first eight, was rising, in step, because each of them had a buyer under it that did not go away, and a buyer who does not go away is the only thing that has ever turned a price. A price that turns is a debt somebody has to pay.
 
 ***
 
@@ -85,7 +85,7 @@ By 11.15 the sixth, the seventh, the eighth and the tenth had gone, each in its 
 
 'Thirteenth,' I said. 'The code Priya gave me. Three hundred and eighty million, the 2049. At the market.' And then, because there was nothing left of the sentence to hang it on: 'I think the whole of it.'
 
-It was said, and keyed. For one second, nothing, the whole room hearing a woman in St James's not answering. Then, 'Done. Three-eighty, average 80.50.' And the thirteenth, which a man in Mayfair had spent five weeks quietly building a position against, which could have broken the chain at the end of the line, found a price already turned and a buyer already there, and did nothing at all. It held. There is no drama in a line holding. It is a number that stays where it is.
+It was said, and keyed. For one second, nothing, the whole room hearing a woman in St James's not answering. Then, 'Done. Three-eighty, average 80.50.' And the thirteenth, which a man in Mayfair had been quietly building a position against for longer than anyone had had a map, which could have broken the chain at the end of the line, found a price already turned and a buyer already there, and did nothing at all. It held. There is no drama in a line holding. It is a number that stays where it is.
 
 At 11.52 the last line on the call sheet went green. Eight minutes before the new noon. The clearing house met its deadline with the Bank's money gone round the building twice and the fund's proceeds on top. Haldane did not clap. Nobody did. A man by the window began to cry quietly, and no one looked at him.
 

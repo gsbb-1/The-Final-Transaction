@@ -1,7 +1,7 @@
-<!-- DRAFT: written by agent on 2026-10-10 for the author's review. Not canon until accepted. -->
+<!-- DRAFT: written by agent on 2026-10-10, revised 2026-10-10 after whole-book audit, for the author's review. Not canon until accepted. -->
 # Chapter 54: The last page
 
-At ten past six on the last evening of the year Laura came down to the kitchen and found her husband at the table with a pen, and stopped on the bottom stair to take a reading.
+At ten past six on the evening of Thursday the seventh of January, the week after New Year, with Epiphany just gone, Laura came down to the kitchen and found her husband at the table with a pen, and stopped on the bottom stair to take a reading.
 
 Posture: upright, forearm flat, weight forward. Not the hunch of the old months, the shoulders up round the ears like a man in a draught. Hand: steady. He wrote in blocks of four or five lines and then stopped, with the pen lifted, for about the time it takes to say a sentence under your breath, and then he wrote again. Colour good. He had put on the half-stone. The ribs had knitted at six weeks, as she had told him they would, and he had not asked her, and she had not told him again.
 
@@ -23,33 +23,31 @@ The book had been offered, of course. That had taken six weeks and she had follo
 
 The publisher said *the nine notebooks, Mr Whitlock, as they stand, with an introduction.*
 
-She did not tell him what to say. She had learned that, at least. He took the piece of paper by one corner and gave it back and said, very carefully, as if reading the number off a screen, that there were things in the books that were not his to sell. Laura had thought he would say it was private. He had said, instead, that the books contained people, and that the people had not agreed to be written down, and that there were dots at the end of the page for #1399, in a place where an honest man ran out of right. The publisher had asked what the dots were. Jonas had said: *the gaps. They are the only part I'd stand behind.*
+She did not tell him what to say. She had learned that, at least. He took the piece of paper by one corner and gave it back and said, very carefully, as if reading the number off a screen, that there were things in the books that were not his to sell. Laura had thought he would say it was private. He had said, instead, that the books contained people, and that the people had not agreed to be written down, and that there were dots at the end of #1399, in a place where an honest man ran out of right. The publisher had asked what the dots were. Jonas had said: *the gaps. They are the only part I'd stand behind.*
 
 The police had returned the books in the week before Christmas, in two grey boxes with a form. He had read the ninth to its last line, standing, in the hall, and then gone out and photographed all of it, a thing he did without thinking. The eight had gone back to the toolbox in Lewisham. She had gone with him that time, and sat on the upturned crate beside him in the garage that smelled of his father's oil, with Elsie in the sling asleep, and watched him lay them in, one by one, in order, on a folded cloth. He had not said anything. She had not asked him to. When he shut the lid he put his hand flat on it for a count that she knew was ten.
 
 The ninth had been finished. The tenth had begun on a Saturday in October with a strip of cellophane peeled off by her own thumbnail.
 
-The job she had learned by sitting next to it. He had taken the Bank's offer in the second week of December and told her in the car, at a red light, in a voice as flat as the road. A room on the fourth floor of the building in Threadneedle Street, the one from which a deputy governor had watched the morning on a screen; Priya, in a cast and then out of it, and four others; a standing order from the Governor to look under the promises. He had said *it's the same work, with people who can answer back.* Laura had thought: that is exactly what you need. And had said so, which was a thing she had not been able to do for four years, because for four years she had not known what the work was.
+The job she had learned by sitting next to it. He had taken the Bank's offer in the second week of December and told her in the car, at a red light, in a voice as flat as the road. A room on the fourth floor of the building in Threadneedle Street. Laura had said to her mother, loosely, that he was working in the room where the transaction was built, which was not true, that room being a dealing room in St James's; she meant the building from which the Deputy Governor had watched it on a screen. Priya, in a cast and then out of it, and four others; a standing order from the Governor to look under the promises. He had said *it's the same work, with people who can answer back.* Laura had thought: that is exactly what you need. And had said so, which was a thing she had not been able to do for four years, because for four years she had not known what the work was.
 
 He went in three days a week. He came home before six. On the first day he had come in at seven, pale, and said, *Priya told the Governor's deputy that he'd misread a table.* She had laughed until she was sick.
 
 ***
 
-At seven she took Elsie up. It took longer than it should, because Elsie, who had been walking for three weeks, had views on being carried, and then in the dark of the nursery, with the lamp turned to its lowest, she forgot them, in the middle of a sentence she was composing in a language of her own, and was asleep with her fist on the rabbit before Laura had put the second foot on the landing.
+At seven she took Elsie up. It took longer than it should, because Elsie, who had been walking for four weeks, had views on being carried, and then in the dark of the nursery, with the lamp turned to its lowest, she forgot them, in the middle of a sentence she was composing in a language of her own, and was asleep with her fist on the rabbit before Laura had put the second foot on the landing.
 
-Laura went down. He was still at the table, and the kettle had boiled and been left, and the light in the kitchen had the particular blue of an evening that has gone past its own end. He had been writing for two hours. He had five pages, she thought, or six, and she had not seen him turn back once. In ten weeks she had never read a line. She was not going to begin with the last.
+Laura went down. He was still at the table, and the kettle had boiled and been left, and the light in the kitchen had the particular blue of an evening that has gone past its own end. He had been writing for two hours. He had five pages, she thought, or six, and she had not seen him turn back once. In eleven weeks she had never read a line. She was not going to begin with the last.
 
 He wrote something, and stopped, and read it, and this time the pause was longer, and his hand moved up and stayed in the air above the page. She watched it. Lifted pen, a page he was not going to cross out. She thought, with the clarity that arrives in a consulting room when the patient has said the thing they came to say, *that is it. That is where it ends.*
 
-He signed it.
+He did not sign it. She had half expected him to: she saw the pen come down towards the foot of the page and stop a finger's width from the paper, as if it had come to a door, and go back up. He had never signed anything he wrote at that table. She had noticed it years ago, from the stair, in the way one notices a man who never says goodbye on the telephone, and had never asked why.
 
-She had not expected that. She saw the shape of it from across the kitchen, longer than a word, with a downward stroke at the end of the second part. He had never signed anything in a notebook. She knew, because the first thing he had told her about them, in the first year of the record, was that they were not to be signed, because a signature was a claim, and a record was only a record if nobody had claimed it.
-
-He looked at it for a long moment. Then he closed the book.
+He looked at the page for a long moment. Then he closed the book.
 
 It took a second, a plain soft sound, hardback on hardback, and the elastic band, which he drew across with his thumb and settled with the little tug she had watched him give it every night of their marriage. There were pages left. She could see the thickness of them under the cover, forty or more, blank and pale, waiting. He turned the book and set it down at the corner of the table, square to the edge.
 
-In the study desk upstairs were five more, in cellophane, in their box. She had counted them in October. She thought of them in the dark, and thought: *he is not going to open the box.* And then, because she was a doctor and did not trust a prognosis, *he is not going to open the box yet.* And then, for the first time in four years, the second thing struck her as the less likely one.
+In the study desk upstairs were five more, in cellophane, in their box. She had counted them in the autumn. She thought of them in the dark, and thought: *he is not going to open the box.* And then, because she was a doctor and did not trust a prognosis, *he is not going to open the box yet.* And then, for the first time in four years, the second thing struck her as the less likely one.
 
 He capped the pen.
 
@@ -57,9 +55,9 @@ She had never seen him do that. He left the pen uncapped beside the book, always
 
 'Done?' she said.
 
-'Done.' He looked at his hands, and then at her, and she could not read what was in the look, which was the first time that had happened in a year. 'Can I tell you what I wrote?'
+'Nearly.' He looked at his hands, and then at her, and she could not read what was in the look, which was the first time that had happened in a year. 'Can I tell you what I wrote?'
 
-'No,' said Laura. She crossed the kitchen, and put the oven on, and took the lid off the pan. 'Tell me tomorrow, or never, whichever you like. Mum's coming at one and I need you to carve.'
+'No,' said Laura. 'Tell me when you've finished.' She crossed the kitchen, and put the oven on, and took the lid off the pan. 'Tell me tomorrow, or never, whichever you like. Mum's coming at one and I need you to carve.'
 
 He laughed. It was a good laugh. She heard it come out of him the way you hear a joint move that has been stiff.
 
