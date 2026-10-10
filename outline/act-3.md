@@ -8,7 +8,7 @@ Chapters 43 to 55, about pages 300 to 400. Written by an agent on 2026-10-09 at 
 | --- | --- | --- | --- |
 | #1421 | Wednesday, week 4 | 43–50 | The broadcast, the signature, the night, the open |
 | #1422–#1424 | Thu–Sat | 51–52 | Fall and aftermath |
-| #1437 | Thursday, two weeks later | 53 | Polling day |
+| #1436 | Thursday, two weeks later | 53 | Polling day |
 | #1500 | About three months later | 54–55 | The end of the record |
 
 Act III runs almost entirely on one day. Chapters are shorter and faster than in act II.
@@ -69,7 +69,7 @@ The fund has made a great deal of money by saving the market it was blamed for b
 
 - **Purpose:** the geopolitical thread closed; the cost of being right in his world.
 
-### 53. Polling day — #1437, Thursday, two weeks later — Caroline Strand
+### 53. Polling day — #1436, Thursday, two weeks later — Caroline Strand
 
 Strand's party loses narrowly. She resigns as drafted. In her last interview she is asked whether she regrets ignoring the memo and says, for once, yes. She means it, which surprises her more than anyone.
 
@@ -89,7 +89,7 @@ Laura watches Jonas at the kitchen table in Herne Hill, writing. Elsie is walkin
 
 ### 55. #1500 — Jonas
 
-The final entry. Short. He does not count the years this time. He writes what he has learned, in one line, and then writes about Elsie's first word. He signs the entry, which he has never done, and stops.
+The final entry, eleven weeks after the broadcast (#1500, 79 days after #1421), New Year's Eve. Short. He does not count the years this time. He writes what he has learned, in one line, and then writes about Elsie's first word. He signs the entry, which he has never done, and stops.
 
 - **Purpose:** the end of the record is the end of the book. Mirrors chapter 1 in length and voice.
 
