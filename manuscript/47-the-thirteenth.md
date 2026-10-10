@@ -1,4 +1,4 @@
-<!-- DRAFT: written by agent on 2026-10-10, revised 2026-10-10 after consistency check, for the author's review. Not canon until accepted. -->
+<!-- DRAFT: written by agent on 2026-10-10, revised 2026-10-10 after whole-book audit, for the author's review. Not canon until accepted. -->
 # Chapter 47: The thirteenth
 
 Still #1421. I am writing the day in pieces, tonight, and this is the piece I would leave out if I were being kind to myself. I am not going to leave it out. The map I spent four years on had a hole in it, and a woman with one working hand found the hole by telephone at 8.40 in the morning, and if she had found it at 8.50 I would not be writing anything.
@@ -13,15 +13,15 @@ At 8.40 the saucer said, 'Thirteen.'
 
 'I'm sorry?'
 
-'I've got thirteen. Appendix C, the concentration table, by member code.' A page, loud. 'It's in the first year's table and then it isn't, for three years, except as a line in the lending schedule at the back of Q2. Four letters. Not one of your twelve. Graham's initials beside it and a word. "Remote." It was big, so it went in, and he rated it sound, which it was, and it dropped off the next table because nobody puts a sound member in a table of problems. The ninth lent its bonds to it, and the eleventh, and the twelfth. Their bonds sit with it overnight. It's the cash behind their cash.'
+'I've got thirteen. Appendix C, the concentration table, by member code.' A page, loud. 'It's in the first year's table and then it isn't, for three years, except as a line in the lending schedule at the back of Q2. Four letters. Not one of your twelve. Graham's initials beside it and a word. "Remote." It was big, so it went in, and he rated it sound, which it was, and it dropped off the next table because nobody puts a sound member in a table of problems. I think the ninth leans on it, and the eleventh, and the twelfth. I can't see their bonds go there. What I can see is the Q2 credit-line schedule and four years of when their cash arrives, and the cash of those three always comes in from the thirteenth. If I'm right, their bonds sit with it overnight. It's the cash behind their cash.'
 
 I did not say anything. I could feel the shape of it before I could see it, which has happened to me perhaps four times in my life and each time I have wished it had not.
 
 'Whoever has the dealers,' she said, to the table, not me. 'Can you look at the price of insurance on that code? What it costs to protect against its failing.'
 
-The sterling-book head looked at a screen. 'Five weeks,' she said. 'Quiet. Up eleven basis points, a bit every day. Small pieces, three brokers, never the same size twice.' She looked up. 'I assumed it was a hedge somebody was running on the system. I have seen that footprint. I have seen it on the twelve.' She said the name of the firm.
+The sterling-book head looked at a screen. 'Five weeks, as far as I can see it,' she said. 'Quiet. Up eleven basis points, a bit every day. Small pieces, three brokers, never the same size twice.' She looked up. 'I assumed it was a hedge somebody was running on the system. I have seen that footprint. I have seen it on the twelve.' She said the name of the firm.
 
-'It's not a hedge,' said Priya. 'It's a short. They've been building it for five weeks, so that at ten, when we start buying, they can start pushing. Not on the twelve. On the thirteenth.'
+'It's not a hedge,' said Priya. 'It's a short. And it's older than the map and older than our buyer, so it was never built against us. It's the one name Crane never needed the map for, because it never failed, and that is exactly why the map misses it. He's been holding it for this morning, so that at ten, when we start buying, he can start pushing. Not on the twelve. On the thirteenth.'
 
 I said, because someone had to: 'My record doesn't have it.'
 
@@ -31,7 +31,7 @@ I said, because someone had to: 'My record doesn't have it.'
 
 The Deputy Governor said, 'Mr Whitlock. Please say it in a sentence.'
 
-I said it in two. The fund buys the first eleven in order, and they are fine, and by the time it reaches the twelfth the thirteenth has been under attack for an hour, and a bank that is under attack is calling in what it lent. The twelfth's bonds are at the thirteenth. They do not come home. We buy the twelfth's debt and the bonds that should stand behind it are locked in a firm that is itself going. The chain breaks at the end, where it is longest, and we have spent the Bank's money getting there.
+I said it in two. The fund buys the first eleven in order, and they are fine, and by the time it reaches the twelfth the thirteenth has been under attack for an hour, and a bank that is under attack is calling in what it lent. If she is right, the twelfth's bonds are at the thirteenth. They do not come home. We buy the twelfth's debt and the bonds that should stand behind it are locked in a firm that is itself going. The chain breaks at the end, where it is longest, and we have spent the Bank's money getting there.
 
 'And the fix?' she said.
 

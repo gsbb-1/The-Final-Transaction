@@ -3,7 +3,9 @@
 
 Thursday. Ordinary. I am writing that down because I want it on the page before whatever comes after it.
 
-Up at 6. Elsie slept through, the first time in nine nights, and we lay in the dark not saying so in case it heard. Photographed last night's page. Checked the address. Checked it again. Sent it to myself and watched it arrive.
+Up at 6. Elsie slept through, the first time in nine nights, and we lay in the dark not saying so in case it heard. Photographed last night's page, out of habit, and did not send it.
+
+I should put down why. At ten past one this morning, after Laura had gone up, I opened the account those pictures go to and deleted all of them: 1,399 pages, every one I have ever sent myself. Someone at Walbrook has opened one picture. I could not tell whether the account was next, or whether a lawyer with an order could reach it, and a copy that someone else can read is not a copy, it is a leak. I think it was the right decision. It is also the stupidest I have made in five years, because the books in the garage are now the only copy there is, and I made them so at one in the morning without asking anyone. From today the picture stays on the phone.
 
 The 7am call went out and was met by nine. Gilts down a little overnight, nothing to see.
 
