@@ -63,7 +63,14 @@ The publishing route is not yet decided. Choose one, record the decision in `PLA
 
 Newest first.
 
-### In progress — iteration 3 of 4 complete
+### draft-1 — 2026-10-10
+
+- Word count: about 113,000 words of prose (comments excluded), 55 chapters; by `wc -w` including comments about 116,000.
+- Chapters: 1 (the author's paragraph opens it; an agent expansion follows) and 2–55, all agent drafts awaiting the author's review. Each carries a DRAFT comment on line 1.
+- What it is: the complete first draft, written by subagents from `outline/` and `characters/` under `outline/style.md`, after background research (`research/`). Consistency-checked in four passes (notes/ for each); the findings fixed are listed there.
+- Known problems to fix in the next pass: see `notes/draft-1-consistency-check.md` (pace and cut list, voice tics, the withheld seventh-book entry, unverified finance and procedure, 76 VERIFY notes, chapters over the 2,000-word guide).
+
+### Before draft-1 — iteration 3 of 4 complete
 
 - 2026-10-10: Act II second half drafted, chapters 29–42, to the all-is-lost moment and Jonas's decision to go live. Manuscript 42 chapters, about 91,000 words. Consistency check over chapters 1–42; high and medium findings fixed. Not yet reviewed by the author.
 - 2026-10-09: Act I revised after background research (the record is inferred fingerprints; margin is cash; the Bank of England named; Priya's login is the police hook). Act II first half drafted, chapters 15–28, to the midpoint. Manuscript about 55,000 words. Consistency check run over chapters 1–28; high and medium findings fixed. Not yet reviewed by the author.

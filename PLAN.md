@@ -4,16 +4,16 @@ How [IDEA.md](IDEA.md) becomes a published novel. Tasks for the current mileston
 
 ## Current milestone
 
-**Iteration 3 of 4 complete; awaiting the author's review before iteration 4** (act III, chapters 43–55, whole-book pass, `draft-1`).
+**Iteration 4 of 4 complete: the first draft is finished and tagged `draft-1`.** Next: the author's read-through, then M3 Revision.
 
 ## Milestones
 
 | # | Milestone | Goal | Done when | Status |
 | --- | --- | --- | --- | --- |
 | M0 | Concept | Fix the premise and the main choices | Logline, premise, protagonist, antagonist, setting and point of view are written in `IDEA.md` | Mostly done |
-| M1 | Story design | Know the whole story before drafting | Character profiles, research notes, and a chapter-by-chapter outline exist | In progress (iteration 1) |
-| M2 | First draft | Get the full story on the page | ~100,000 words drafted, start to finish | In progress (iterations 1–4) |
-| M3 | Revision | Fix the story | Structure, pacing, character arcs and plot holes resolved in a second draft | Not started |
+| M1 | Story design | Know the whole story before drafting | Character profiles, research notes, and a chapter-by-chapter outline exist | Done 2026-10-10 |
+| M2 | First draft | Get the full story on the page | ~100,000 words drafted, start to finish | Done 2026-10-10: 55 chapters, about 113,000 words, tagged `draft-1` |
+| M3 | Revision | Fix the story | Structure, pacing, character arcs and plot holes resolved in a second draft | Ready to start once the author has read `draft-1`; see `notes/draft-1-consistency-check.md` for the cut list and open questions |
 | M4 | Feedback | Test it on readers | Beta-reader feedback collected and incorporated | Not started |
 | M5 | Editing | Polish the prose | Line edit, copyedit and proofread complete | Not started |
 | M6 | Publication | Release the book | Published by the chosen route; see [RELEASE.md](RELEASE.md) | Not started |
@@ -80,6 +80,7 @@ Record significant decisions here, newest first.
 
 | Date | Decision | Why |
 | --- | --- | --- |
+| 2026-10-10 | Iteration 4 and `draft-1`. Act III revised in the brief (`notes/act-3-drafting-brief.md`): the broadcast and arrest, the indemnity signed at 7.02, release at 8.14, the transaction built in the fund's St James's dealing room and executed from Walbrook's risk room (Walbrook had cut its data and file links at six; voice and settlement stayed), the thirteenth member, the pursuit, Laura and Kessler at Aisha's, Crane's warrant. Polling day Thursday #1436; the last entry #1500 on Friday 8 January; Jonas numbers days, not pages; no stand-alone entry-number line in any chapter; Strand is twelve years at the Bar and fourteen in the House | Author asked for iteration 4. Dates fixed so Australian daylight saving fits the early-October setting |
 | 2026-10-09 | Iteration 2 begun. Research decisions (`research/corrections-from-research.md`): **P1** Jonas never sees the same gilt pledged twice; he reads the fingerprints of over-pledged collateral over four years (paired "timing" fails, cash paid at nine swapped for bonds at three, substitutions, leaked position reports) and infers the chains; the record is a pattern-match that no one can verify and he could be wrong. **P2** "Theft" stays as Walbrook's and the press's word, never a charge; Walbrook goes to court (interim injunction and delivery-up order, heard by phone on Sunday night, served Monday); the police hook is Computer Misuse: on Friday afternoon, after Jonas's access was cut, Priya logged in at his desk and pulled the member report for him, so both are exposed and Priya is the one detained. **P3** Priya is held about 20 hours (Sunday noon to Monday morning), released under investigation with phone and laptop kept and a bail condition not to contact Walbrook staff; nobody, including Jonas, knows where she is until Thursday. **P4** A clearing house has no open to miss: "Walbrook may not be able to meet its obligations; the Bank is considering resolution"; the final transaction runs through an indemnified Bank operation; the Tuesday open is delayed by the Bank and the exchanges, not Walbrook. **P5** The chapter 2 alert goes to a compliance reviewer, then the head of compliance, then Graham; Haldane's "close as personal, no action" stays as later ammunition. Also: the story is set in early October, year unfixed | Author asked for decisions that rely on existing development and maximise suspense. P1 adds doubt (he may be wrong); P2 gives Jonas and Priya a real legal exposure they caused themselves; P3 makes Priya's silence last four days; P4 makes the threat a resolution, which is bigger; P5 keeps Haldane's misconduct |
 | 2026-10-09 | Complete the first draft in four iterations, drafting by subagents from the outline; British English; first-person past-tense entries for Jonas, close third person for others; style guide in `outline/style.md` | Author's instruction to start filling the story and finish the 400-page novel by iteration four |
 | 2026-10-07 | Accepted the act I development suggestions (`notes/act-1-development.md`); act I outlined in 14 chapters; eight characters generated (`characters/`); setting London with real places and invented people and institutions; point of view first-person record entries for Jonas plus third-person chapters for others; the record is a daily handwritten log of collateral warning signs begun at 36 | Author instructed the agent to record the suggestions, write the outline and generate the cast. All details are proposals the author may change |

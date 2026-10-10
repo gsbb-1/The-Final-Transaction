@@ -2,24 +2,32 @@
 
 Ordered by priority, top first. Milestones are defined in [PLAN.md](PLAN.md).
 
-## Now — Iteration 3
+## Now — the author's read-through of `draft-1`
 
-- [ ] Author: items left in `notes/act-2b-consistency-check.md`
-- [ ] Author: review the chapter 1 expansion, chapters 15–42, and the items left in `notes/act-2-consistency-check.md`
+- [ ] Read the whole manuscript (55 chapters, about 113,000 words); mark what to keep, cut or change
+- [ ] Decide the open questions in `notes/draft-1-consistency-check.md` (show or withhold the seventh-book entry; a second use of "the final transaction"; the cut list)
+- [ ] Accept or change the working choices recorded in `PLAN.md` (London, invented people and institutions, first-person record entries for Jonas and close third for others, British English)
+- [ ] Review the research corrections and the 76 `VERIFY` notes; have a finance expert read the climax (chapters 36–49)
+- [ ] Items left in `notes/act-2-consistency-check.md` and `notes/act-2b-consistency-check.md`
 
-## Next — Iteration 4
+## Next — M3 Revision
 
-- [ ] Draft chapters 43–55 (act III); whole-book consistency pass; fix high-severity findings; tag `draft-1`
+- [ ] Trim: chapters 15–19, 29–33 and 36–41 (see the cut list); target about 100,000 words if the author wants the 400-page length
+- [ ] Differentiate the Jonas voice by situation; reduce the repeated tics ("hands flat", "I want that down", "in the voice of a man")
+- [ ] Show or cut the seventh-book entry
+- [ ] Strengthen the climax's jeopardy (chapter 49) and make the Cannon Street run necessary
+- [ ] Remove the DRAFT comments chapter by chapter as the author accepts each; resolve or remove each VERIFY
 
 ## Later
 
-- [ ] M3: Read the full draft through and revise structure, pacing and character arcs
 - [ ] M4: Recruit beta readers, including one with finance expertise
 - [ ] M5: Line edit, copyedit and proofread
 - [ ] M6: Decide the publishing route and update `RELEASE.md` to match
 
 ## Done
 
+- [x] Iteration 4: draft chapters 43–55; whole-book consistency pass; `draft-1` tagged (2026-10-10)
+- [x] Iteration 3: draft chapters 29–42; check; fixes (2026-10-10)
 - [x] Draft chapters 29–42; consistency check of 1–42; high and medium findings fixed; ledger updated (2026-10-10)
 - [x] Name the audience and comparable titles in `IDEA.md` (2026-10-09)
 - [x] Author confirmed no `#1399` line; chapter 1 expanded to ~2,000 words; convention recorded (2026-10-09)
