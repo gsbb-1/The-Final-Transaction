@@ -75,7 +75,7 @@ Kessler had on a dark coat, no scarf, no bag. Her hands were empty and in her la
 
 I said nothing.
 
-'The entry where the handwriting changes.' She did not look at me. 'I knew what it was before I'd read ten lines. I stopped. I put it back in the bag and I was not good company for a week.' Her voice did not alter. 'That is why I said no to him on Tuesday. I would like you to know that it was not conscience. It was a page.'
+'The entry where the handwriting changes.' She did not look at me. 'I had read enough of them by then to know what it was before I'd read ten lines. I stopped. I put it back in the bag and I was not good company for a week.' Her voice did not alter. 'That is why I said no to him on Tuesday. I would like you to know that it was not conscience. It was a page.'
 
 We sat. A child went by on a scooter, shrieking, and she did not turn her head.
 
@@ -101,7 +101,7 @@ Second sitting. 9.40pm. Home, since Thursday, with the door locked and a thing I
 
 Laura came in from the kitchen with a plate for me and set it down, and beside it, from the pocket of her cardigan, a black notebook still in its cellophane, from the box of six in the study desk.
 
-'Well?' she said.
+'You saw her?' she said.
 
 'She asked what I'd do with the others. I told her I'd finish them.'
 

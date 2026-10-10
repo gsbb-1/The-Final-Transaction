@@ -1,7 +1,7 @@
 <!-- DRAFT: written by agent on 2026-10-10 for the author's review. Not canon until accepted. -->
 # Chapter 53: Polling day
 
-The letter was in her handbag, in a plain envelope, where she had kept it for fifteen days. It was one paragraph long and addressed to the prime minister, and she had drafted it herself on the Wednesday morning with the television on and the sound off, and had left the date blank, because a date was a fact and she had wanted, for a while, to see what she would do with the days before it.
+The letter had been in the red box, then in her handbag, in a plain envelope, for fifteen days. It was one paragraph long and addressed to the prime minister, and she had drafted it herself on the Wednesday morning in the hours before the exchanges opened, and had dated it that morning for the Friday after polling day, because a date was a fact and she had wanted to be bound by one.
 
 Thursday. Seven-ten. The polling station was a primary school in her constituency, in a hall that smelled of floor polish and radiators, and the presiding officer, a woman in a lanyard who had voted for her twice, said 'Good morning, Chancellor,' and then, in a smaller voice, 'Good luck,' and then looked as though she wished she had said the first one only.
 
@@ -51,17 +51,17 @@ She had said, in twenty years, what she meant a great many times. She had never 
 
 ***
 
-At twenty past four she was in the car, going back to London, and the prime minister's concession had been on the radio for forty minutes. He had used the word *honour*. He had thanked her by name.
+At twenty past four in the morning she was in the car, going back to London, and the prime minister's concession had been on the radio for forty minutes. He had used the word *honour*. He had thanked her by name.
 
 'The letter,' she said.
 
 'Chancellor?'
 
-'It is to be dated today. It is Friday. Have the private office send it to the prime minister's, by hand, before the man's speech is repeated at eight.' She opened her bag, and took out the envelope, and handed it forward. 'And the committee.'
+'It is dated today. It is Friday. Have the private office send it to the prime minister's, by hand, before the man's speech is repeated at eight.' She opened her bag, and took out the envelope, and handed it forward. 'And the committee.'
 
 Carrow turned in the seat. In the dark of the car she could see the edge of his face, and the folder on his knee.
 
-'The Treasury's copy of the memo has a stamp on it, a reference, and a margin,' she said. 'In the margin on page four there are three letters and a date. They are my initials. Whoever asks for the file will see them.'
+'The Treasury's copy of the memo has a stamp on it, a reference, and a margin,' she said. 'In the margin on page four there are two letters and a date. They are my initials. Whoever asks for the file will see them.'
 
 'The department's position, Chancellor, is that—'
 

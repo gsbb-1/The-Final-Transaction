@@ -81,7 +81,7 @@ It is the first thing of mine that has ever been given a number by someone else.
 
 Calloway stood behind them with both hands in his coat. He said, to the woman, in a perfectly level voice, 'He was never going to run. I'd like that noted,' and she said that it was noted.
 
-They walked me out through the glass doors. I looked at the street, as I had wanted to. Two taxis. A man with a dog. The bin lorry, its yellow light going round on the front of the building. And on the far side, a grey saloon with its engine running and one man at the wheel, the grey car Kessler had told me on Tuesday was Crane's.
+They walked me out through the glass doors. I looked at the street, as I had wanted to. Two taxis. A man with a dog. The bin lorry, its yellow light going round on the front of the building. And on the far side, a grey saloon with its engine running and one man at the wheel, the grey car I had taken, since Kessler's visit on Tuesday, to be Crane's.
 
 I did the thing I do. I counted. One car. One man that I could see. The window a hand's width down.
 

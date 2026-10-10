@@ -79,7 +79,7 @@ She stood behind the door with her back to the wall, her own pulse at about nine
 
 Kessler wore a grey coat, carried no bag, and stood at the foot of the step with her hands in her pockets. She spoke to the older man the way a registrar speaks to a consultant who has done something stupid.
 
-'You rang me on Saturday from a car,' Kessler said, 'and told me what you had done on Friday at a quarter to eleven. Stairs, fifth floor, a girl. I wrote it down. The time you rang, the time you said it happened, what you said Mr Crane had paid you and what he had paid you out of. It is typed. It is with a solicitor who has been told to open it if I do not collect it by noon.'
+'You rang me on Saturday from a car,' Kessler said, 'and told me what you had done on Friday at ten to eleven. Stairs, fifth floor, a girl. I wrote it down. The time you rang, the time you said it happened, what you said Mr Crane had paid you and what he had paid you out of. It is typed. It is with a solicitor who has been told to open it if I do not collect it by noon.'
 
 'Dana—' said the older man.
 

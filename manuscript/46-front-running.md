@@ -29,7 +29,7 @@ They would buy. That was the whole of it, and he had known it by the second minu
 
 Everything Greywether owned depended on prices that went on falling.
 
-He had, in the cabinet behind him, the original of the page. The corner of it was faintly brown. He did not take it out. He did not have to; it was in his head the way the books were in his head, and for the first time since the Wednesday before last it did not feel like a possession. It felt like a bill.
+He had, in the cabinet behind him, the original of the page. It was a plain folded sheet in a clear sleeve. He did not take it out. He did not have to; it was in his head the way the books were in his head, and for the first time since the Wednesday before last it did not feel like a possession. It felt like a bill.
 
 His telephone rang at 8.04. He knew the number.
 
@@ -87,7 +87,7 @@ He pressed a different number and did not give his name.
 
 He had expected the question. He had not expected the little cold lift of the stomach that came with it, a sensation that in his own account he would later describe as irritation. Kessler would have said the child was not a price. Kessler would have said it standing in his room with her hands in her pockets, in a voice that made one want to put the question again to see whether it would crack. Kessler was gone. This one had been sent to the stairs on Friday and had gone. This one was waiting.
 
-'There will be someone to meet you. The man has a daughter,' said Crane. 'You know where she is. You followed the car on the Saturday. Go there first. Bring her to me. Nobody is to touch her.' The cold went through him again and he put it into his voice as patience. 'I should like to talk to him and I should like him to listen. That is all I am asking. Do you understand what I am asking?'
+'There will be someone to meet you. The man has a daughter,' said Crane. 'You know where she was. You followed the car on the Saturday, and lost it at the roundabout, and found it again on Monday outside a house with a plane tree. She moved on Tuesday and I am told she moved back this morning, because the man she is married to has stood in front of a camera and a mother goes where her friends are. Go there first. Bring her to me. Nobody is to touch her.' The cold went through him again and he put it into his voice as patience. 'I should like to talk to him and I should like him to listen. That is all I am asking. Do you understand what I am asking?'
 
 'Yes, Mr Crane.'
 
