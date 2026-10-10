@@ -115,6 +115,6 @@ There is nothing in the handbook about what to say when someone is right.
 
 She went.
 
-Entries in this record where the fingerprints say one line of bonds is standing behind two promises at once: 94, with today's. Times I have seen the bond itself in two places: none. Times it has been formally written up: twice. Once at 37, by me. Once today, by her.
+Entries in this record where the fingerprints say one line of bonds is standing behind two promises at once: 95, with today's. Times I have seen the bond itself in two places: none. Times it has been formally written up: twice. Once at 37, by me. Once today, by her.
 
-She is the best analyst I have worked with. She will find it. I could save her a month by opening the bag. I have 94 entries that say what she will find, and no proof, and no answer to the question she will ask me when she does, which is why she is going to have to find it on her own.
+She is the best analyst I have worked with. She will find it. I could save her a month by opening the bag. I have 95 entries that say what she will find, and no proof, and no answer to the question she will ask me when she does, which is why she is going to have to find it on her own.

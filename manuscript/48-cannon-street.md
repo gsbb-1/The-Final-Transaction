@@ -51,9 +51,9 @@ On the centre screen, in the corner, in the colour I know best, a line was movin
 
 ***
 
-The grey car had been at the end of the road since ten past nine. It stood on the far side, nose out, under a plane tree, a hundred and fifty yards from the front window of Tom and Aisha's. Two shapes in it. Not moving. She stood in the front room with the curtain held back an inch. It was the same car. Same colour, same make, same absence of anything that made it a car you remembered. She had counted it for eight days at the end of a lane in Norfolk before she knew it was something, and on the Saturday it had been behind her all the way to this road. She knew now.
+Jonas had said anywhere but there, and she had heard him and gone there anyway, because it was the only door in London that was hers, and because a man who wants to find you will and a man who does not, won't. The grey car had been at the end of the road since ten past nine. It stood on the far side, nose out, under a plane tree, a hundred and fifty yards from the front window of Tom and Aisha's. Two shapes in it. Not moving. She stood in the front room with the curtain held back an inch. It was the same car. Same colour, same make, same absence of anything that made it a car you remembered. She had counted it for two days at the end of a lane in Norfolk before she knew it was something, and on the Saturday it had been behind her all the way to this road. She knew now.
 
-She had called 999 at 9.14 and been told that a vehicle would be allocated. She said there were men in the car and her daughter was in the house, and the woman said *I understand, madam*, and typed, and said a car would attend as soon as one was available, and gave her a reference number, which Laura wrote on her hand. It was the second time that week she had asked the state for help and been given a number.
+She had called 999 at 9.14 and been told that a vehicle would be allocated. She said there were men in the car and her daughter was in the house, and the woman said *I understand, madam*, and typed, and said a car would attend as soon as one was available, and gave her a reference number, which Laura wrote on her hand. It was the second time in a fortnight she had asked the state for help and been given a number.
 
 At 9.19 the two shapes got out.
 

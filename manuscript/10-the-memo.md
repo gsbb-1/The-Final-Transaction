@@ -19,7 +19,7 @@ The Chancellor at the head. Caroline Strand. Smaller than on television, and sti
 
 Strand didn't thank me for coming. 'Mr Whitlock. Richard, if you would.'
 
-Haldane: at 2.06pm the first of the three banks that clear for the fund I don't name here, and never have, had rung Walbrook to warn it of an instruction it had received that morning. The other two rang within the half hour. Nothing formal. There is nothing formal to give; a client tells its banks to close it out, and the banks do it. Carrow, not looking up: the fund's chief had rung the Chancellor's private office himself at twenty past nine that morning, which is why we were all in the room before the banks had finished typing. Line one. Positions to be closed from Monday's open, in size order. Collateral back to the fund the morning after each close. Bonds to be sold as they came back. All of it.
+Haldane: at 2.06pm the first of the three banks that clear for the fund I don't name here, and never have, had rung Walbrook to warn it of an instruction it had received that morning. The other two rang within the half hour. Nothing formal. There is nothing formal to give; a client tells its banks to close it out, and the banks do it. Carrow, not looking up: the fund's chief had rung the Chancellor's private office himself at twenty past ten that morning, which is why we were all in the room before the banks had finished typing. Line one. Positions to be closed from Monday's open, in size order. Collateral back to the fund the morning after each close. Bonds to be sold as they came back. All of it.
 
 'I'm told you are the person who can explain what that means,' Strand said. 'In terms I can use.'
 

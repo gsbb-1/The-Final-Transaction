@@ -31,7 +31,7 @@ He took the first book out. The elastic band had gone slack with four years of s
 
 Crane read for an hour before he looked up.
 
-The entries were short. The man counted everything: minutes, confirmations, the number of times a word was used in a day. He never wrote a name. He wrote codes, four letters, which Crane did not know and did not yet need to. He wrote what each code had posted at seven and what it had at three, which lines had failed, who had paid late and by how many minutes, and then, about one entry in twelve, a sentence that was not a fact. *I think this is one bond going round. I cannot prove that.*
+The entries were short. The man counted everything: minutes, confirmations, the number of times a word was used in a day. He never wrote a name. He wrote codes, four letters, which Crane did not know and did not yet need to. He wrote what each code had posted at seven and what it had at three, which lines had failed, who had paid late and by how many minutes, and then, most weeks, a sentence that was not a fact. *I think this is one bond going round. I cannot prove that.*
 
 By the end of the first book Crane had eleven codes down the margin of a sheet of his own paper with a mark beside each for every bad morning it appeared on, and found that he was doing, with a pencil, exactly what the man in the books had never once done. The man had written it all down one day at a time and never turned round to look at the row of days behind him. It had taken a stranger an hour.
 
@@ -41,11 +41,11 @@ His assistant brought coffee at eleven and did not speak. The floor hummed throu
 
 The second book had the entry he had heard about and not seen. #212. Two members, the same line, the same morning, both saying timing, both paying cash at nine and swapping bonds back in within four minutes of each other at ten past three. The man had written: *I think it is one bond, going round. I cannot prove that.* Crane read it twice. It was good. It was exactly right, and it had been exactly right 1,200 days ago, and the man had closed the book and gone to bed.
 
-The third book had the memo. #304: a date, a title that Crane thought rather fine, the recipients, the covering phrase, *one analyst's view*, and the sentence about three years. And then, three weeks later, an entry that Crane read standing up, because he had got up to stretch and had not sat down again.
+The second book had the memo. #304: a date, a title that Crane thought rather fine, the recipients, the covering phrase, *one analyst's view*, and the sentence about three years. And then, three weeks later, an entry that Crane read standing up, because he had got up to stretch and had not sat down again.
 
 *Graham says the Treasury have noted it. He was relieved. He paid for the coffee.*
 
-And in the ninth book, on the page before the one with the four lines about turning forty, the sentence the earlier entry had not finished: *I will put down something I have never put down: so was I.* Three years to say it.
+And in the ninth book, on the page after the one with the four lines about turning forty, the sentence the earlier entry had not finished: *I will put down something I have never put down: so was I.* Three years to say it.
 
 Crane put the book down and went to the window. A warden was writing a ticket in the quiet street. He had spent twenty-five years being told by men like the one in these books that he was lucky, and had come to understand that they were describing themselves: a man who believes in luck is a man who has seen the thing coming and decided that seeing was enough. Here was one who had seen it at thirty-six, written it down at thirty-seven, been *relieved* when nobody listened, and gone on seeing it for three more years, every night, in a hand that never shook, and had never once in 1,400 evenings done anything about it that could not be filed.
 

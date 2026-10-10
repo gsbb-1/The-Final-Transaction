@@ -83,7 +83,7 @@ At twenty past seven the private office emptied, and she said that she would rea
 
 The box was on the side table. The folder was where it had been since the Wednesday before the sinking, with Simon's yellow flag on it, and his cover note on top, two paragraphs, which she had read. She took the cover note off and put it face down on the desk and sat with the six pages in front of her and did not, for a moment, turn the first one.
 
-She had cross-examined on a thousand documents. She knew how to read one: not for what it said, but for where it was weak, for the adjective that was doing work the facts would not do, for the table whose columns did not quite add. She had read the first page of this one a week ago Saturday, across a table, upside down, while a man in a torn coat told her what it meant, and she had read the sentence everyone had read, and she had turned no page because she had not needed to; she had needed the man's signature, not his argument.
+She had cross-examined on a thousand documents. She knew how to read one: not for what it said, but for where it was weak, for the adjective that was doing work the facts would not do, for the table whose columns did not quite add. She had read the first page of this one a week ago Saturday, across a table, upside down, while a man in a good suit told her what it meant, or in the one he had been given, and she had read the sentence everyone had read, and she had turned no page because she had not needed to; she had needed the man's signature, not his argument.
 
 She turned the page.
 

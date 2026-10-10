@@ -41,7 +41,7 @@ Crane said nothing. The waiter came and he ordered the sole, and Pell ordered wh
 
 Crane waited.
 
-'Carrow wrote on Sunday. Not Richard. Richard made a complaint about an access breach on Friday afternoon, a girl on Whitlock's team who logged in at his desk and pulled a report after his access had been cut; that's all the firm did, and it did it because the lawyers said it must. It was Carrow's letter that had two officers at her door on a Sunday. They held her overnight. Computer misuse, the custody sheet says. Released yesterday morning, under investigation, no charge. They've kept her phone and her computer and told her not to speak to anyone at the firm.' <!-- VERIFY: a Treasury director's written request leading the Met to act within hours on a Sunday; research says realistic in kind (the Damian Green pattern) but notes it is unconfirmed whether an official could in practice steer a detention -->
+'Carrow wrote on Sunday. Not Richard. Richard made a complaint about an access breach on Friday afternoon, a girl on Whitlock's team who logged in at his desk and pulled a report after his access had been cut; that's all the firm did, and it did it because the lawyers said it must. It was Carrow's letter that had two officers at her door on a Sunday. They held her overnight. Computer misuse, the custody sheet says. Released on bail yesterday morning, no charge. They've kept her phone and her computer and told her not to speak to anyone at the firm.' <!-- VERIFY: a Treasury director's written request leading the Met to act within hours on a Sunday; research says realistic in kind (the Damian Green pattern) but notes it is unconfirmed whether an official could in practice steer a detention -->
 
 'The girl, Anthony?'
 

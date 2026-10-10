@@ -69,7 +69,7 @@ She stood up, because she thought better standing, and because she wanted a mome
 
 A week ago she had sat at the head of a table and told a man that the system was held up by the belief that it was held up. The difference was that a week ago she had thought belief was something she could manufacture by saying the right sentence on breakfast television, and that if the risk manager signed it as well, it would hold. He had not signed. She had said it anyway. It had held for forty minutes.
 
-The memo was in her box. It had been in her box since the Wednesday before the sinking, in a folder Simon had marked with a yellow flag, and she had read Simon's cover note, two paragraphs, and not the six pages under it. She knew the phrase in it, because everyone did now: approximately three years. She noticed that she was thinking about the memo instead of the decision, and recognised the manoeuvre, because she had watched juries do it.
+The memo was in her box. It had been in her box since the Wednesday before the sinking, in a folder Simon had marked with a yellow flag, and she had read Simon's cover note, two paragraphs, and not the six pages under it. She knew the phrase in it, because Carrow had put it in the cover note: approximately three years. She noticed that she was thinking about the memo instead of the decision, and recognised the manoeuvre, because she had watched juries do it.
 
 'If I give you the indemnity on Monday,' she said, 'what do you announce?'
 

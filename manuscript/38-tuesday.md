@@ -1,4 +1,4 @@
-<!-- DRAFT: written by agent on 2026-10-09 for the author's review. Not canon until accepted. -->
+<!-- DRAFT: written by agent on 2026-10-10, revised 2026-10-10 after whole-book audit, for the author's review. Not canon until accepted. -->
 # Chapter 38: Tuesday
 
 Tuesday. Week four. Entry #1420, on the back of Calloway's printer paper, in sittings, because the day did not allow for anything else. First sitting 10.20am, his kitchen table, the television on in the next room with the sound off.
@@ -49,7 +49,7 @@ May not be in a position to meet its obligations.
 
 Priya said, 'He said it. He actually said it on television,' and then nothing for some time, and neither did I. In the corridor a daughter asked her father what it meant and he said he did not know, love, something about banks.
 
-I will put down what it means, once. Walbrook stands in the middle; every promise between two members is a promise to Walbrook and from Walbrook, and that is the only reason they trust each other. If Walbrook cannot meet its obligations, then tomorrow morning nobody knows what they are owed. Not a loss; a loss is a number. A blank. Every pension fund that hedged the pensions it owes has a hedge with no one on the other end. Every rate in the country is priced off a market that has stopped, and so is every rate everywhere that has ever dealt in pounds, and the first thing people do when they do not know what they are owed is not pay anyone. That is the freeze. Nine books describing it, and I had to write the sentence in a hospital.
+I will put down what it means, once. Walbrook stands in the middle; every promise between two members is a promise to Walbrook and from Walbrook, and that is the only reason they trust each other. If Walbrook cannot meet its obligations, then tomorrow morning nobody knows what they are owed. Not a loss; a loss is a number. A blank. Working it through as I would a call sheet: a pension fund that hedged its pensions through the clearing house would be holding a hedge it could no longer be sure had anyone on the other end. Every rate in the country is priced off a market, and a market with a blank in the middle of it cannot price anything, in the country or anywhere that has ever dealt in pounds. The first thing people do when they do not know what they are owed is not pay anyone. That is the freeze. Nine books describing it, and I had to write the sentence in a hospital.
 
 12.20. The pound fell through a number last seen before I was born. <!-- VERIFY: sterling below any level since the 1970s or the 1985 low; the exact figure is deliberately not given -->
 
@@ -59,7 +59,15 @@ Priya watched my face while I read that and said, 'Don't.'
 
 'Don't what.'
 
-'Don't do the sum. I can see you doing it. Two of twelve, third in trouble, fourth named, and you're working out the day of the week for the twelfth. Stop.' She shut her eyes. 'You were right. We know. Everybody in the country knows now, Jonas, and it's doing them precisely as much good as it did you.'
+'Don't do the sum. I can see you doing it. Two of twelve, third in trouble, fourth named, and you're working out the day of the week for the twelfth. Stop.' She shut her eyes and opened them again. 'And I'll say this once, because you won't. Second, third, fourth in the order on the page doesn't prove the page. Crane had the page. He pushed them in that order.'
+
+'Then they fell because—'
+
+'It proves he read it the way you do. It doesn't prove the map.'
+
+I did not argue. It is the first sum today that came out as something I could not use. Being right and being proved right have come apart, and I am sitting in the gap, in a plastic chair.
+
+'Everybody in the country knows the names now,' she said, 'and it's doing them precisely as much good as it did you.'
 
 They came with the torch at 1.30 and asked her the date and she told them, and the pound. I came out here because she had gone very quiet and I know what her quiet is for.
 
@@ -83,7 +91,7 @@ All options including resolution. Nobody has ever done it. Resolution is a fire 
 
 Twelve names. I have checked the order against today and it is the order. Second at 10.02. Third at 12.44, alive on borrowed money. Fourth named by one. I have a page and a memory and the fact that every single thing on the page has been right, in sequence, at the hour, and that the man who stole it has made more money today than most countries, and that the man who drew it is in a borrowed kitchen with the lights off, correct.
 
-What the man who drew it could have done at 36 is for another night. Tonight only the fact: I was right about the names and the order and the day, and the clearing house I spent five years inside may not exist tomorrow, and the first did nothing whatever to the second.
+What the man who drew it could have done at 36 is for another night. Tonight only the fact: The names and the order and the day came out as I wrote them, which means I was right or that he read it as I do, and the two look the same from here; and the clearing house I spent five years inside may not exist tomorrow, and the first did nothing whatever to the second.
 
 I know roughly where my wife is tonight, and I cannot go there. I have written round that sentence twice today and I am putting it down straight. Nor my daughter. I have the number of a landline in Norfolk and a rule about not ringing it from a phone, and the rule is still the right rule, and it means the only two people I could not bear to lose are the two I cannot reach.
 

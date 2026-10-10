@@ -69,7 +69,7 @@ He had believed for two weeks that he served his client best by leaving. He had 
 
 'How long,' he said, 'before the new man is in this chair and able to sign?'
 
-Nasser considered. 'The council meets Monday. Consultations, they say, so there will be a form of hearing, which is to say they will let you speak. A week, sir, perhaps. Perhaps less, if your cousin has done his counting. Before the end of next week, somebody else will be the fund in London.'
+Nasser considered. 'The council sits on Wednesday. Consultations, they say, so there will be a form of hearing, which is to say they will let you speak. A week, sir, perhaps. Perhaps less, if your cousin has done his counting. Before the end of next week, somebody else will be the fund in London.'
 
 'Then I have a week in which I am still the fund in London.'
 

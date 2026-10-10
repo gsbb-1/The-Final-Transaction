@@ -33,7 +33,7 @@ Disaffected. Four syllables. I said them under my breath and the woman at the ne
 
 I have made no claims. I have made one disclosure, on Friday, to the Bank of England, through the route the Bank provides for exactly that. If that is a claim, I was irresponsible to use the right form. Unless she meant Priya. Priya said she would send the number to the Bank and to a journalist, and then she stopped answering her phone, and somewhere between those two facts there may be a newspaper that has it. I do not know. That is the point. I am sitting in a café learning what is happening to me from a ticker.
 
-7.58. The ticker again. Walbrook declares a clearing member in default.
+7.58. The ticker again. A clearing member tells Walbrook it will not pay, and Walbrook declares it in default an hour ahead of the deadline, on its own word.
 
 I knew the name. Everyone in the building would know it. One of the five largest. I am not writing it down because by the time anyone reads this it will be in every paper, and because I do not want it in my hand.
 

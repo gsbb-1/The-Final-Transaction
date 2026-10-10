@@ -1,4 +1,4 @@
-<!-- DRAFT: written by agent on 2026-10-09 for the author's review. Not canon until accepted. -->
+<!-- DRAFT: written by agent on 2026-10-10, revised 2026-10-10 after whole-book audit, for the author's review. Not canon until accepted. -->
 # Chapter 30: In his head
 
 Wednesday. #1414. A reporter's pad of Calloway's, spiral at the top, lined, the first eleven pages torn out by him and the twelfth by me because it had a phone number on it. I have never written an entry on anything but a black A5 book with an elastic band, and I am going to write that once and not again: from here on I write on what there is.
@@ -26,6 +26,14 @@ She sat down across from me. She did not say anything for a while. Then she said
 'The page was in the ninth.'
 
 'Yes.'
+
+'Is there a copy? Anywhere. You photographed them. You told me you photographed every page.'
+
+I had told her. 'Every morning, for 1,398 mornings, to my own inbox. I deleted the lot at one o'clock on the Thursday morning after the email went to the wrong address, 1,399 photographs, because I thought the account was watched and that Walbrook's lawyers would be in it by the weekend. It was the right decision. It was also the stupidest thing I have ever done, and I did both with the same hand.'
+
+'So no.'
+
+'No.'
 
 She put her hands flat on the table the way Laura does, and I understood that I have been living for a week among women who do that before they say something.
 
@@ -79,7 +87,7 @@ Her copy. Twelve codes down the left, in her hand, and a number beside each one.
 
 'Nothing.'
 
-'It's a page with twelve words on it. The holdings were the evidence. The dates were the evidence. Four years of a code standing next to a fingerprint was the evidence. A central bank needs to be told what each of these twelve is holding and how much of it is promised twice and on what day you saw it, with the entry number, and then it needs to be able to check, and we can't give it one of those things. We can give it twelve words and your face.'
+'It's a page with twelve words on it. The holdings were the evidence. The dates were the evidence. Four years of a code standing next to a fingerprint was the evidence. A central bank needs to be told what each of these twelve is holding and what the fingerprints say and on what day you read them, with the entry number, and then it needs to be able to check, and we can't give it one of those things. We can give it twelve words and your face.'
 
 'Yes.'
 

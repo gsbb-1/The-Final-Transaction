@@ -9,7 +9,7 @@ Laura said, at the door, 'You have one week.' Not a question. She has stopped as
 
 ***
 
-Twelve names. I have had them since Thursday night, on one page, folded inside the ninth book, in Priya's handwriting and mine. Twelve members, in the order they fail, and what each is holding that it has promised to more than one person. I cannot prove a line of it. I have written that sentence in nine books and I am writing it again so that nobody who finds this page thinks I have forgotten.
+Twelve names. I have had them since Thursday night, on one page, folded inside the ninth book, in Priya's handwriting and mine. Twelve members, in the order they fail, and what, I think, each is holding that it has promised to more than one person. I cannot prove a line of it. I have written that sentence in nine books and I am writing it again so that nobody who finds this page thinks I have forgotten.
 
 What I can do is read it. And on the train, reading it for the ninth or tenth time, I did the sum I should have done a week ago. A map of where the selling will come from is only worth anything to two sorts of people: the people who want to sell first, and the people who could buy. Crane is the first sort. He has been paid every minute since last Monday and he still wants the books, and the reason he wants them is to know which three doors to kick next. I have spent a week running from the first sort. I have not once gone looking for the second.
 

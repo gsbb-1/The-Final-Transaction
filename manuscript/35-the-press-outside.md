@@ -95,8 +95,7 @@ Margaret looked at her for a while. Then she said, 'You've got his face on. The 
 
 She packed properly this time. The Sunday-night bag had taken eleven minutes; this took forty, and she did it the way she had done it then, nappies at the bottom, the thing Elsie would need first at the top, and she took the time because she had it and because packing was a thing her hands knew how to do while the rest of her did something else. The rabbit went in last, on top, where Elsie could see it from the seat.
 
-In the kitchen she opened the drawer where she had put the card. Plain white, a mobile number, nothing else. She stood with it for a moment and could not have said what she meant by it, except that it was the one telephone number in the country that led to the people who knew where her husband was before she did, and she was done with being the person in the house who had nothing. She put it in the back of her phone case. <!-- The card is a hook, not a plan: the author can cut it, or let it pay off in ch. 39–40 (Kessler finding Jonas; Laura ringing Kessler). It commits nothing -->
-
+In the kitchen she opened the drawer where she had put the card. Plain white, a mobile number, nothing else. She stood with it for a moment and could not have said what she meant by it, except that it was the one telephone number in the country that led to the people who knew where her husband was before she did, and she was done with being the person in the house who had nothing. She put it in the back of her phone case. 
 Elsie went into the seat at twenty past ten and did not argue, because the car was a thing that happened to her and she liked the trees going past. Margaret stood in the door with her arms folded over her cardigan and did not come to the gate, which Laura understood: a woman at a gate is a photograph, and a woman in a doorway is not.
 
 'Ring me,' Margaret said.
