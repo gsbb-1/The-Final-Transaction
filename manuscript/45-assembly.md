@@ -1,7 +1,7 @@
-<!-- DRAFT: written by agent on 2026-10-10 for the author's review. Not canon until accepted. -->
+<!-- DRAFT: written by agent on 2026-10-10, revised 2026-10-10 after consistency check, for the author's review. Not canon until accepted. -->
 # Chapter 45: Assembly
 
-Still #1421. Two sittings. The cell I wrote in the back of a car at 8.25 this morning, on the reverse of my bail form, with my own pen, which they gave back with my laces; I knew an hour like that would go if I did not hold it. The rest I am writing tonight. I have left the join where it falls.
+Still #1421. Two sittings. The cell and the release I wrote in the back of a car at 8.25 this morning, on the reverse of my bail form, with my own pen, which they gave back with my laces; I knew an hour like that would go if I did not hold it. The rest I am writing tonight. I have left the join where it falls.
 
 ***
 

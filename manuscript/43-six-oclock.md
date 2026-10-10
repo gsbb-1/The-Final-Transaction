@@ -1,7 +1,7 @@
 <!-- DRAFT: written by agent on 2026-10-10 for the author's review. Not canon until accepted. -->
 # Chapter 43: Six o'clock
 
-Wednesday, #1421. Written after midnight in one sitting, on the fund's paper, because I want the day in the order it happened and I know what I do to order afterwards. The first part is the part I can write straight. It lasted eleven minutes. I counted.
+Wednesday, #1421. Written in two sittings, the arrest in the car at 8.25 on the back of a bail form and the rest after midnight on the fund's paper, because I want the day in the order it happened and I know what I do to order afterwards. The first part is the part I can write straight. It lasted eleven minutes. I counted.
 
 ***
 
