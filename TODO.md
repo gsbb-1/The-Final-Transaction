@@ -4,8 +4,7 @@ Ordered by priority, top first. Milestones are defined in [PLAN.md](PLAN.md).
 
 ## Now — Iteration 3
 
-- [ ] Draft chapters 29–42 (act II, second half, to the all-is-lost moment) (subagents, in progress)
-- [ ] Consistency check of chapters 1–42; audit reveals against the plan; update the ledger
+- [ ] Author: items left in `notes/act-2b-consistency-check.md`
 - [ ] Author: review the chapter 1 expansion, chapters 15–42, and the items left in `notes/act-2-consistency-check.md`
 
 ## Next — Iteration 4
@@ -21,6 +20,7 @@ Ordered by priority, top first. Milestones are defined in [PLAN.md](PLAN.md).
 
 ## Done
 
+- [x] Draft chapters 29–42; consistency check of 1–42; high and medium findings fixed; ledger updated (2026-10-10)
 - [x] Name the audience and comparable titles in `IDEA.md` (2026-10-09)
 - [x] Author confirmed no `#1399` line; chapter 1 expanded to ~2,000 words; convention recorded (2026-10-09)
 - [x] Consistency check of chapters 1–28; high and medium findings fixed; ledger updated (2026-10-09)

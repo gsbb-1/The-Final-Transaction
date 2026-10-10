@@ -3,7 +3,7 @@
 
 The call came at ten to six on Friday morning, London time, which was mid-morning at home and the hour at which the men who ran his country liked to have done something before lunch. Khalid Al-Mansouri was dressed. He had been dressed since four, at the table under the window of a suite on Park Lane that his office kept for him and that he had not asked for, reading the overnight prices on a single sheet because he would not have a screen in the room.
 
-He knew the voice. The secretary to the council had been a clerk when Khalid was a boy and had risen by never once being the man who delivered news; he delivered texts, and read them in a tone that made clear he had not written them. He read this one in full. The council thanked the managing director for his service in a period of exceptional difficulty. It wished to consult him in person on the future disposition of the nation's assets abroad. He was recalled for consultations with effect from Monday. A seat had been reserved on Sunday night's flight. In his absence from London the office would report to the council directly.
+He knew the voice. The secretary to the council had been a clerk when Khalid was a boy and had risen by never once being the man who delivered news; he delivered texts, and read them in a tone that made clear he had not written them. He read this one in full. The council thanked the managing director for his service in a period of exceptional difficulty. It wished to consult him in person on the future disposition of the nation's assets abroad. He was recalled for consultations from Monday, and the council would confirm his position, which was the clerk's phrase for ending it, when it sat on Wednesday morning. A seat had been reserved on Wednesday's noon flight. In his absence from London the office would report to the council directly.
 
 'Who drafted it?' Khalid said.
 
@@ -15,7 +15,7 @@ He knew the voice. The secretary to the council had been a clerk when Khalid was
 
 'I heard you.'
 
-He put the telephone down and sat with his hand on it, as he had sat twice before in a fortnight, and found that this time there was nothing to consider. He had expected it. He had said as much to a man with a rucksack, ten days ago, in this room. *Before I am recalled, which will happen, because my cousin is not stupid.* It was almost a relief to be right about something.
+He put the telephone down and sat with his hand on it, as he had sat twice before in a fortnight, and found that this time there was nothing to consider. He had expected it. He had said as much to a man with a rucksack, three days ago, in this room. *Before I am recalled, which will happen, because my cousin is not stupid.* It was almost a relief to be right about something.
 
 ***
 
@@ -39,7 +39,7 @@ Nasser sat, which he did not usually do with the figures in his hand. Outside, t
 
 'No.'
 
-He had gone to the Bank on Thursday afternoon with nothing in his hands. That was the honest account, and he made himself give it, silently, in the words he would have used to his father. He had asked for the meeting on the Tuesday night from this table, within an hour of Whitlock leaving, and had been given Thursday at three: a deputy governor, two people from the side of the Bank that watched clearing houses, a room on the second floor with a portrait in it, tea. <!-- VERIFY: a sovereign fund's head would plausibly be received at deputy-governor level at short notice during a crisis; the room is invented --> He had been meant to bring a page with twelve names on it and an order, and the man who had the page. On Wednesday morning, at a quarter past nine, Whitlock had rung the office from a telephone number the office had on a visitor's slip and had said, to Nasser, that the page had been in the bag, and the bag was gone, and he was rebuilding it, and had rung off before Nasser could ask him anything, which Nasser had reported with something close to respect.
+He had gone to the Bank on Thursday afternoon with nothing in his hands. That was the honest account, and he made himself give it, silently, in the words he would have used to his father. He had asked for the meeting on the Tuesday night from this table, within an hour of Whitlock leaving, and had been given Thursday at three: a deputy governor, two people from the side of the Bank that watched clearing houses, a room on the second floor with a portrait in it, tea. <!-- VERIFY: a sovereign fund's head would plausibly be received at deputy-governor level at short notice during a crisis; the room is invented --> He had been meant to bring a page with twelve names on it and an order, and the man who had the page. On Wednesday evening, when Nasser had rung the number the office had on a visitor's slip, Whitlock had said that the page had been in the bag, and the bag was gone, and he was rebuilding it, and had rung off before Nasser could ask him anything, which Nasser had reported with something close to respect.
 
 So Khalid had gone to the Bank with a proposal and no map. He had said what he could say. That the fund was prepared, in principle, to bring a part of its proceeds back into London to buy what certain clearing members would shortly be forced to sell, at the moment they were forced to sell it, if the Bank would lend against the purchases the same morning and if the Treasury stood behind the Bank. He had said that he had reason to believe the order of those sales could be known in advance. He had not said how. He had not said the name of the man, though they knew it; he had not said that the man had lost the thing that made him worth listening to.
 
@@ -73,7 +73,7 @@ Nasser considered. 'The council meets Monday. Consultations, they say, so there 
 
 'Then I have a week in which I am still the fund in London.'
 
-'You have until Monday morning in which you are the fund in London with authority, sir. After that you are a man awaiting consultations.'
+'You have until the council sits on Wednesday morning in which you are the fund in London with authority, sir. After that you are a man awaiting consultations.'
 
 'Yes,' Khalid said. 'I know the difference. I am going to ask you to pretend, for three days, that you do not.'
 

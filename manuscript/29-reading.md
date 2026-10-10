@@ -9,7 +9,7 @@ Wednesday. The rucksack was black and old and had a tear in one shoulder strap t
 
 'You've read them.'
 
-'I've read enough to know what I was carrying.' Her hands were in her coat pockets. 'I told you on Monday that I'd have them by the weekend. It's Wednesday. The invoice will follow.'
+'I've read enough to know what I was carrying.' Her hands were in her coat pockets. 'You told me on Monday you wanted them by the weekend. It's Wednesday. The invoice will follow.'
 
 In two years she had never once referred to money in his room. He noted it and, since the rucksack was on his desk, let it go.
 
@@ -41,9 +41,11 @@ His assistant brought coffee at eleven and did not speak. The floor hummed throu
 
 The second book had the entry he had heard about and not seen. #212. Two members, the same line, the same morning, both saying timing, both paying cash at nine and swapping bonds back in within four minutes of each other at ten past three. The man had written: *I think it is one bond, going round. I cannot prove that.* Crane read it twice. It was good. It was exactly right, and it had been exactly right 1,200 days ago, and the man had closed the book and gone to bed.
 
-The fourth book had the memo. #304: a date, a title that Crane thought rather fine, the recipients, the covering phrase, *one analyst's view*, and the sentence about three years. And then, three weeks later, an entry that Crane read standing up, because he had got up to stretch and had not sat down again.
+The third book had the memo. #304: a date, a title that Crane thought rather fine, the recipients, the covering phrase, *one analyst's view*, and the sentence about three years. And then, three weeks later, an entry that Crane read standing up, because he had got up to stretch and had not sat down again.
 
-*Graham says the Treasury have noted it. He was relieved. I will put down what I have not put down. So was I.*
+*Graham says the Treasury have noted it. He was relieved. He paid for the coffee.*
+
+And in the ninth book, on the page before the one with the four lines about turning forty, the sentence the earlier entry had not finished: *I will put down something I have never put down: so was I.* Three years to say it.
 
 Crane put the book down and went to the window. A warden was writing a ticket in the quiet street. He had spent twenty-five years being told by men like the one in these books that he was lucky, and had come to understand that they were describing themselves: a man who believes in luck is a man who has seen the thing coming and decided that seeing was enough. Here was one who had seen it at thirty-six, written it down at thirty-seven, been *relieved* when nobody listened, and gone on seeing it for three more years, every night, in a hand that never shook, and had never once in 1,400 evenings done anything about it that could not be filed.
 

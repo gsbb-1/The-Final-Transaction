@@ -141,11 +141,15 @@ He did not laugh. He sat on the arm of the sofa, where he sits, and said: 'The t
 
 Not him. Nasser. The voice of a man who had decided about me on a carpet and had not revised it.
 
-'Mr Whitlock. Mr Al-Mansouri asked me to tell you himself but he is in a car. The Bank has agreed to meet. Tomorrow. Thursday, in the evening; you will be told the hour, the door and who will bring you in. He asks me to say that he does not expect to be in London many more days and that this may be the only occasion.' A pause that was not a pause; he was reading the next line. 'He asks that you bring the page.'
+'Mr Whitlock. Mr Al-Mansouri asked me to tell you himself but he is in a car. The Bank has agreed to meet. Tomorrow. Thursday, at three; you will be told the door and who will bring you in. He asks me to say that he does not expect to be in London many more days and that this may be the only occasion.' A pause that was not a pause; he was reading the next line. 'He asks that you bring the page.'
 
 I said nothing for long enough that he said my name again.
 
-'I'll be there,' I said.
+'The page was in the bag,' I said. 'The bag is gone. I'm rebuilding it.'
+
+A silence that cost him something. 'Then Mr Al-Mansouri goes alone. The Bank will not see a man with nothing in his hands, and it will not see him twice.'
+
+'Tell him I'll have it by Sunday.' I rang off before he could ask me what I had.
 
 'And the page, Mr Whitlock.'
 
@@ -155,4 +159,4 @@ He rang off. 7.54.
 
 Priya had heard it. Everyone in this kitchen heard it. She looked at the red book with its twelve words and the pad with four of them filled in, and she said, 'Well. You've got until tomorrow evening to have a head worth taking into the Bank of England.'
 
-Elsie. On Thursday your father is going to walk into the Bank of England with a stranger's page, four names he can swear to, eight he can't, and a sentence he has written 1,414 times. *I cannot prove it.* He has never been so sure of it, and it has never been so true.
+Elsie. On Thursday a man your father has met once is going to walk into the Bank of England without the page, and your father is going to sit in a room south of the river rebuilding it from four names he can swear to, eight he can't, and a sentence he has written 1,414 times. *I cannot prove it.* He has never been so sure of it, and it has never been so true.

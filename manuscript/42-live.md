@@ -29,7 +29,7 @@ The paper has a studio. He has mentioned it twice this week as a man mentions th
 
 He sat down.
 
-'I'm going to tell you what happens,' he said, 'and I'm going to do it the way I did the phone in Clerkenwell, because you listened then. Our lawyers will try to stop it. Not at six; they'll be asleep at six, and that's the only reason it goes out at all. But the moment the desk tells them, which the desk will have to, because I am not putting a wanted man in front of a live camera without the editor knowing, they will say three things. One: you are about to name twelve banks, on air, as about to fail, which is the one thing nobody in this country is permitted to say about a bank, true or not. Two: you are about to call a man a party to the sinking of a ship, with a brown envelope you got in a stairwell from a woman who has been following you for a fortnight. Three: Priya's on bail, you're subject to an order, the paper is already in it up to the neck, and if the editor says yes it's his licence and his pension. They will say all that and they will be right.'
+'I'm going to tell you what happens,' he said, 'and I'm going to do it the way I did the phone in Clerkenwell, because you listened then. Our lawyers will try to stop it. Not at six; they'll be asleep at six, and that's the only reason it goes out at all. But the moment the desk tells them, which the desk will have to, because I am not putting a wanted man in front of a live camera without the editor knowing, they will say three things. One: you are about to name twelve banks, on air, as about to fail, which is the one thing nobody in this country is permitted to say about a bank, true or not. Two: you are about to call a man a party to the sinking of a ship, with a brown envelope you got on this doorstep from a woman who has been following you for a fortnight. Three: Priya's on bail, you're subject to an order, the paper is already in it up to the neck, and if the editor says yes it's his licence and his pension. They will say all that and they will be right.'
 
 'Yes.'
 
@@ -47,7 +47,7 @@ The kettle had boiled and clicked and neither of us had moved. Through the bedro
 
 'Because the Bank and the exchanges can hold London's open if they're given a reason before it, and not after. Because the banks' calls go out at eight and the direct debits land at nine and a clearing house that cannot pay has to say so to the Bank before then, and nobody gets to be told "later" this morning. Because a man with the money has to know where to put it before seven. And because she needs to be told in a way she can't have handled at official level in the normal way. At six she'll be awake. At six there's no one between her and the screen.'
 
-'Tokyo's been open five hours.'
+'Sydney's just opened.'
 
 'Tokyo isn't where the clearing house is.'
 
