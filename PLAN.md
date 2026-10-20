@@ -59,7 +59,28 @@ outline/      synopsis, act breakdown, chapter-by-chapter outline
 characters/   one profile per major character
 research/     finance mechanics, locations, procedures, sources
 notes/        ideas, cut scenes, loose material
+build/        the typeset-PDF build: script, preamble, filter
 ```
+
+## Typeset PDF
+
+The whole manuscript is typeset as a single PDF, for the author's read-through and for beta readers. It is generated from `manuscript/` and is never edited by hand: change the Markdown, then rebuild.
+
+| | |
+| --- | --- |
+| Build | `build/make-pdf.sh` (pandoc, with tectonic as the PDF engine) |
+| Output | `build/the-final-transaction.pdf` |
+| Layout | A4, 12pt Charter, mirrored margins, title page and contents list, running heads |
+| Extent | 361 pages for `draft-1`, about 313 words a page |
+| Engine | `tectonic` (XeTeX). It fetches its TeX bundle on first run, so the first build needs a network connection; later builds are cached |
+
+| File | Purpose |
+| --- | --- |
+| `build/make-pdf.sh` | The build: page setup, title-page metadata, font choice |
+| `build/header.tex` | Preamble: paragraph style, leading, running heads, contents list |
+| `build/chapter-prefix.lua` | Drops the `Chapter N:` prefix from the headings so LaTeX numbers the chapters itself |
+
+The leading is set in `build/header.tex` (`\bookstretch`); `FONTSIZE` and `GEOMETRY` environment variables override the page setup set in `build/make-pdf.sh`.
 
 ## Research areas
 
@@ -80,6 +101,7 @@ Record significant decisions here, newest first.
 
 | Date | Decision | Why |
 | --- | --- | --- |
+| 2026-10-20 | The manuscript is typeset as a single PDF by `build/make-pdf.sh` (pandoc + tectonic): A4, 12pt Charter, mirrored margins, title page, contents list, running heads, 361 pages for `draft-1`. The page setup reads like a novel rather than a script | Author asked for the manuscript compiled to a PDF. The layout was tuned to the book rather than to the tool: at the first pass, 11pt on narrow margins came out at 238 pages, well short of the ~400-page target, so the measure, leading and margins were widened |
 | 2026-10-10 | Iteration 4 and `draft-1`. Act III revised in the brief (`notes/act-3-drafting-brief.md`): the broadcast and arrest, the indemnity signed at 7.02, release at 8.14, the transaction built in the fund's St James's dealing room and executed from Walbrook's risk room (Walbrook had cut its data and file links at six; voice and settlement stayed), the thirteenth member, the pursuit, Laura and Kessler at Aisha's, Crane's warrant. Polling day Thursday #1436; the last entry #1500 on Friday 8 January; Jonas numbers days, not pages; no stand-alone entry-number line in any chapter; Strand is twelve years at the Bar and fourteen in the House | Author asked for iteration 4. Dates fixed so Australian daylight saving fits the early-October setting |
 | 2026-10-09 | Iteration 2 begun. Research decisions (`research/corrections-from-research.md`): **P1** Jonas never sees the same gilt pledged twice; he reads the fingerprints of over-pledged collateral over four years (paired "timing" fails, cash paid at nine swapped for bonds at three, substitutions, leaked position reports) and infers the chains; the record is a pattern-match that no one can verify and he could be wrong. **P2** "Theft" stays as Walbrook's and the press's word, never a charge; Walbrook goes to court (interim injunction and delivery-up order, heard by phone on Sunday night, served Monday); the police hook is Computer Misuse: on Friday afternoon, after Jonas's access was cut, Priya logged in at his desk and pulled the member report for him, so both are exposed and Priya is the one detained. **P3** Priya is held about 20 hours (Sunday noon to Monday morning), released under investigation with phone and laptop kept and a bail condition not to contact Walbrook staff; nobody, including Jonas, knows where she is until Thursday. **P4** A clearing house has no open to miss: "Walbrook may not be able to meet its obligations; the Bank is considering resolution"; the final transaction runs through an indemnified Bank operation; the Tuesday open is delayed by the Bank and the exchanges, not Walbrook. **P5** The chapter 2 alert goes to a compliance reviewer, then the head of compliance, then Graham; Haldane's "close as personal, no action" stays as later ammunition. Also: the story is set in early October, year unfixed | Author asked for decisions that rely on existing development and maximise suspense. P1 adds doubt (he may be wrong); P2 gives Jonas and Priya a real legal exposure they caused themselves; P3 makes Priya's silence last four days; P4 makes the threat a resolution, which is bigger; P5 keeps Haldane's misconduct |
 | 2026-10-09 | Complete the first draft in four iterations, drafting by subagents from the outline; British English; first-person past-tense entries for Jonas, close third person for others; style guide in `outline/style.md` | Author's instruction to start filling the story and finish the 400-page novel by iteration four |

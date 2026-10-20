@@ -26,6 +26,19 @@ Add further `draft-N` tags if more passes are needed. Corrections after publicat
 - [ ] Draft history entry added below
 - [ ] Tag created: `git tag -a draft-N -m "Draft N"`
 
+## Typeset PDF
+
+A reading copy of the whole manuscript in one PDF, for the author's read-through and for beta readers. It is generated from `manuscript/` and is never edited by hand: change the Markdown, then rebuild with `build/make-pdf.sh`. The build is described in [PLAN.md](PLAN.md).
+
+| | |
+| --- | --- |
+| Output | `build/the-final-transaction.pdf` |
+| Current | Built 2026-10-20 from `draft-1`: 55 chapters, 361 pages, A4 |
+| Contents | Title page, contents list, then the 55 chapters with running heads |
+| Not printed | The `<!-- DRAFT -->` comments in the chapter files |
+
+The PDF is a reading copy, not a submission copy. For a submission or a print interior, set the page size and margins to the target format and rebuild.
+
 ## Publication checklist
 
 The publishing route is not yet decided. Choose one, record the decision in `PLAN.md`, and delete the list that does not apply.
@@ -37,6 +50,7 @@ The publishing route is not yet decided. Choose one, record the decision in `PLA
 - [ ] Synopsis written (one page)
 - [ ] Back-cover blurb written
 - [ ] Author biography written
+- [ ] Typeset PDF rebuilt from the final manuscript and read through
 
 ### Traditional publishing
 
