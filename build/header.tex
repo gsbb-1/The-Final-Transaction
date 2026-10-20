@@ -1,0 +1,54 @@
+% Preamble tweaks for the book build. Loaded via --include-in-header, which
+% pandoc places after its own package setup, so these win.
+
+% Line spacing. Pandoc's template applies this inside the document body; doing
+% it here instead lets the page geometry be computed against the stretched
+% baseline, which stops every page from overflowing the text block.
+\usepackage{setspace}
+\def\bookstretch{1.3}
+\setstretch{\bookstretch}
+
+% Novel paragraph style: first-line indent, no space between paragraphs.
+% Pandoc's template loads parskip, which does the opposite (and is right for
+% reports, not for fiction).
+\setlength{\parindent}{1.2em}
+\setlength{\parskip}{0pt}
+
+% Fixed leading leaves no stretchable glue in the page, so the pages are
+% ragged-bottom in practice; saying so explicitly keeps LaTeX from warning
+% about it on every page.
+\raggedbottom
+
+% The running head is set in italic, which is taller than the upright text
+% the page geometry was computed for. Without the extra room the head pushes
+% the body down and every verso page overflows its text block.
+\setlength{\headheight}{14pt}
+\setlength{\headsep}{18pt}
+
+% Running heads: the book title on the verso, the chapter title on the recto,
+% with the page number in the outer margin. The class puts the chapter title
+% on the verso and nothing at all on the recto. The class applies its own
+% page style before this file is read, so the style has to be re-applied
+% after the redefinition.
+%
+% Pandoc patches \title to add the subtitle, and the patched macro carries a
+% \par, which cannot go into a running head. Keep a plain copy of the title
+% for the head.
+\makeatletter
+\def\title#1{\gdef\@title{#1}\gdef\bookrunningtitle{#1}}
+\renewcommand\ps@headings{%
+  \let\@oddfoot\@empty
+  \let\@evenfoot\@empty
+  \def\@evenhead{\thepage\hfil{\slshape\MakeUppercase{\bookrunningtitle}}}%
+  \def\@oddhead{{\slshape\rightmark}\hfil\thepage}%
+  \def\@mkboth##1##2{\markright{##1}}%
+  \def\chaptermark##1{\markright{##1}}%
+}
+\AtBeginDocument{\pagestyle{headings}}
+
+% Show "Chapter N" in the contents list, not just a bare number. The class
+% typesets the number in a narrow fixed column, which crowds the title once
+% the numbers reach two digits; this lets the label take its natural width
+% and separates it from the title with a quad instead.
+\renewcommand\numberline[1]{Chapter~#1\quad}
+\makeatother
